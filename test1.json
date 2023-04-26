@@ -1,1862 +1,903 @@
 {
-  "default": {
-    "timelineData": [
-      {
-        "time": "1072915200",
-        "formattedTime": "Jan 2004",
-        "formattedAxisTime": "Jan 1, 2004",
-        "value": [21],
-        "hasData": [true],
-        "formattedValue": ["21"]
-      },
-      {
-        "time": "1075593600",
-        "formattedTime": "Feb 2004",
-        "formattedAxisTime": "Feb 1, 2004",
-        "value": [30],
-        "hasData": [true],
-        "formattedValue": ["30"]
-      },
-      {
-        "time": "1078099200",
-        "formattedTime": "Mar 2004",
-        "formattedAxisTime": "Mar 1, 2004",
-        "value": [67],
-        "hasData": [true],
-        "formattedValue": ["67"]
-      },
-      {
-        "time": "1080777600",
-        "formattedTime": "Apr 2004",
-        "formattedAxisTime": "Apr 1, 2004",
-        "value": [49],
-        "hasData": [true],
-        "formattedValue": ["49"]
-      },
-      {
-        "time": "1083369600",
-        "formattedTime": "May 2004",
-        "formattedAxisTime": "May 1, 2004",
-        "value": [49],
-        "hasData": [true],
-        "formattedValue": ["49"]
-      },
-      {
-        "time": "1086048000",
-        "formattedTime": "Jun 2004",
-        "formattedAxisTime": "Jun 1, 2004",
-        "value": [26],
-        "hasData": [true],
-        "formattedValue": ["26"]
-      },
-      {
-        "time": "1088640000",
-        "formattedTime": "Jul 2004",
-        "formattedAxisTime": "Jul 1, 2004",
-        "value": [5],
-        "hasData": [true],
-        "formattedValue": ["5"]
-      },
-      {
-        "time": "1091318400",
-        "formattedTime": "Aug 2004",
-        "formattedAxisTime": "Aug 1, 2004",
-        "value": [18],
-        "hasData": [true],
-        "formattedValue": ["18"]
-      },
-      {
-        "time": "1093996800",
-        "formattedTime": "Sep 2004",
-        "formattedAxisTime": "Sep 1, 2004",
-        "value": [33],
-        "hasData": [true],
-        "formattedValue": ["33"]
-      },
-      {
-        "time": "1096588800",
-        "formattedTime": "Oct 2004",
-        "formattedAxisTime": "Oct 1, 2004",
-        "value": [32],
-        "hasData": [true],
-        "formattedValue": ["32"]
-      },
-      {
-        "time": "1099267200",
-        "formattedTime": "Nov 2004",
-        "formattedAxisTime": "Nov 1, 2004",
-        "value": [35],
-        "hasData": [true],
-        "formattedValue": ["35"]
-      },
-      {
-        "time": "1101859200",
-        "formattedTime": "Dec 2004",
-        "formattedAxisTime": "Dec 1, 2004",
-        "value": [46],
-        "hasData": [true],
-        "formattedValue": ["46"]
-      },
-      {
-        "time": "1104537600",
-        "formattedTime": "Jan 2005",
-        "formattedAxisTime": "Jan 1, 2005",
-        "value": [54],
-        "hasData": [true],
-        "formattedValue": ["54"]
-      },
-      {
-        "time": "1107216000",
-        "formattedTime": "Feb 2005",
-        "formattedAxisTime": "Feb 1, 2005",
-        "value": [68],
-        "hasData": [true],
-        "formattedValue": ["68"]
-      },
-      {
-        "time": "1109635200",
-        "formattedTime": "Mar 2005",
-        "formattedAxisTime": "Mar 1, 2005",
-        "value": [93],
-        "hasData": [true],
-        "formattedValue": ["93"]
-      },
-      {
-        "time": "1112313600",
-        "formattedTime": "Apr 2005",
-        "formattedAxisTime": "Apr 1, 2005",
-        "value": [80],
-        "hasData": [true],
-        "formattedValue": ["80"]
-      },
-      {
-        "time": "1114905600",
-        "formattedTime": "May 2005",
-        "formattedAxisTime": "May 1, 2005",
-        "value": [80],
-        "hasData": [true],
-        "formattedValue": ["80"]
-      },
-      {
-        "time": "1117584000",
-        "formattedTime": "Jun 2005",
-        "formattedAxisTime": "Jun 1, 2005",
-        "value": [31],
-        "hasData": [true],
-        "formattedValue": ["31"]
-      },
-      {
-        "time": "1120176000",
-        "formattedTime": "Jul 2005",
-        "formattedAxisTime": "Jul 1, 2005",
-        "value": [11],
-        "hasData": [true],
-        "formattedValue": ["11"]
-      },
-      {
-        "time": "1122854400",
-        "formattedTime": "Aug 2005",
-        "formattedAxisTime": "Aug 1, 2005",
-        "value": [16],
-        "hasData": [true],
-        "formattedValue": ["16"]
-      },
-      {
-        "time": "1125532800",
-        "formattedTime": "Sep 2005",
-        "formattedAxisTime": "Sep 1, 2005",
-        "value": [36],
-        "hasData": [true],
-        "formattedValue": ["36"]
-      },
-      {
-        "time": "1128124800",
-        "formattedTime": "Oct 2005",
-        "formattedAxisTime": "Oct 1, 2005",
-        "value": [40],
-        "hasData": [true],
-        "formattedValue": ["40"]
-      },
-      {
-        "time": "1130803200",
-        "formattedTime": "Nov 2005",
-        "formattedAxisTime": "Nov 1, 2005",
-        "value": [45],
-        "hasData": [true],
-        "formattedValue": ["45"]
-      },
-      {
-        "time": "1133395200",
-        "formattedTime": "Dec 2005",
-        "formattedAxisTime": "Dec 1, 2005",
-        "value": [46],
-        "hasData": [true],
-        "formattedValue": ["46"]
-      },
-      {
-        "time": "1136073600",
-        "formattedTime": "Jan 2006",
-        "formattedAxisTime": "Jan 1, 2006",
-        "value": [48],
-        "hasData": [true],
-        "formattedValue": ["48"]
-      },
-      {
-        "time": "1138752000",
-        "formattedTime": "Feb 2006",
-        "formattedAxisTime": "Feb 1, 2006",
-        "value": [81],
-        "hasData": [true],
-        "formattedValue": ["81"]
-      },
-      {
-        "time": "1141171200",
-        "formattedTime": "Mar 2006",
-        "formattedAxisTime": "Mar 1, 2006",
-        "value": [100],
-        "hasData": [true],
-        "formattedValue": ["100"]
-      },
-      {
-        "time": "1143849600",
-        "formattedTime": "Apr 2006",
-        "formattedAxisTime": "Apr 1, 2006",
-        "value": [88],
-        "hasData": [true],
-        "formattedValue": ["88"]
-      },
-      {
-        "time": "1146441600",
-        "formattedTime": "May 2006",
-        "formattedAxisTime": "May 1, 2006",
-        "value": [78],
-        "hasData": [true],
-        "formattedValue": ["78"]
-      },
-      {
-        "time": "1149120000",
-        "formattedTime": "Jun 2006",
-        "formattedAxisTime": "Jun 1, 2006",
-        "value": [32],
-        "hasData": [true],
-        "formattedValue": ["32"]
-      },
-      {
-        "time": "1151712000",
-        "formattedTime": "Jul 2006",
-        "formattedAxisTime": "Jul 1, 2006",
-        "value": [14],
-        "hasData": [true],
-        "formattedValue": ["14"]
-      },
-      {
-        "time": "1154390400",
-        "formattedTime": "Aug 2006",
-        "formattedAxisTime": "Aug 1, 2006",
-        "value": [15],
-        "hasData": [true],
-        "formattedValue": ["15"]
-      },
-      {
-        "time": "1157068800",
-        "formattedTime": "Sep 2006",
-        "formattedAxisTime": "Sep 1, 2006",
-        "value": [39],
-        "hasData": [true],
-        "formattedValue": ["39"]
-      },
-      {
-        "time": "1159660800",
-        "formattedTime": "Oct 2006",
-        "formattedAxisTime": "Oct 1, 2006",
-        "value": [40],
-        "hasData": [true],
-        "formattedValue": ["40"]
-      },
-      {
-        "time": "1162339200",
-        "formattedTime": "Nov 2006",
-        "formattedAxisTime": "Nov 1, 2006",
-        "value": [54],
-        "hasData": [true],
-        "formattedValue": ["54"]
-      },
-      {
-        "time": "1164931200",
-        "formattedTime": "Dec 2006",
-        "formattedAxisTime": "Dec 1, 2006",
-        "value": [44],
-        "hasData": [true],
-        "formattedValue": ["44"]
-      },
-      {
-        "time": "1167609600",
-        "formattedTime": "Jan 2007",
-        "formattedAxisTime": "Jan 1, 2007",
-        "value": [51],
-        "hasData": [true],
-        "formattedValue": ["51"]
-      },
-      {
-        "time": "1170288000",
-        "formattedTime": "Feb 2007",
-        "formattedAxisTime": "Feb 1, 2007",
-        "value": [73],
-        "hasData": [true],
-        "formattedValue": ["73"]
-      },
-      {
-        "time": "1172707200",
-        "formattedTime": "Mar 2007",
-        "formattedAxisTime": "Mar 1, 2007",
-        "value": [81],
-        "hasData": [true],
-        "formattedValue": ["81"]
-      },
-      {
-        "time": "1175385600",
-        "formattedTime": "Apr 2007",
-        "formattedAxisTime": "Apr 1, 2007",
-        "value": [88],
-        "hasData": [true],
-        "formattedValue": ["88"]
-      },
-      {
-        "time": "1177977600",
-        "formattedTime": "May 2007",
-        "formattedAxisTime": "May 1, 2007",
-        "value": [85],
-        "hasData": [true],
-        "formattedValue": ["85"]
-      },
-      {
-        "time": "1180656000",
-        "formattedTime": "Jun 2007",
-        "formattedAxisTime": "Jun 1, 2007",
-        "value": [27],
-        "hasData": [true],
-        "formattedValue": ["27"]
-      },
-      {
-        "time": "1183248000",
-        "formattedTime": "Jul 2007",
-        "formattedAxisTime": "Jul 1, 2007",
-        "value": [15],
-        "hasData": [true],
-        "formattedValue": ["15"]
-      },
-      {
-        "time": "1185926400",
-        "formattedTime": "Aug 2007",
-        "formattedAxisTime": "Aug 1, 2007",
-        "value": [14],
-        "hasData": [true],
-        "formattedValue": ["14"]
-      },
-      {
-        "time": "1188604800",
-        "formattedTime": "Sep 2007",
-        "formattedAxisTime": "Sep 1, 2007",
-        "value": [37],
-        "hasData": [true],
-        "formattedValue": ["37"]
-      },
-      {
-        "time": "1191196800",
-        "formattedTime": "Oct 2007",
-        "formattedAxisTime": "Oct 1, 2007",
-        "value": [39],
-        "hasData": [true],
-        "formattedValue": ["39"]
-      },
-      {
-        "time": "1193875200",
-        "formattedTime": "Nov 2007",
-        "formattedAxisTime": "Nov 1, 2007",
-        "value": [45],
-        "hasData": [true],
-        "formattedValue": ["45"]
-      },
-      {
-        "time": "1196467200",
-        "formattedTime": "Dec 2007",
-        "formattedAxisTime": "Dec 1, 2007",
-        "value": [47],
-        "hasData": [true],
-        "formattedValue": ["47"]
-      },
-      {
-        "time": "1199145600",
-        "formattedTime": "Jan 2008",
-        "formattedAxisTime": "Jan 1, 2008",
-        "value": [47],
-        "hasData": [true],
-        "formattedValue": ["47"]
-      },
-      {
-        "time": "1201824000",
-        "formattedTime": "Feb 2008",
-        "formattedAxisTime": "Feb 1, 2008",
-        "value": [71],
-        "hasData": [true],
-        "formattedValue": ["71"]
-      },
-      {
-        "time": "1204329600",
-        "formattedTime": "Mar 2008",
-        "formattedAxisTime": "Mar 1, 2008",
-        "value": [84],
-        "hasData": [true],
-        "formattedValue": ["84"]
-      },
-      {
-        "time": "1207008000",
-        "formattedTime": "Apr 2008",
-        "formattedAxisTime": "Apr 1, 2008",
-        "value": [88],
-        "hasData": [true],
-        "formattedValue": ["88"]
-      },
-      {
-        "time": "1209600000",
-        "formattedTime": "May 2008",
-        "formattedAxisTime": "May 1, 2008",
-        "value": [87],
-        "hasData": [true],
-        "formattedValue": ["87"]
-      },
-      {
-        "time": "1212278400",
-        "formattedTime": "Jun 2008",
-        "formattedAxisTime": "Jun 1, 2008",
-        "value": [37],
-        "hasData": [true],
-        "formattedValue": ["37"]
-      },
-      {
-        "time": "1214870400",
-        "formattedTime": "Jul 2008",
-        "formattedAxisTime": "Jul 1, 2008",
-        "value": [13],
-        "hasData": [true],
-        "formattedValue": ["13"]
-      },
-      {
-        "time": "1217548800",
-        "formattedTime": "Aug 2008",
-        "formattedAxisTime": "Aug 1, 2008",
-        "value": [20],
-        "hasData": [true],
-        "formattedValue": ["20"]
-      },
-      {
-        "time": "1220227200",
-        "formattedTime": "Sep 2008",
-        "formattedAxisTime": "Sep 1, 2008",
-        "value": [41],
-        "hasData": [true],
-        "formattedValue": ["41"]
-      },
-      {
-        "time": "1222819200",
-        "formattedTime": "Oct 2008",
-        "formattedAxisTime": "Oct 1, 2008",
-        "value": [43],
-        "hasData": [true],
-        "formattedValue": ["43"]
-      },
-      {
-        "time": "1225497600",
-        "formattedTime": "Nov 2008",
-        "formattedAxisTime": "Nov 1, 2008",
-        "value": [53],
-        "hasData": [true],
-        "formattedValue": ["53"]
-      },
-      {
-        "time": "1228089600",
-        "formattedTime": "Dec 2008",
-        "formattedAxisTime": "Dec 1, 2008",
-        "value": [46],
-        "hasData": [true],
-        "formattedValue": ["46"]
-      },
-      {
-        "time": "1230768000",
-        "formattedTime": "Jan 2009",
-        "formattedAxisTime": "Jan 1, 2009",
-        "value": [48],
-        "hasData": [true],
-        "formattedValue": ["48"]
-      },
-      {
-        "time": "1233446400",
-        "formattedTime": "Feb 2009",
-        "formattedAxisTime": "Feb 1, 2009",
-        "value": [65],
-        "hasData": [true],
-        "formattedValue": ["65"]
-      },
-      {
-        "time": "1235865600",
-        "formattedTime": "Mar 2009",
-        "formattedAxisTime": "Mar 1, 2009",
-        "value": [87],
-        "hasData": [true],
-        "formattedValue": ["87"]
-      },
-      {
-        "time": "1238544000",
-        "formattedTime": "Apr 2009",
-        "formattedAxisTime": "Apr 1, 2009",
-        "value": [79],
-        "hasData": [true],
-        "formattedValue": ["79"]
-      },
-      {
-        "time": "1241136000",
-        "formattedTime": "May 2009",
-        "formattedAxisTime": "May 1, 2009",
-        "value": [85],
-        "hasData": [true],
-        "formattedValue": ["85"]
-      },
-      {
-        "time": "1243814400",
-        "formattedTime": "Jun 2009",
-        "formattedAxisTime": "Jun 1, 2009",
-        "value": [30],
-        "hasData": [true],
-        "formattedValue": ["30"]
-      },
-      {
-        "time": "1246406400",
-        "formattedTime": "Jul 2009",
-        "formattedAxisTime": "Jul 1, 2009",
-        "value": [20],
-        "hasData": [true],
-        "formattedValue": ["20"]
-      },
-      {
-        "time": "1249084800",
-        "formattedTime": "Aug 2009",
-        "formattedAxisTime": "Aug 1, 2009",
-        "value": [24],
-        "hasData": [true],
-        "formattedValue": ["24"]
-      },
-      {
-        "time": "1251763200",
-        "formattedTime": "Sep 2009",
-        "formattedAxisTime": "Sep 1, 2009",
-        "value": [39],
-        "hasData": [true],
-        "formattedValue": ["39"]
-      },
-      {
-        "time": "1254355200",
-        "formattedTime": "Oct 2009",
-        "formattedAxisTime": "Oct 1, 2009",
-        "value": [50],
-        "hasData": [true],
-        "formattedValue": ["50"]
-      },
-      {
-        "time": "1257033600",
-        "formattedTime": "Nov 2009",
-        "formattedAxisTime": "Nov 1, 2009",
-        "value": [59],
-        "hasData": [true],
-        "formattedValue": ["59"]
-      },
-      {
-        "time": "1259625600",
-        "formattedTime": "Dec 2009",
-        "formattedAxisTime": "Dec 1, 2009",
-        "value": [46],
-        "hasData": [true],
-        "formattedValue": ["46"]
-      },
-      {
-        "time": "1262304000",
-        "formattedTime": "Jan 2010",
-        "formattedAxisTime": "Jan 1, 2010",
-        "value": [50],
-        "hasData": [true],
-        "formattedValue": ["50"]
-      },
-      {
-        "time": "1264982400",
-        "formattedTime": "Feb 2010",
-        "formattedAxisTime": "Feb 1, 2010",
-        "value": [61],
-        "hasData": [true],
-        "formattedValue": ["61"]
-      },
-      {
-        "time": "1267401600",
-        "formattedTime": "Mar 2010",
-        "formattedAxisTime": "Mar 1, 2010",
-        "value": [76],
-        "hasData": [true],
-        "formattedValue": ["76"]
-      },
-      {
-        "time": "1270080000",
-        "formattedTime": "Apr 2010",
-        "formattedAxisTime": "Apr 1, 2010",
-        "value": [81],
-        "hasData": [true],
-        "formattedValue": ["81"]
-      },
-      {
-        "time": "1272672000",
-        "formattedTime": "May 2010",
-        "formattedAxisTime": "May 1, 2010",
-        "value": [74],
-        "hasData": [true],
-        "formattedValue": ["74"]
-      },
-      {
-        "time": "1275350400",
-        "formattedTime": "Jun 2010",
-        "formattedAxisTime": "Jun 1, 2010",
-        "value": [35],
-        "hasData": [true],
-        "formattedValue": ["35"]
-      },
-      {
-        "time": "1277942400",
-        "formattedTime": "Jul 2010",
-        "formattedAxisTime": "Jul 1, 2010",
-        "value": [19],
-        "hasData": [true],
-        "formattedValue": ["19"]
-      },
-      {
-        "time": "1280620800",
-        "formattedTime": "Aug 2010",
-        "formattedAxisTime": "Aug 1, 2010",
-        "value": [22],
-        "hasData": [true],
-        "formattedValue": ["22"]
-      },
-      {
-        "time": "1283299200",
-        "formattedTime": "Sep 2010",
-        "formattedAxisTime": "Sep 1, 2010",
-        "value": [37],
-        "hasData": [true],
-        "formattedValue": ["37"]
-      },
-      {
-        "time": "1285891200",
-        "formattedTime": "Oct 2010",
-        "formattedAxisTime": "Oct 1, 2010",
-        "value": [40],
-        "hasData": [true],
-        "formattedValue": ["40"]
-      },
-      {
-        "time": "1288569600",
-        "formattedTime": "Nov 2010",
-        "formattedAxisTime": "Nov 1, 2010",
-        "value": [51],
-        "hasData": [true],
-        "formattedValue": ["51"]
-      },
-      {
-        "time": "1291161600",
-        "formattedTime": "Dec 2010",
-        "formattedAxisTime": "Dec 1, 2010",
-        "value": [44],
-        "hasData": [true],
-        "formattedValue": ["44"]
-      },
-      {
-        "time": "1293840000",
-        "formattedTime": "Jan 2011",
-        "formattedAxisTime": "Jan 1, 2011",
-        "value": [39],
-        "hasData": [true],
-        "formattedValue": ["39"]
-      },
-      {
-        "time": "1296518400",
-        "formattedTime": "Feb 2011",
-        "formattedAxisTime": "Feb 1, 2011",
-        "value": [51],
-        "hasData": [true],
-        "formattedValue": ["51"]
-      },
-      {
-        "time": "1298937600",
-        "formattedTime": "Mar 2011",
-        "formattedAxisTime": "Mar 1, 2011",
-        "value": [68],
-        "hasData": [true],
-        "formattedValue": ["68"]
-      },
-      {
-        "time": "1301616000",
-        "formattedTime": "Apr 2011",
-        "formattedAxisTime": "Apr 1, 2011",
-        "value": [57],
-        "hasData": [true],
-        "formattedValue": ["57"]
-      },
-      {
-        "time": "1304208000",
-        "formattedTime": "May 2011",
-        "formattedAxisTime": "May 1, 2011",
-        "value": [59],
-        "hasData": [true],
-        "formattedValue": ["59"]
-      },
-      {
-        "time": "1306886400",
-        "formattedTime": "Jun 2011",
-        "formattedAxisTime": "Jun 1, 2011",
-        "value": [27],
-        "hasData": [true],
-        "formattedValue": ["27"]
-      },
-      {
-        "time": "1309478400",
-        "formattedTime": "Jul 2011",
-        "formattedAxisTime": "Jul 1, 2011",
-        "value": [19],
-        "hasData": [true],
-        "formattedValue": ["19"]
-      },
-      {
-        "time": "1312156800",
-        "formattedTime": "Aug 2011",
-        "formattedAxisTime": "Aug 1, 2011",
-        "value": [22],
-        "hasData": [true],
-        "formattedValue": ["22"]
-      },
-      {
-        "time": "1314835200",
-        "formattedTime": "Sep 2011",
-        "formattedAxisTime": "Sep 1, 2011",
-        "value": [34],
-        "hasData": [true],
-        "formattedValue": ["34"]
-      },
-      {
-        "time": "1317427200",
-        "formattedTime": "Oct 2011",
-        "formattedAxisTime": "Oct 1, 2011",
-        "value": [34],
-        "hasData": [true],
-        "formattedValue": ["34"]
-      },
-      {
-        "time": "1320105600",
-        "formattedTime": "Nov 2011",
-        "formattedAxisTime": "Nov 1, 2011",
-        "value": [50],
-        "hasData": [true],
-        "formattedValue": ["50"]
-      },
-      {
-        "time": "1322697600",
-        "formattedTime": "Dec 2011",
-        "formattedAxisTime": "Dec 1, 2011",
-        "value": [47],
-        "hasData": [true],
-        "formattedValue": ["47"]
-      },
-      {
-        "time": "1325376000",
-        "formattedTime": "Jan 2012",
-        "formattedAxisTime": "Jan 1, 2012",
-        "value": [43],
-        "hasData": [true],
-        "formattedValue": ["43"]
-      },
-      {
-        "time": "1328054400",
-        "formattedTime": "Feb 2012",
-        "formattedAxisTime": "Feb 1, 2012",
-        "value": [50],
-        "hasData": [true],
-        "formattedValue": ["50"]
-      },
-      {
-        "time": "1330560000",
-        "formattedTime": "Mar 2012",
-        "formattedAxisTime": "Mar 1, 2012",
-        "value": [59],
-        "hasData": [true],
-        "formattedValue": ["59"]
-      },
-      {
-        "time": "1333238400",
-        "formattedTime": "Apr 2012",
-        "formattedAxisTime": "Apr 1, 2012",
-        "value": [59],
-        "hasData": [true],
-        "formattedValue": ["59"]
-      },
-      {
-        "time": "1335830400",
-        "formattedTime": "May 2012",
-        "formattedAxisTime": "May 1, 2012",
-        "value": [62],
-        "hasData": [true],
-        "formattedValue": ["62"]
-      },
-      {
-        "time": "1338508800",
-        "formattedTime": "Jun 2012",
-        "formattedAxisTime": "Jun 1, 2012",
-        "value": [32],
-        "hasData": [true],
-        "formattedValue": ["32"]
-      },
-      {
-        "time": "1341100800",
-        "formattedTime": "Jul 2012",
-        "formattedAxisTime": "Jul 1, 2012",
-        "value": [19],
-        "hasData": [true],
-        "formattedValue": ["19"]
-      },
-      {
-        "time": "1343779200",
-        "formattedTime": "Aug 2012",
-        "formattedAxisTime": "Aug 1, 2012",
-        "value": [19],
-        "hasData": [true],
-        "formattedValue": ["19"]
-      },
-      {
-        "time": "1346457600",
-        "formattedTime": "Sep 2012",
-        "formattedAxisTime": "Sep 1, 2012",
-        "value": [30],
-        "hasData": [true],
-        "formattedValue": ["30"]
-      },
-      {
-        "time": "1349049600",
-        "formattedTime": "Oct 2012",
-        "formattedAxisTime": "Oct 1, 2012",
-        "value": [37],
-        "hasData": [true],
-        "formattedValue": ["37"]
-      },
-      {
-        "time": "1351728000",
-        "formattedTime": "Nov 2012",
-        "formattedAxisTime": "Nov 1, 2012",
-        "value": [57],
-        "hasData": [true],
-        "formattedValue": ["57"]
-      },
-      {
-        "time": "1354320000",
-        "formattedTime": "Dec 2012",
-        "formattedAxisTime": "Dec 1, 2012",
-        "value": [48],
-        "hasData": [true],
-        "formattedValue": ["48"]
-      },
-      {
-        "time": "1356998400",
-        "formattedTime": "Jan 2013",
-        "formattedAxisTime": "Jan 1, 2013",
-        "value": [46],
-        "hasData": [true],
-        "formattedValue": ["46"]
-      },
-      {
-        "time": "1359676800",
-        "formattedTime": "Feb 2013",
-        "formattedAxisTime": "Feb 1, 2013",
-        "value": [55],
-        "hasData": [true],
-        "formattedValue": ["55"]
-      },
-      {
-        "time": "1362096000",
-        "formattedTime": "Mar 2013",
-        "formattedAxisTime": "Mar 1, 2013",
-        "value": [52],
-        "hasData": [true],
-        "formattedValue": ["52"]
-      },
-      {
-        "time": "1364774400",
-        "formattedTime": "Apr 2013",
-        "formattedAxisTime": "Apr 1, 2013",
-        "value": [54],
-        "hasData": [true],
-        "formattedValue": ["54"]
-      },
-      {
-        "time": "1367366400",
-        "formattedTime": "May 2013",
-        "formattedAxisTime": "May 1, 2013",
-        "value": [53],
-        "hasData": [true],
-        "formattedValue": ["53"]
-      },
-      {
-        "time": "1370044800",
-        "formattedTime": "Jun 2013",
-        "formattedAxisTime": "Jun 1, 2013",
-        "value": [28],
-        "hasData": [true],
-        "formattedValue": ["28"]
-      },
-      {
-        "time": "1372636800",
-        "formattedTime": "Jul 2013",
-        "formattedAxisTime": "Jul 1, 2013",
-        "value": [17],
-        "hasData": [true],
-        "formattedValue": ["17"]
-      },
-      {
-        "time": "1375315200",
-        "formattedTime": "Aug 2013",
-        "formattedAxisTime": "Aug 1, 2013",
-        "value": [21],
-        "hasData": [true],
-        "formattedValue": ["21"]
-      },
-      {
-        "time": "1377993600",
-        "formattedTime": "Sep 2013",
-        "formattedAxisTime": "Sep 1, 2013",
-        "value": [31],
-        "hasData": [true],
-        "formattedValue": ["31"]
-      },
-      {
-        "time": "1380585600",
-        "formattedTime": "Oct 2013",
-        "formattedAxisTime": "Oct 1, 2013",
-        "value": [42],
-        "hasData": [true],
-        "formattedValue": ["42"]
-      },
-      {
-        "time": "1383264000",
-        "formattedTime": "Nov 2013",
-        "formattedAxisTime": "Nov 1, 2013",
-        "value": [61],
-        "hasData": [true],
-        "formattedValue": ["61"]
-      },
-      {
-        "time": "1385856000",
-        "formattedTime": "Dec 2013",
-        "formattedAxisTime": "Dec 1, 2013",
-        "value": [57],
-        "hasData": [true],
-        "formattedValue": ["57"]
-      },
-      {
-        "time": "1388534400",
-        "formattedTime": "Jan 2014",
-        "formattedAxisTime": "Jan 1, 2014",
-        "value": [45],
-        "hasData": [true],
-        "formattedValue": ["45"]
-      },
-      {
-        "time": "1391212800",
-        "formattedTime": "Feb 2014",
-        "formattedAxisTime": "Feb 1, 2014",
-        "value": [46],
-        "hasData": [true],
-        "formattedValue": ["46"]
-      },
-      {
-        "time": "1393632000",
-        "formattedTime": "Mar 2014",
-        "formattedAxisTime": "Mar 1, 2014",
-        "value": [49],
-        "hasData": [true],
-        "formattedValue": ["49"]
-      },
-      {
-        "time": "1396310400",
-        "formattedTime": "Apr 2014",
-        "formattedAxisTime": "Apr 1, 2014",
-        "value": [47],
-        "hasData": [true],
-        "formattedValue": ["47"]
-      },
-      {
-        "time": "1398902400",
-        "formattedTime": "May 2014",
-        "formattedAxisTime": "May 1, 2014",
-        "value": [51],
-        "hasData": [true],
-        "formattedValue": ["51"]
-      },
-      {
-        "time": "1401580800",
-        "formattedTime": "Jun 2014",
-        "formattedAxisTime": "Jun 1, 2014",
-        "value": [31],
-        "hasData": [true],
-        "formattedValue": ["31"]
-      },
-      {
-        "time": "1404172800",
-        "formattedTime": "Jul 2014",
-        "formattedAxisTime": "Jul 1, 2014",
-        "value": [19],
-        "hasData": [true],
-        "formattedValue": ["19"]
-      },
-      {
-        "time": "1406851200",
-        "formattedTime": "Aug 2014",
-        "formattedAxisTime": "Aug 1, 2014",
-        "value": [22],
-        "hasData": [true],
-        "formattedValue": ["22"]
-      },
-      {
-        "time": "1409529600",
-        "formattedTime": "Sep 2014",
-        "formattedAxisTime": "Sep 1, 2014",
-        "value": [30],
-        "hasData": [true],
-        "formattedValue": ["30"]
-      },
-      {
-        "time": "1412121600",
-        "formattedTime": "Oct 2014",
-        "formattedAxisTime": "Oct 1, 2014",
-        "value": [39],
-        "hasData": [true],
-        "formattedValue": ["39"]
-      },
-      {
-        "time": "1414800000",
-        "formattedTime": "Nov 2014",
-        "formattedAxisTime": "Nov 1, 2014",
-        "value": [58],
-        "hasData": [true],
-        "formattedValue": ["58"]
-      },
-      {
-        "time": "1417392000",
-        "formattedTime": "Dec 2014",
-        "formattedAxisTime": "Dec 1, 2014",
-        "value": [52],
-        "hasData": [true],
-        "formattedValue": ["52"]
-      },
-      {
-        "time": "1420070400",
-        "formattedTime": "Jan 2015",
-        "formattedAxisTime": "Jan 1, 2015",
-        "value": [45],
-        "hasData": [true],
-        "formattedValue": ["45"]
-      },
-      {
-        "time": "1422748800",
-        "formattedTime": "Feb 2015",
-        "formattedAxisTime": "Feb 1, 2015",
-        "value": [47],
-        "hasData": [true],
-        "formattedValue": ["47"]
-      },
-      {
-        "time": "1425168000",
-        "formattedTime": "Mar 2015",
-        "formattedAxisTime": "Mar 1, 2015",
-        "value": [52],
-        "hasData": [true],
-        "formattedValue": ["52"]
-      },
-      {
-        "time": "1427846400",
-        "formattedTime": "Apr 2015",
-        "formattedAxisTime": "Apr 1, 2015",
-        "value": [55],
-        "hasData": [true],
-        "formattedValue": ["55"]
-      },
-      {
-        "time": "1430438400",
-        "formattedTime": "May 2015",
-        "formattedAxisTime": "May 1, 2015",
-        "value": [57],
-        "hasData": [true],
-        "formattedValue": ["57"]
-      },
-      {
-        "time": "1433116800",
-        "formattedTime": "Jun 2015",
-        "formattedAxisTime": "Jun 1, 2015",
-        "value": [29],
-        "hasData": [true],
-        "formattedValue": ["29"]
-      },
-      {
-        "time": "1435708800",
-        "formattedTime": "Jul 2015",
-        "formattedAxisTime": "Jul 1, 2015",
-        "value": [20],
-        "hasData": [true],
-        "formattedValue": ["20"]
-      },
-      {
-        "time": "1438387200",
-        "formattedTime": "Aug 2015",
-        "formattedAxisTime": "Aug 1, 2015",
-        "value": [25],
-        "hasData": [true],
-        "formattedValue": ["25"]
-      },
-      {
-        "time": "1441065600",
-        "formattedTime": "Sep 2015",
-        "formattedAxisTime": "Sep 1, 2015",
-        "value": [41],
-        "hasData": [true],
-        "formattedValue": ["41"]
-      },
-      {
-        "time": "1443657600",
-        "formattedTime": "Oct 2015",
-        "formattedAxisTime": "Oct 1, 2015",
-        "value": [40],
-        "hasData": [true],
-        "formattedValue": ["40"]
-      },
-      {
-        "time": "1446336000",
-        "formattedTime": "Nov 2015",
-        "formattedAxisTime": "Nov 1, 2015",
-        "value": [60],
-        "hasData": [true],
-        "formattedValue": ["60"]
-      },
-      {
-        "time": "1448928000",
-        "formattedTime": "Dec 2015",
-        "formattedAxisTime": "Dec 1, 2015",
-        "value": [63],
-        "hasData": [true],
-        "formattedValue": ["63"]
-      },
-      {
-        "time": "1451606400",
-        "formattedTime": "Jan 2016",
-        "formattedAxisTime": "Jan 1, 2016",
-        "value": [48],
-        "hasData": [true],
-        "formattedValue": ["48"],
-        "axisNote": {
-          "text": "An improvement to our data collection system was applied from 1/1/16."
-        }
-      },
-      {
-        "time": "1454284800",
-        "formattedTime": "Feb 2016",
-        "formattedAxisTime": "Feb 1, 2016",
-        "value": [51],
-        "hasData": [true],
-        "formattedValue": ["51"]
-      },
-      {
-        "time": "1456790400",
-        "formattedTime": "Mar 2016",
-        "formattedAxisTime": "Mar 1, 2016",
-        "value": [51],
-        "hasData": [true],
-        "formattedValue": ["51"]
-      },
-      {
-        "time": "1459468800",
-        "formattedTime": "Apr 2016",
-        "formattedAxisTime": "Apr 1, 2016",
-        "value": [56],
-        "hasData": [true],
-        "formattedValue": ["56"]
-      },
-      {
-        "time": "1462060800",
-        "formattedTime": "May 2016",
-        "formattedAxisTime": "May 1, 2016",
-        "value": [56],
-        "hasData": [true],
-        "formattedValue": ["56"]
-      },
-      {
-        "time": "1464739200",
-        "formattedTime": "Jun 2016",
-        "formattedAxisTime": "Jun 1, 2016",
-        "value": [31],
-        "hasData": [true],
-        "formattedValue": ["31"]
-      },
-      {
-        "time": "1467331200",
-        "formattedTime": "Jul 2016",
-        "formattedAxisTime": "Jul 1, 2016",
-        "value": [25],
-        "hasData": [true],
-        "formattedValue": ["25"]
-      },
-      {
-        "time": "1470009600",
-        "formattedTime": "Aug 2016",
-        "formattedAxisTime": "Aug 1, 2016",
-        "value": [26],
-        "hasData": [true],
-        "formattedValue": ["26"]
-      },
-      {
-        "time": "1472688000",
-        "formattedTime": "Sep 2016",
-        "formattedAxisTime": "Sep 1, 2016",
-        "value": [33],
-        "hasData": [true],
-        "formattedValue": ["33"]
-      },
-      {
-        "time": "1475280000",
-        "formattedTime": "Oct 2016",
-        "formattedAxisTime": "Oct 1, 2016",
-        "value": [41],
-        "hasData": [true],
-        "formattedValue": ["41"]
-      },
-      {
-        "time": "1477958400",
-        "formattedTime": "Nov 2016",
-        "formattedAxisTime": "Nov 1, 2016",
-        "value": [71],
-        "hasData": [true],
-        "formattedValue": ["71"]
-      },
-      {
-        "time": "1480550400",
-        "formattedTime": "Dec 2016",
-        "formattedAxisTime": "Dec 1, 2016",
-        "value": [64],
-        "hasData": [true],
-        "formattedValue": ["64"]
-      },
-      {
-        "time": "1483228800",
-        "formattedTime": "Jan 2017",
-        "formattedAxisTime": "Jan 1, 2017",
-        "value": [44],
-        "hasData": [true],
-        "formattedValue": ["44"]
-      },
-      {
-        "time": "1485907200",
-        "formattedTime": "Feb 2017",
-        "formattedAxisTime": "Feb 1, 2017",
-        "value": [52],
-        "hasData": [true],
-        "formattedValue": ["52"]
-      },
-      {
-        "time": "1488326400",
-        "formattedTime": "Mar 2017",
-        "formattedAxisTime": "Mar 1, 2017",
-        "value": [54],
-        "hasData": [true],
-        "formattedValue": ["54"]
-      },
-      {
-        "time": "1491004800",
-        "formattedTime": "Apr 2017",
-        "formattedAxisTime": "Apr 1, 2017",
-        "value": [56],
-        "hasData": [true],
-        "formattedValue": ["56"]
-      },
-      {
-        "time": "1493596800",
-        "formattedTime": "May 2017",
-        "formattedAxisTime": "May 1, 2017",
-        "value": [59],
-        "hasData": [true],
-        "formattedValue": ["59"]
-      },
-      {
-        "time": "1496275200",
-        "formattedTime": "Jun 2017",
-        "formattedAxisTime": "Jun 1, 2017",
-        "value": [34],
-        "hasData": [true],
-        "formattedValue": ["34"]
-      },
-      {
-        "time": "1498867200",
-        "formattedTime": "Jul 2017",
-        "formattedAxisTime": "Jul 1, 2017",
-        "value": [29],
-        "hasData": [true],
-        "formattedValue": ["29"]
-      },
-      {
-        "time": "1501545600",
-        "formattedTime": "Aug 2017",
-        "formattedAxisTime": "Aug 1, 2017",
-        "value": [33],
-        "hasData": [true],
-        "formattedValue": ["33"]
-      },
-      {
-        "time": "1504224000",
-        "formattedTime": "Sep 2017",
-        "formattedAxisTime": "Sep 1, 2017",
-        "value": [37],
-        "hasData": [true],
-        "formattedValue": ["37"]
-      },
-      {
-        "time": "1506816000",
-        "formattedTime": "Oct 2017",
-        "formattedAxisTime": "Oct 1, 2017",
-        "value": [45],
-        "hasData": [true],
-        "formattedValue": ["45"]
-      },
-      {
-        "time": "1509494400",
-        "formattedTime": "Nov 2017",
-        "formattedAxisTime": "Nov 1, 2017",
-        "value": [83],
-        "hasData": [true],
-        "formattedValue": ["83"]
-      },
-      {
-        "time": "1512086400",
-        "formattedTime": "Dec 2017",
-        "formattedAxisTime": "Dec 1, 2017",
-        "value": [77],
-        "hasData": [true],
-        "formattedValue": ["77"]
-      },
-      {
-        "time": "1514764800",
-        "formattedTime": "Jan 2018",
-        "formattedAxisTime": "Jan 1, 2018",
-        "value": [57],
-        "hasData": [true],
-        "formattedValue": ["57"]
-      },
-      {
-        "time": "1517443200",
-        "formattedTime": "Feb 2018",
-        "formattedAxisTime": "Feb 1, 2018",
-        "value": [50],
-        "hasData": [true],
-        "formattedValue": ["50"]
-      },
-      {
-        "time": "1519862400",
-        "formattedTime": "Mar 2018",
-        "formattedAxisTime": "Mar 1, 2018",
-        "value": [61],
-        "hasData": [true],
-        "formattedValue": ["61"]
-      },
-      {
-        "time": "1522540800",
-        "formattedTime": "Apr 2018",
-        "formattedAxisTime": "Apr 1, 2018",
-        "value": [52],
-        "hasData": [true],
-        "formattedValue": ["52"]
-      },
-      {
-        "time": "1525132800",
-        "formattedTime": "May 2018",
-        "formattedAxisTime": "May 1, 2018",
-        "value": [64],
-        "hasData": [true],
-        "formattedValue": ["64"]
-      },
-      {
-        "time": "1527811200",
-        "formattedTime": "Jun 2018",
-        "formattedAxisTime": "Jun 1, 2018",
-        "value": [36],
-        "hasData": [true],
-        "formattedValue": ["36"]
-      },
-      {
-        "time": "1530403200",
-        "formattedTime": "Jul 2018",
-        "formattedAxisTime": "Jul 1, 2018",
-        "value": [33],
-        "hasData": [true],
-        "formattedValue": ["33"]
-      },
-      {
-        "time": "1533081600",
-        "formattedTime": "Aug 2018",
-        "formattedAxisTime": "Aug 1, 2018",
-        "value": [37],
-        "hasData": [true],
-        "formattedValue": ["37"]
-      },
-      {
-        "time": "1535760000",
-        "formattedTime": "Sep 2018",
-        "formattedAxisTime": "Sep 1, 2018",
-        "value": [43],
-        "hasData": [true],
-        "formattedValue": ["43"]
-      },
-      {
-        "time": "1538352000",
-        "formattedTime": "Oct 2018",
-        "formattedAxisTime": "Oct 1, 2018",
-        "value": [50],
-        "hasData": [true],
-        "formattedValue": ["50"]
-      },
-      {
-        "time": "1541030400",
-        "formattedTime": "Nov 2018",
-        "formattedAxisTime": "Nov 1, 2018",
-        "value": [85],
-        "hasData": [true],
-        "formattedValue": ["85"]
-      },
-      {
-        "time": "1543622400",
-        "formattedTime": "Dec 2018",
-        "formattedAxisTime": "Dec 1, 2018",
-        "value": [78],
-        "hasData": [true],
-        "formattedValue": ["78"]
-      },
-      {
-        "time": "1546300800",
-        "formattedTime": "Jan 2019",
-        "formattedAxisTime": "Jan 1, 2019",
-        "value": [49],
-        "hasData": [true],
-        "formattedValue": ["49"]
-      },
-      {
-        "time": "1548979200",
-        "formattedTime": "Feb 2019",
-        "formattedAxisTime": "Feb 1, 2019",
-        "value": [54],
-        "hasData": [true],
-        "formattedValue": ["54"]
-      },
-      {
-        "time": "1551398400",
-        "formattedTime": "Mar 2019",
-        "formattedAxisTime": "Mar 1, 2019",
-        "value": [55],
-        "hasData": [true],
-        "formattedValue": ["55"]
-      },
-      {
-        "time": "1554076800",
-        "formattedTime": "Apr 2019",
-        "formattedAxisTime": "Apr 1, 2019",
-        "value": [50],
-        "hasData": [true],
-        "formattedValue": ["50"]
-      },
-      {
-        "time": "1556668800",
-        "formattedTime": "May 2019",
-        "formattedAxisTime": "May 1, 2019",
-        "value": [61],
-        "hasData": [true],
-        "formattedValue": ["61"]
-      },
-      {
-        "time": "1559347200",
-        "formattedTime": "Jun 2019",
-        "formattedAxisTime": "Jun 1, 2019",
-        "value": [34],
-        "hasData": [true],
-        "formattedValue": ["34"]
-      },
-      {
-        "time": "1561939200",
-        "formattedTime": "Jul 2019",
-        "formattedAxisTime": "Jul 1, 2019",
-        "value": [32],
-        "hasData": [true],
-        "formattedValue": ["32"]
-      },
-      {
-        "time": "1564617600",
-        "formattedTime": "Aug 2019",
-        "formattedAxisTime": "Aug 1, 2019",
-        "value": [34],
-        "hasData": [true],
-        "formattedValue": ["34"]
-      },
-      {
-        "time": "1567296000",
-        "formattedTime": "Sep 2019",
-        "formattedAxisTime": "Sep 1, 2019",
-        "value": [40],
-        "hasData": [true],
-        "formattedValue": ["40"]
-      },
-      {
-        "time": "1569888000",
-        "formattedTime": "Oct 2019",
-        "formattedAxisTime": "Oct 1, 2019",
-        "value": [46],
-        "hasData": [true],
-        "formattedValue": ["46"]
-      },
-      {
-        "time": "1572566400",
-        "formattedTime": "Nov 2019",
-        "formattedAxisTime": "Nov 1, 2019",
-        "value": [90],
-        "hasData": [true],
-        "formattedValue": ["90"]
-      },
-      {
-        "time": "1575158400",
-        "formattedTime": "Dec 2019",
-        "formattedAxisTime": "Dec 1, 2019",
-        "value": [86],
-        "hasData": [true],
-        "formattedValue": ["86"]
-      },
-      {
-        "time": "1577836800",
-        "formattedTime": "Jan 2020",
-        "formattedAxisTime": "Jan 1, 2020",
-        "value": [50],
-        "hasData": [true],
-        "formattedValue": ["50"]
-      },
-      {
-        "time": "1580515200",
-        "formattedTime": "Feb 2020",
-        "formattedAxisTime": "Feb 1, 2020",
-        "value": [49],
-        "hasData": [true],
-        "formattedValue": ["49"]
-      },
-      {
-        "time": "1583020800",
-        "formattedTime": "Mar 2020",
-        "formattedAxisTime": "Mar 1, 2020",
-        "value": [49],
-        "hasData": [true],
-        "formattedValue": ["49"]
-      },
-      {
-        "time": "1585699200",
-        "formattedTime": "Apr 2020",
-        "formattedAxisTime": "Apr 1, 2020",
-        "value": [56],
-        "hasData": [true],
-        "formattedValue": ["56"]
-      },
-      {
-        "time": "1588291200",
-        "formattedTime": "May 2020",
-        "formattedAxisTime": "May 1, 2020",
-        "value": [59],
-        "hasData": [true],
-        "formattedValue": ["59"]
-      },
-      {
-        "time": "1590969600",
-        "formattedTime": "Jun 2020",
-        "formattedAxisTime": "Jun 1, 2020",
-        "value": [48],
-        "hasData": [true],
-        "formattedValue": ["48"]
-      },
-      {
-        "time": "1593561600",
-        "formattedTime": "Jul 2020",
-        "formattedAxisTime": "Jul 1, 2020",
-        "value": [33],
-        "hasData": [true],
-        "formattedValue": ["33"]
-      },
-      {
-        "time": "1596240000",
-        "formattedTime": "Aug 2020",
-        "formattedAxisTime": "Aug 1, 2020",
-        "value": [38],
-        "hasData": [true],
-        "formattedValue": ["38"]
-      },
-      {
-        "time": "1598918400",
-        "formattedTime": "Sep 2020",
-        "formattedAxisTime": "Sep 1, 2020",
-        "value": [44],
-        "hasData": [true],
-        "formattedValue": ["44"]
-      },
-      {
-        "time": "1601510400",
-        "formattedTime": "Oct 2020",
-        "formattedAxisTime": "Oct 1, 2020",
-        "value": [44],
-        "hasData": [true],
-        "formattedValue": ["44"]
-      },
-      {
-        "time": "1604188800",
-        "formattedTime": "Nov 2020",
-        "formattedAxisTime": "Nov 1, 2020",
-        "value": [88],
-        "hasData": [true],
-        "formattedValue": ["88"]
-      },
-      {
-        "time": "1606780800",
-        "formattedTime": "Dec 2020",
-        "formattedAxisTime": "Dec 1, 2020",
-        "value": [81],
-        "hasData": [true],
-        "formattedValue": ["81"]
-      },
-      {
-        "time": "1609459200",
-        "formattedTime": "Jan 2021",
-        "formattedAxisTime": "Jan 1, 2021",
-        "value": [47],
-        "hasData": [true],
-        "formattedValue": ["47"]
-      },
-      {
-        "time": "1612137600",
-        "formattedTime": "Feb 2021",
-        "formattedAxisTime": "Feb 1, 2021",
-        "value": [54],
-        "hasData": [true],
-        "formattedValue": ["54"]
-      },
-      {
-        "time": "1614556800",
-        "formattedTime": "Mar 2021",
-        "formattedAxisTime": "Mar 1, 2021",
-        "value": [74],
-        "hasData": [true],
-        "formattedValue": ["74"]
-      },
-      {
-        "time": "1617235200",
-        "formattedTime": "Apr 2021",
-        "formattedAxisTime": "Apr 1, 2021",
-        "value": [79],
-        "hasData": [true],
-        "formattedValue": ["79"]
-      },
-      {
-        "time": "1619827200",
-        "formattedTime": "May 2021",
-        "formattedAxisTime": "May 1, 2021",
-        "value": [80],
-        "hasData": [true],
-        "formattedValue": ["80"]
-      },
-      {
-        "time": "1622505600",
-        "formattedTime": "Jun 2021",
-        "formattedAxisTime": "Jun 1, 2021",
-        "value": [39],
-        "hasData": [true],
-        "formattedValue": ["39"]
-      },
-      {
-        "time": "1625097600",
-        "formattedTime": "Jul 2021",
-        "formattedAxisTime": "Jul 1, 2021",
-        "value": [31],
-        "hasData": [true],
-        "formattedValue": ["31"]
-      },
-      {
-        "time": "1627776000",
-        "formattedTime": "Aug 2021",
-        "formattedAxisTime": "Aug 1, 2021",
-        "value": [32],
-        "hasData": [true],
-        "formattedValue": ["32"]
-      },
-      {
-        "time": "1630454400",
-        "formattedTime": "Sep 2021",
-        "formattedAxisTime": "Sep 1, 2021",
-        "value": [44],
-        "hasData": [true],
-        "formattedValue": ["44"]
-      },
-      {
-        "time": "1633046400",
-        "formattedTime": "Oct 2021",
-        "formattedAxisTime": "Oct 1, 2021",
-        "value": [49],
-        "hasData": [true],
-        "formattedValue": ["49"]
-      },
-      {
-        "time": "1635724800",
-        "formattedTime": "Nov 2021",
-        "formattedAxisTime": "Nov 1, 2021",
-        "value": [82],
-        "hasData": [true],
-        "formattedValue": ["82"]
-      },
-      {
-        "time": "1638316800",
-        "formattedTime": "Dec 2021",
-        "formattedAxisTime": "Dec 1, 2021",
-        "value": [66],
-        "hasData": [true],
-        "formattedValue": ["66"]
-      },
-      {
-        "time": "1640995200",
-        "formattedTime": "Jan 2022",
-        "formattedAxisTime": "Jan 1, 2022",
-        "value": [47],
-        "hasData": [true],
-        "formattedValue": ["47"],
-        "axisNote": {
-          "text": "An improvement to our data collection system was applied from 1/1/22."
-        }
-      },
-      {
-        "time": "1643673600",
-        "formattedTime": "Feb 2022",
-        "formattedAxisTime": "Feb 1, 2022",
-        "value": [50],
-        "hasData": [true],
-        "formattedValue": ["50"]
-      },
-      {
-        "time": "1646092800",
-        "formattedTime": "Mar 2022",
-        "formattedAxisTime": "Mar 1, 2022",
-        "value": [68],
-        "hasData": [true],
-        "formattedValue": ["68"]
-      },
-      {
-        "time": "1648771200",
-        "formattedTime": "Apr 2022",
-        "formattedAxisTime": "Apr 1, 2022",
-        "value": [70],
-        "hasData": [true],
-        "formattedValue": ["70"]
-      },
-      {
-        "time": "1651363200",
-        "formattedTime": "May 2022",
-        "formattedAxisTime": "May 1, 2022",
-        "value": [76],
-        "hasData": [true],
-        "formattedValue": ["76"]
-      },
-      {
-        "time": "1654041600",
-        "formattedTime": "Jun 2022",
-        "formattedAxisTime": "Jun 1, 2022",
-        "value": [37],
-        "hasData": [true],
-        "formattedValue": ["37"]
-      },
-      {
-        "time": "1656633600",
-        "formattedTime": "Jul 2022",
-        "formattedAxisTime": "Jul 1, 2022",
-        "value": [33],
-        "hasData": [true],
-        "formattedValue": ["33"]
-      },
-      {
-        "time": "1659312000",
-        "formattedTime": "Aug 2022",
-        "formattedAxisTime": "Aug 1, 2022",
-        "value": [35],
-        "hasData": [true],
-        "formattedValue": ["35"]
-      },
-      {
-        "time": "1661990400",
-        "formattedTime": "Sep 2022",
-        "formattedAxisTime": "Sep 1, 2022",
-        "value": [47],
-        "hasData": [true],
-        "formattedValue": ["47"]
-      },
-      {
-        "time": "1664582400",
-        "formattedTime": "Oct 2022",
-        "formattedAxisTime": "Oct 1, 2022",
-        "value": [53],
-        "hasData": [true],
-        "formattedValue": ["53"]
-      },
-      {
-        "time": "1667260800",
-        "formattedTime": "Nov 2022",
-        "formattedAxisTime": "Nov 1, 2022",
-        "value": [89],
-        "hasData": [true],
-        "formattedValue": ["89"]
-      },
-      {
-        "time": "1669852800",
-        "formattedTime": "Dec 2022",
-        "formattedAxisTime": "Dec 1, 2022",
-        "value": [87],
-        "hasData": [true],
-        "formattedValue": ["87"]
-      },
-      {
-        "time": "1672531200",
-        "formattedTime": "Jan 2023",
-        "formattedAxisTime": "Jan 1, 2023",
-        "value": [44],
-        "hasData": [true],
-        "formattedValue": ["44"]
-      },
-      {
-        "time": "1675209600",
-        "formattedTime": "Feb 2023",
-        "formattedAxisTime": "Feb 1, 2023",
-        "value": [42],
-        "hasData": [true],
-        "formattedValue": ["42"]
-      },
-      {
-        "time": "1677628800",
-        "formattedTime": "Mar 2023",
-        "formattedAxisTime": "Mar 1, 2023",
-        "value": [53],
-        "hasData": [true],
-        "formattedValue": ["53"],
-        "isPartial": true
+  "featuredStoryIds": [],
+  "trendingStoryIds": [
+    "PL_lnk_dfWzdAAAAADGAM_pl",
+    "PL_lnk_UcHEdQAAAACVNM_pl",
+    "PL_lnk_bO1gdQAAAAAMGM_pl",
+    "PL_lnk_kUm5dQAAAAAovM_pl",
+    "PL_lnk_Uw9qdQAAAAA5-M_pl",
+    "PL_lnk_bDDCdQAAAACuxM_pl",
+    "PL_lnk_0G2xdQAAAABhmM_pl",
+    "PL_lnk_0j-2cwAAAABkzM_pl",
+    "PL_lnk_1Lu5dQAAAABtTM_pl",
+    "PL_lnk_IhaxdQAAAACT4M_pl",
+    "PL_lnk_VBaxdQAAAADl4M_pl",
+    "PL_lnk_PhaxdQAAAACP4M_pl",
+    "PL_lnk_Ps2UdQAAAACqOM_pl",
+    "PL_lnk_gp42dQAAAAC0aM_pl",
+    "PL_lnk_NBaxdQAAAACF4M_pl",
+    "PL_lnk_-PPEcAAAAAA8AM_pl",
+    "PL_lnk_IqCsdQAAAACOVM_pl",
+    "PL_lnk_a4OddQAAAAD2dM_pl",
+    "PL_lnk_jLvvdAAAAABjTM_pl",
+    "PL_lnk_lsa6dQAAAAAsMM_pl",
+    "PL_lnk_xL6udQAAAABqSM_pl",
+    "PL_lnk_K0UYdAAAAAAzsM_pl",
+    "PL_lnk_sbK1dQAAAAAERM_pl",
+    "PL_lnk_kylYdQAAAADL3M_pl",
+    "PL_lnk_A6NwdQAAAABzVM_pl",
+    "PL_lnk_zuF-dAAAAACwFM_pl",
+    "PL_lnk_-UG-dQAAAABHtM_pl",
+    "PL_lnk_gaCzcwAAAAAyUM_pl",
+    "PL_lnk_MUK8dQAAAACNtM_pl",
+    "PL_lnk_Ac9ndQAAAABmOM_pl",
+    "PL_lnk_jw9WdQAAAADZ-M_pl",
+    "PL_lnk_5PnKdQAAAAAuDM_pl",
+    "PL_lnk_vWvQdAAAAABtnM_pl",
+    "PL_lnk_LsVSdQAAAAB8MM_pl",
+    "PL_lnk_qpb4dAAAAABSYM_pl",
+    "PL_lnk_nCSrdQAAAAA30M_pl",
+    "PL_lnk_31NGcQAAAACZoM_pl",
+    "PL_lnk_AXs-dQAAAAA_jM_pl",
+    "PL_lnk_O_kndAAAAAAcDM_pl",
+    "PL_lnk_QFWzdQAAAADzoM_pl",
+    "PL_lnk_Xne0cwAAAADqhM_pl",
+    "PL_lnk_OfHNdQAAAAD0BM_pl",
+    "PL_lnk_lUm5dQAAAAAsvM_pl",
+    "PL_lnk_mDDCdQAAAABaxM_pl",
+    "PL_lnk_FuqrdQAAAAC9HM_pl",
+    "PL_lnk_qONDdQAAAADrFM_pl",
+    "PL_lnk_erTRdQAAAACrQM_pl",
+    "PL_lnk_7EfacwAAAAA2tM_pl",
+    "PL_lnk_BMNPdQAAAABLNM_pl",
+    "PL_lnk_RT_LdQAAAACOyM_pl",
+    "PL_lnk_rLvvdAAAAABDTM_pl",
+    "PL_lnk_BO2ZdQAAAACdGM_pl",
+    "PL_lnk_zoaIdQAAAABGcM_pl",
+    "PL_lnk_OtCkdAAAAACeJM_pl",
+    "PL_lnk_sVzMdQAAAAB9qM_pl",
+    "PL_lnk_1AuVdAAAAABB_M_pl",
+    "PL_lnk_phFzdAAAAADV5M_pl",
+    "PL_lnk_m0xsdQAAAAD3uM_pl",
+    "PL_lnk_9EZVdQAAAAChsM_pl",
+    "PL_lnk_4Sy7dAAAAABa2M_pl",
+    "PL_lnk_ovNTdQAAAADxBM_pl",
+    "PL_lnk_nd3QdQAAAABNKM_pl",
+    "PL_lnk_Dfz5dAAAAAD0CM_pl",
+    "PL_lnk_gcDMdQAAAABNNM_pl",
+    "PL_lnk_KvrudAAAAADEDM_pl",
+    "PL_lnk_DAMNdQAAAAAB9M_pl",
+    "PL_lnk_xL7PdQAAAAALSM_pl",
+    "PL_lnk_nM-xdAAAAAAtOM_pl",
+    "PL_lnk_z7_CdQAAAAANSM_pl",
+    "PL_lnk_YvrudAAAAACMDM_pl",
+    "PL_lnk_Tj6_dQAAAADxyM_pl",
+    "PL_lnk__D2_dQAAAABDyM_pl",
+    "PL_lnk_8w4kdQAAAADX-M_pl",
+    "PL_lnk_iPWVdQAAAAAdAM_pl",
+    "PL_lnk_OyOZdAAAAACi1M_pl",
+    "PL_lnk_U0K8dQAAAADvtM_pl",
+    "PL_lnk_uSSrdQAAAAAS0M_pl",
+    "PL_lnk_Cj6_dQAAAAC1yM_pl",
+    "PL_lnk_AD6_dQAAAAC_yM_pl",
+    "PL_lnk_8DrAdQAAAAAwzM_pl",
+    "PL_lnk_ZeaydQAAAADXEM_pl",
+    "PL_lnk_FDa1dQAAAAChwM_pl",
+    "PL_lnk_-UZVdQAAAACssM_pl",
+    "PL_lnk_uRehdQAAAAAY4M_pl",
+    "PL_lnk_oiWedAAAAAA80M_pl",
+    "PL_lnk_CzLrdAAAAADgxM_pl",
+    "PL_lnk_NtO6dAAAAACMJM_pl",
+    "PL_lnk_5W6ZdAAAAAB8mM_pl",
+    "PL_lnk_sgVkdAAAAADW8M_pl",
+    "PL_lnk_KnMfdQAAAAA1hM_pl",
+    "PL_lnk_irzSdQAAAABYSM_pl",
+    "PL_lnk_gPNTdQAAAADTBM_pl",
+    "PL_lnk_0rGAdAAAAABSRM_pl",
+    "PL_lnk_fThldQAAAAAYzM_pl",
+    "PL_lnk_WklOdQAAAAAUvM_pl",
+    "PL_lnk_xW2xdQAAAAB0mM_pl",
+    "PL_lnk_ofnKdQAAAABrDM_pl",
+    "PL_lnk_bQ6ncwAAAADK_M_pl",
+    "PL_lnk_elzMdQAAAAC2qM_pl",
+    "PL_lnk_-fnKdQAAAAAzDM_pl",
+    "PL_lnk_UfmWdAAAAADHDM_pl",
+    "PL_lnk_PfzOdQAAAADzCM_pl",
+    "PL_lnk_FaZudAAAAAB7UM_pl",
+    "PL_lnk_VTB8dAAAAAApxM_pl",
+    "PL_lnk_uc2-dQAAAAAHOM_pl",
+    "PL_lnk_Qha3dQAAAAD14M_pl",
+    "PL_lnk_wsoDdAAAAADBPM_pl",
+    "PL_lnk_pV2wdQAAAAAVqM_pl",
+    "PL_lnk_mXHBdQAAAABYhM_pl",
+    "PL_lnk_rd-YdQAAAAA1KM_pl",
+    "PL_lnk_uapZdQAAAADgXM_pl",
+    "PL_lnk_ISHTdQAAAADy1M_pl",
+    "PL_lnk_3RgWdQAAAADL7M_pl",
+    "PL_lnk_4L-xdQAAAABRSM_pl",
+    "PL_lnk_uT2edQAAAAAnyM_pl",
+    "PL_lnk_bQcvcwAAAABC9M_pl",
+    "PL_lnk_tfnKdQAAAAB_DM_pl",
+    "PL_lnk_CDDQdQAAAADYxM_pl",
+    "PL_lnk_Q5vdcwAAAACeaM_pl",
+    "PL_lnk_Gju0dQAAAACuzM_pl",
+    "PL_lnk_-z2_dQAAAABEyM_pl",
+    "PL_lnk_polJdQAAAADvfM_pl",
+    "PL_lnk_Si_HdAAAAACN2M_pl",
+    "PL_lnk_hVm2dAAAAAAzrM_pl",
+    "PL_lnk_3sMadQAAAADENM_pl",
+    "PL_lnk_HyzNdQAAAADS2M_pl",
+    "PL_lnk_dT_LdQAAAAC-yM_pl",
+    "PL_lnk_jOpddQAAAADRHM_pl",
+    "PL_lnk_JYV_dAAAAABacM_pl",
+    "PL_lnk_UVWzdQAAAADioM_pl",
+    "PL_lnk_GW4_dQAAAAAmmM_pl",
+    "PL_lnk_hSkZcwAAAACc2M_pl",
+    "PL_lnk_T3YSdQAAAABdgM_pl",
+    "PL_lnk_uEG-dQAAAAAGtM_pl",
+    "PL_lnk_HLVYdQAAAABEQM_pl",
+    "PL_lnk_9oHydAAAAAAEdM_pl",
+    "PL_lnk_HXCVdQAAAACIhM_pl",
+    "PL_lnk_gfmWdAAAAAAXDM_pl",
+    "PL_lnk_rGa4dQAAAAAUkM_pl",
+    "PL_lnk__TzJdQAAAAA0yM_pl",
+    "PL_lnk_HHWvdQAAAACzgM_pl",
+    "PL_lnk_GFWzdQAAAACroM_pl",
+    "PL_lnk_ms2-dQAAAAAkOM_pl",
+    "PL_lnk_wsfJdQAAAAALMM_pl",
+    "PL_lnk_TvHNdQAAAACDBM_pl",
+    "PL_lnk_P8zAdQAAAAD_OM_pl",
+    "PL_lnk_n8a6dQAAAAAlMM_pl",
+    "PL_lnk_Do1kdQAAAABqeM_pl",
+    "PL_lnk_-bmIdAAAAABxTM_pl",
+    "PL_lnk_gUdfcgAAAADetM_pl",
+    "PL_lnk_EIjldAAAAAD1fM_pl",
+    "PL_lnk_8IvGdAAAAAA2fM_pl",
+    "PL_lnk_uilYdQAAAADi3M_pl",
+    "PL_lnk_kb_CdQAAAABTSM_pl",
+    "PL_lnk_wa-LdQAAAABKWM_pl",
+    "PL_lnk__-KWdQAAAABpFM_pl",
+    "PL_lnk_HdN7dQAAAABmJM_pl",
+    "PL_lnk_H5NedQAAAABBZM_pl",
+    "PL_lnk_4SNrdQAAAACK1M_pl",
+    "PL_lnk_ET3JdQAAAADYyM_pl",
+    "PL_lnk_joOddQAAAAATdM_pl",
+    "PL_lnk_afQWdQAAAAB_AM_pl",
+    "PL_lnk_AuOWdQAAAACUFM_pl",
+    "PL_lnk_QDvAdQAAAACAzM_pl",
+    "PL_lnk_kL1QdQAAAADASM_pl",
+    "PL_lnk_7O5jdQAAAACPGM_pl",
+    "PL_lnk_Xp2bdQAAAADFaM_pl",
+    "PL_lnk_TZMrdQAAAABmZM_pl",
+    "PL_lnk_n3HBdQAAAABehM_pl",
+    "PL_lnk_7gBcdQAAAACy9M_pl",
+    "PL_lnk_kRuudQAAAAA_7M_pl",
+    "PL_lnk_nFXFdAAAAABZoM_pl",
+    "PL_lnk_2-UHdQAAAADcEM_pl",
+    "PL_lnk_UTEedQAAAABPxM_pl",
+    "PL_lnk_j3HBdQAAAABOhM_pl",
+    "PL_lnk_tt3QdQAAAABmKM_pl",
+    "PL_lnk_YdN7dQAAAAAaJM_pl",
+    "PL_lnk_VA9WdQAAAAAC-M_pl",
+    "PL_lnk_VljRdQAAAACHrM_pl",
+    "PL_lnk_Z0S9dQAAAADasM_pl",
+    "PL_lnk_wZ42dQAAAAD3aM_pl",
+    "PL_lnk_xpeCdQAAAABEYM_pl",
+    "PL_lnk_eomwdAAAAADKfM_pl",
+    "PL_lnk_L9kVdQAAAAA6LM_pl",
+    "PL_lnk_rq7edAAAAABwWM_pl",
+    "PL_lnk_S27ocwAAAACjnM_pl",
+    "PL_lnk_9LbWcwAAAAAiRM_pl",
+    "PL_lnk_16ccdQAAAADLUM_pl",
+    "PL_lnk_AZ3rdAAAAADqaM_pl",
+    "PL_lnk_iUircwAAAAAiuM_pl",
+    "PL_lnk_FD6_dQAAAACryM_pl",
+    "PL_lnk_6p3OdQAAAAAkaM_pl",
+    "PL_lnk_oVjidAAAAABDrM_pl",
+    "PL_lnk_OnSSdAAAAACogM_pl",
+    "PL_lnk_czDCdQAAAACxxM_pl",
+    "PL_lnk_TaqYdAAAAADVXM_pl",
+    "PL_lnk_toaRdQAAAAAncM_pl",
+    "PL_lnk_g_mWdAAAAAAVDM_pl",
+    "PL_lnk_w7GJdAAAAABKRM_pl",
+    "PL_lnk_SZ2RdAAAAADYaM_pl",
+    "PL_lnk_oSeqdQAAAAAL0M_pl",
+    "PL_lnk_NEV4dQAAAABMsM_pl",
+    "PL_lnk_V8cgdQAAAAB3MM_pl",
+    "PL_lnk_dMa6dQAAAADOMM_pl",
+    "PL_lnk_PvOrdAAAAACVBM_pl",
+    "PL_lnk_6QOSdAAAAAB79M_pl",
+    "PL_lnk_IuqrdQAAAACJHM_pl",
+    "PL_lnk_w82-dQAAAAB9OM_pl",
+    "PL_lnk_h8HudAAAAABpNM_pl",
+    "PL_lnk_osfJdQAAAABrMM_pl",
+    "PL_lnk_roeMdQAAAAAicM_pl",
+    "PL_lnk_lAEAdQAAAACU9M_pl",
+    "PL_lnk_DPLDdQAAAADPBM_pl",
+    "PL_lnk_eXYSdQAAAABrgM_pl",
+    "PL_lnk_splzdAAAAADBbM_pl",
+    "PL_lnk_kQKBdQAAAAAQ9M_pl",
+    "PL_lnk_13lGdAAAAACRjM_pl",
+    "PL_lnk__ru5dQAAAABHTM_pl",
+    "PL_lnk_Xp9-dQAAAAAgaM_pl",
+    "PL_lnk_0-WcdQAAAABPEM_pl",
+    "PL_lnk_7kG-dQAAAABQtM_pl",
+    "PL_lnk_o4KEdAAAAAAndM_pl",
+    "PL_lnk_a7TRdQAAAAC6QM_pl",
+    "PL_lnk_zNJHdAAAAACLJM_pl",
+    "PL_lnk_2p3OdQAAAAAUaM_pl",
+    "PL_lnk_b5zjcwAAAACMbM_pl",
+    "PL_lnk_WjhldQAAAAA_zM_pl",
+    "PL_lnk_Rm4_dQAAAAB5mM_pl",
+    "PL_lnk_4LGAdAAAAABgRM_pl",
+    "PL_lnk_i323dQAAAAA8iM_pl",
+    "PL_lnk_JqfLdQAAAADtUM_pl",
+    "PL_lnk__PDNdQAAAAAxBM_pl",
+    "PL_lnk_f8KFdQAAAAD6NM_pl",
+    "PL_lnk_esubdAAAAADhPM_pl",
+    "PL_lnk_xrm7dQAAAAB9TM_pl",
+    "PL_lnk_t5NTdAAAAADkZM_pl",
+    "PL_lnk_DUARdAAAAAActM_pl",
+    "PL_lnk_VLwXdAAAAABDSM_pl",
+    "PL_lnk_quENdQAAAACnFM_pl",
+    "PL_lnk_QJ2BdQAAAADBaM_pl",
+    "PL_lnk_8eWcdQAAAABtEM_pl",
+    "PL_lnk_ecGtdQAAAADUNM_pl",
+    "PL_lnk_QBQfdQAAAABf4M_pl",
+    "PL_lnk_lF2wdQAAAAAkqM_pl",
+    "PL_lnk_7pT-dAAAAAAQYM_pl",
+    "PL_lnk_vQ6ncwAAAAAa_M_pl",
+    "PL_lnk_X6fLdQAAAACUUM_pl",
+    "PL_lnk_IcujdQAAAACCPM_pl",
+    "PL_lnk_h6z8dAAAAAB7WM_pl",
+    "PL_lnk_g_NqdAAAAADpBM_pl",
+    "PL_lnk_L9CkdAAAAACLJM_pl",
+    "PL_lnk_3DqGdQAAAABazM_pl",
+    "PL_lnk_mbrsdAAAAAB1TM_pl",
+    "PL_lnk__OQ6dQAAAADGEM_pl",
+    "PL_lnk_pWaLdQAAAAAukM_pl",
+    "PL_lnk_eW2cdAAAAADlmM_pl",
+    "PL_lnk_5eomdQAAAADDHM_pl",
+    "PL_lnk_SMDMdQAAAACENM_pl",
+    "PL_lnk_alGPdQAAAADlpM_pl",
+    "PL_lnk_Rx-2dQAAAADx6M_pl",
+    "PL_lnk_VEEKdAAAAABetM_pl",
+    "PL_lnk_NVJUdAAAAABhpM_pl",
+    "PL_lnk_w0m6dQAAAAB5vM_pl",
+    "PL_lnk_8-9QdAAAAACjGM_pl",
+    "PL_lnk_D562dQAAAAC5aM_pl",
+    "PL_lnk_eGMVdQAAAABtlM_pl",
+    "PL_lnk_TOWzdQAAAAD_EM_pl",
+    "PL_lnk_mLGAdAAAAAAYRM_pl",
+    "PL_lnk_mQcMdQAAAACV8M_pl",
+    "PL_lnk_H2wmdQAAAAA5mM_pl",
+    "PL_lnk_nJ42dQAAAACqaM_pl",
+    "PL_lnk_YRB7dQAAAAAa5M_pl",
+    "PL_lnk_EC1ydAAAAABi2M_pl",
+    "PL_lnk_fBa3dQAAAADL4M_pl",
+    "PL_lnk_L4pcdQAAAABzfM_pl",
+    "PL_lnk_T0K8dQAAAADztM_pl",
+    "PL_lnk_GfzOdQAAAADXCM_pl",
+    "PL_lnk_XR-2dQAAAADr6M_pl",
+    "PL_lnk_-cZ6dQAAAACDMM_pl",
+    "PL_lnk_rtt8dQAAAADSLM_pl",
+    "PL_lnk_KDvAdQAAAADozM_pl",
+    "PL_lnk_oBmRdQAAAAAx7M_pl",
+    "PL_lnk_9thwdAAAAACGLM_pl",
+    "PL_lnk_8sfJdQAAAAA7MM_pl",
+    "PL_lnk_xEWUdQAAAABQsM_pl",
+    "PL_lnk_FNRxdQAAAABlIM_pl",
+    "PL_lnk_HGAQdAAAAAAMlM_pl",
+    "PL_lnk_pky7dQAAAAAduM_pl",
+    "PL_lnk_vBdOcwAAAADy5M_pl",
+    "PL_lnk_2L1QdQAAAACISM_pl",
+    "PL_lnk_hCMTdQAAAACX1M_pl",
+    "PL_lnk_ijhldQAAAADvzM_pl",
+    "PL_lnk_ORm5cwAAAACA6M_pl",
+    "PL_lnk_WJNedQAAAAAGZM_pl",
+    "PL_lnk_RvC3dQAAAADxBM_pl",
+    "PL_lnk_vqPodAAAAABWVM_pl",
+    "PL_lnk_M-1gdQAAAABTGM_pl",
+    "PL_lnk_VmOmdAAAAADwlM_pl",
+    "PL_lnk_cOZmdQAAAAAWEM_pl",
+    "PL_lnk_-3SvdQAAAABUgM_pl"
+  ],
+  "storySummaries": {
+    "featuredStories": [],
+    "trendingStories": [
+      {
+        "image": {
+          "newsUrl": "https://przegladsportowy.onet.pl/pilka-nozna/korona-kielce-zaglebie-lubin-na-zywo-relacja-i-wynik/7rn7teh",
+          "source": "Przegląd Sportowy",
+          "imgUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsE9mrb1KjdbMwpVYmWGQNKvKvl7EtOzfu6AC-EgxqPf23DCWTf4EmXBHVH9Q"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_dfWzdAAAAADGAM_pl&category=all&geo=PL#PL_lnk_dfWzdAAAAADGAM_pl",
+        "articles": [
+          {
+            "articleTitle": "Korona Kielce - Zagłębie Lubin NA ŻYWO. Relacja i wynik.",
+            "url": "https://przegladsportowy.onet.pl/pilka-nozna/korona-kielce-zaglebie-lubin-na-zywo-relacja-i-wynik/7rn7teh",
+            "source": "Przegląd Sportowy",
+            "time": "14 hours ago",
+            "snippet": "Korona Kielce - Zagłębie Lubin to spotkanie 29. kolejki PKO BP Ekstraklasy. \nObie ekipy muszą pozostać czujne, bo przewaga nad strefą..."
+          },
+          {
+            "articleTitle": "PKO Ekstraklasa. Tłum kibiców Korony Kielce przed stadionem. Zobaczcie co \ndziało się przed meczem z Zagłębiem ...",
+            "url": "https://gol24.pl/pko-ekstraklasa-tlum-kibicow-korony-kielce-przed-stadionem-zobaczcie-co-dzialo-sie-przed-meczem-z-zaglebiem-lubin-na-suzuki/ar/c2-17482249",
+            "source": "Gol24",
+            "time": "41 minutes ago",
+            "snippet": "Bardzo dużym zainteresowaniem cieszy się niedzielny mecz PKO BP \nEkstraklasy, w którym Korona Kielce na Suzuki Arenie gra z Zagłębiem Lubin."
+          },
+          {
+            "articleTitle": "PKO Ekstraklasa. Kamil Kuzera zdradza tajemnicę przemiany Korony Kielce. \n\"Przekonali się do jeżdżenia na d…ch\"",
+            "url": "https://sport.tvp.pl/69368716/pko-ekstraklasa-kamil-kuzera-zdradza-tajemnice-przemiany-korony-kielce-przekonali-sie-do-jezdzenia-na-dch",
+            "source": "TVP Sport",
+            "time": "7 hours ago",
+            "snippet": "Kamil Kuzera przejął Koronę w listopadzie po tym, jak klub postanowił \nrozstać się z Leszkiem Ojrzyńskim. Po trudnym początku później sprawił..."
+          },
+          {
+            "articleTitle": "PKO Ekstraklasa. Mecz Korona Kielce - Zagłębie Lubin ONLINE. Po siódme \ndomowe zwycięstwo z rzędu. Gdzie ...",
+            "url": "https://gol24.pl/pko-ekstraklasa-mecz-korona-kielce-zaglebie-lubin-online-po-siodme-domowe-zwyciestwo-z-rzedu-gdzie-ogladac-transmisja-tv-na-zywo/rs/c2-4605907211",
+            "source": "Gol24",
+            "time": "35 minutes ago",
+            "snippet": "Korona Kielce - Zagłębie Lubin ONLINE. Odmienieni na wiosnę kielczanie \npostarają się o siódme z rzędu domowe zwycięstwo."
+          },
+          {
+            "articleTitle": "PKO BP Ekstraklasa: Korona Kielce - Zagłębie Lubin. Relacja i wynik na żywo",
+            "url": "https://www.polsatsport.pl/wiadomosc/2023-04-23/pko-bp-ekstraklasa-korona-kielce-zaglebie-lubin-relacja-i-wynik-na-zywo/",
+            "source": "Polsat Sport",
+            "time": "14 hours ago",
+            "snippet": "KGHM Zagłębie nie wygrało już od pięciu meczów i tę czarną serię chce \nprzerwać w niedzielnym spotkaniu piłkarskiej ekstraklasy z Koroną w..."
+          },
+          {
+            "articleTitle": "Korona idzie na rekord. Sama może sprawić sobie komfort",
+            "url": "https://sportowefakty.wp.pl/pilka-nozna/1056563/korona-idzie-na-rekord-sama-moze-sprawic-sobie-komfort",
+            "source": "SportoweFakty",
+            "time": "18 hours ago",
+            "snippet": "Od początku ustaliliśmy z zespołem, że postaramy się zrobić coś, co \nzostanie z nami na całe życie - mówi trener Korony Kielce Kamil Kuzera."
+          },
+          {
+            "articleTitle": "Korona Kielce – Zagłębie Lubin infoMECZ",
+            "url": "https://korona-kielce.pl/artykuly/2023/97186-infomecz-korona-kielce-zaglebie-lubin/",
+            "source": "Korona Kielce",
+            "time": "1 day ago",
+            "snippet": "Przed nami 29.kolejka PKO BP Ekstraklasy, w której to Żółto-Czerwoni na \nSuzuki Arenie podejmą Zagłębie Lubin."
+          },
+          {
+            "articleTitle": "Trela: Podstawy do utrzymania. Pięć aspektów, które odmieniły sytuację \nKorony",
+            "url": "https://weszlo.com/2023/04/23/korona-kielce-rewelacja-wiosny-utrzymanie",
+            "source": "Weszło",
+            "time": "4 hours ago",
+            "snippet": "Kamil Kuzera nie wymyślił futbolu na nowo. Paweł Golański nie wynalazł \nnowych gwiazd ligi. Mimo to kielczanie zamienili się z głównego..."
+          },
+          {
+            "articleTitle": "KORONA KIELCE - ZAGŁĘBIE LUBIN [RELACJA]",
+            "url": "https://radiokielce.pl/1041199/korona-kielce-zaglebie-lubin-relacja/",
+            "source": "Radio Kielce",
+            "time": "2 hours ago",
+            "snippet": "Dzień dobry! Już za pół godziny początek kolejnego, bardzo ważnego dla \nKorony meczu. Dziś rywalem Zagłębie Lubin, czyli bezpośredni rywal w..."
+          },
+          {
+            "articleTitle": "Korona – Zagłębie Lubin: typy, kursy, zapowiedź (23.04.2023)",
+            "url": "https://www.goal.pl/typy/korona-zaglebie-lubin-typy-kursy-zapowiedz-23042023/",
+            "source": "Goal.pl",
+            "time": "1 day ago",
+            "snippet": "Złocisto-Krwiści w rundzie wiosennej PKO BP Ekstraklasy dzielnie walczą o \nutrzymanie i wiele wskazuje na to, że uda im się ta sztuka."
+          }
+        ],
+        "idsForDedup": [
+          "/g/11b6gnztrq /g/121bdg5w",
+          "/g/11b6gnztrq /m/0324n_",
+          "/g/11b6gnztrq /m/03d3q3",
+          "/g/11b6gnztrq /m/09nw6c",
+          "/g/11b6gnztrq /m/0cncm6",
+          "/g/11b6gnztrq /m/0cz9jp6",
+          "/g/121bdg5w /m/0324n_",
+          "/g/121bdg5w /m/03d3q3",
+          "/g/121bdg5w /m/09nw6c",
+          "/g/121bdg5w /m/0cncm6",
+          "/g/121bdg5w /m/0cz9jp6",
+          "/m/0324n_ /m/03d3q3",
+          "/m/0324n_ /m/09nw6c",
+          "/m/0324n_ /m/0cncm6",
+          "/m/0324n_ /m/0cz9jp6",
+          "/m/03d3q3 /m/09nw6c",
+          "/m/03d3q3 /m/0cncm6",
+          "/m/03d3q3 /m/0cz9jp6",
+          "/m/09nw6c /m/0cncm6",
+          "/m/09nw6c /m/0cz9jp6",
+          "/m/0cncm6 /m/0cz9jp6"
+        ],
+        "id": "PL_lnk_dfWzdAAAAADGAM_pl",
+        "title": "Korona Kielce, Zagłębie Lubin, Ekstraklasa, game, Kamil Kuzera, Kielce Municipal Stadium - Suzuki Arena, competitive player",
+        "entityNames": [
+          "Korona Kielce",
+          "Zagłębie Lubin",
+          "Ekstraklasa",
+          "game",
+          "Kamil Kuzera",
+          "Kielce Municipal Stadium - Suzuki Arena",
+          "competitive player"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://intermediolan.com/news/38104/mkhitarian-wycofal-sie-z-rywalizacji-z-empoli",
+          "source": "Inter Mediolan",
+          "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwL5rTqTc0yHpihIVX1H0zZ88kalSM0HvrMY3pCEvldmAg8pV22u8LygiPjkw"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_UcHEdQAAAACVNM_pl&category=all&geo=PL#PL_lnk_UcHEdQAAAACVNM_pl",
+        "articles": [
+          {
+            "articleTitle": "Mkhitarian wycofał się z rywalizacji z Empoli",
+            "url": "https://intermediolan.com/news/38104/mkhitarian-wycofal-sie-z-rywalizacji-z-empoli",
+            "source": "Inter Mediolan",
+            "time": "4 hours ago",
+            "snippet": "Henrikh Mkhitarian wyrósł w tym sezonie na kluczowego zawodnika drużyny \nSimone Inzaghiego. Niestety 34-latek nie będzie dost��pny na mecz..."
+          },
+          {
+            "articleTitle": "Mkhitaryana zabraknie w Empoli, sporo rotacji w wyjściowej jedenastce (9)",
+            "url": "https://fcinter.pl/news/mkhitaryana-zabraknie-w-empoli-sporo-rotacji-w-wyjsciowej-jedenastce",
+            "source": "Inter Mediolan",
+            "time": "12 hours ago",
+            "snippet": "Nerazzurri już dziś o 12:30 zmierzą się na wyjeździe z Empoli, niecałe \ncztery dni po ćwierćfinałowym meczu z Benfiką w Lidze Mistrzów."
+          }
+        ],
+        "idsForDedup": [
+          "/g/121bdg5w /m/03x6m",
+          "/g/121bdg5w /m/045xx",
+          "/g/121bdg5w /m/049fbh",
+          "/g/121bdg5w /m/04psgg",
+          "/m/03x6m /m/045xx",
+          "/m/03x6m /m/049fbh",
+          "/m/03x6m /m/04psgg",
+          "/m/045xx /m/049fbh",
+          "/m/045xx /m/04psgg",
+          "/m/049fbh /m/04psgg"
+        ],
+        "id": "PL_lnk_UcHEdQAAAACVNM_pl",
+        "title": "Empoli F.C., Inter Milan, Coppa Italia, Juventus F.C., game",
+        "entityNames": [
+          "Empoli F.C.",
+          "Inter Milan",
+          "Coppa Italia",
+          "Juventus F.C.",
+          "game"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://garbarnia.krakow.pl/2023/04/23/sprzedaz-biletow-na-mecz-z-kotwica-kolobrzeg/",
+          "source": "Garbarnia Kraków",
+          "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOHHqLNL5tspO0jQ85qxFRzLrHLBn-b7HOaRSlgLsjexAzCqPZE5tMYkdoa8E"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_0G2xdQAAAABhmM_pl&category=all&geo=PL#PL_lnk_0G2xdQAAAABhmM_pl",
+        "articles": [
+          {
+            "articleTitle": "Sprzedaż biletów na mecz z Kotwicą Kołobrzeg – RKS Garbarnia Kraków – \noficjalny serwis klubu",
+            "url": "https://garbarnia.krakow.pl/2023/04/23/sprzedaz-biletow-na-mecz-z-kotwica-kolobrzeg/",
+            "source": "Garbarnia Kraków",
+            "time": "6 hours ago",
+            "snippet": "W ostatnim kwietniowym domowym pojedynku Garbarnia Kraków zmierzy się z \nKotwicą Kołobrzeg. Mecz 29. kolejki eWinner 2. Ligi odbędzie się w..."
+          }
+        ],
+        "idsForDedup": [
+          "/g/121bdg5w /g/122t1pc_",
+          "/g/121bdg5w /m/0324l8",
+          "/g/121bdg5w /m/03yhx28",
+          "/g/121bdg5w /m/04p_z56",
+          "/g/122t1pc_ /m/0324l8",
+          "/g/122t1pc_ /m/03yhx28",
+          "/g/122t1pc_ /m/04p_z56",
+          "/m/0324l8 /m/03yhx28",
+          "/m/0324l8 /m/04p_z56",
+          "/m/03yhx28 /m/04p_z56"
+        ],
+        "id": "PL_lnk_0G2xdQAAAABhmM_pl",
+        "title": "game, II liga, Górnik Polkowice, Kotwica Kołobrzeg",
+        "entityNames": [
+          "game",
+          "II liga",
+          "Górnik Polkowice",
+          "Kotwica Kołobrzeg"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://www.sport.pl/tenis/14,64987,29690357.html",
+          "source": "Sport.pl",
+          "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_kBtmDKR9bdKLwF4mBIqO0SM7FnXay1huK9HmMuR4zjJgZ6IDwYrfa1-LPbk"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_0j-2cwAAAABkzM_pl&category=all&geo=PL#PL_lnk_0j-2cwAAAABkzM_pl",
+        "articles": [
+          {
+            "articleTitle": "Wielki finał z Igą Świątek. Gra z Sabalenką o triumf w Stuttgarcie Tenis",
+            "url": "https://www.sport.pl/tenis/14,64987,29690357.html",
+            "source": "Sport.pl",
+            "time": "12 minutes ago",
+            "snippet": "Światek - Sabalenka 0:0, 5:3. Jest przełamanie! Co to był za kosmiczny gem! \nMarcin Jaz. www.sport.pl. Wielki finał z Igą Świątek."
+          },
+          {
+            "articleTitle": "\"Zabiłaby mnie\". Huber nie ma wątpliwości. \"Iga Świątek już jest legendą\"",
+            "url": "https://www.sport.pl/tenis/7,64987,29690300,zabilaby-mnie-dyrektorka-turnieju-w-stuttgarcie-o-swiatek.html",
+            "source": "Sport.pl",
+            "time": "52 minutes ago",
+            "snippet": "Zabiłaby mnie - wypaliła Anke Huber, była niemiecka tenisistka, a obecnie \ndyrektorka turnieju w Stuttgarcie na pytanie, jak poradziłaby..."
+          },
+          {
+            "articleTitle": "WTA w Stuttgarcie: Iga Świątek - Aryna Sabalenka. Relacja i wynik na żywo",
+            "url": "https://www.polsatsport.pl/wiadomosc/2023-04-23/wta-w-stuttgarcie-iga-swiatek-aryna-sabalenka-relacja-i-wynik-na-zywo/",
+            "source": "Polsat Sport",
+            "time": "3 hours ago",
+            "snippet": "W wielkim finale turnieju WTA 500 w Stuttgarcie Iga Świątek zmierzy się z \nBiałorusinką Aryną Sabalenką. Czy Polce uda się obronić wywalczony..."
+          },
+          {
+            "articleTitle": "Gwiazda niemieckiego tenisa wypaliła o Świątek: zabiłaby mnie!",
+            "url": "https://przegladsportowy.onet.pl/tenis/gwiazda-niemieckiego-tenisa-wypalila-o-swiatek-zabilaby-mnie/zkyc16d",
+            "source": "Przegląd Sportowy",
+            "time": "19 hours ago",
+            "snippet": "Była niemiecka tenisistka, pełniąca obecnie rolę dyrektorki operacyjnej \nturnieju WTA 500 w Stutgarcie Anke Huber, zapytana została,..."
+          },
+          {
+            "articleTitle": "Iga Świątek - Aryna Sabalenka w finale WTA w Stuttgarcie. Relacja na żywo",
+            "url": "https://sport.fakt.pl/iga-swiatek-aryna-sabalenka-w-finale-wta-w-stuttgarcie-relacja-na-zywo/g56e9l5",
+            "source": "Sport",
+            "time": "49 minutes ago",
+            "snippet": "Iga Świątek gra o drugi w karierze triumf na kortach ziemnych w \nStuttgarcie. Podobnie jak przed rokiem w decydującym spotkaniu jej \nrywalką..."
+          },
+          {
+            "articleTitle": "Iga Świątek – Aryna Sabalenka [NA ŻYWO]. Relacja online z finału WTA \nStuttgart w niedzielę 23.4.2023 (sport.tvp.pl)",
+            "url": "https://sport.tvp.pl/69374399/iga-swiatek-aryna-sabalenka-na-zywo-relacja-online-z-finalu-wta-stuttgart-w-niedziele-2342023",
+            "source": "TVP Sport",
+            "time": "6 hours ago",
+            "snippet": "Iga Świątek zapewniła sobie awans do finału turnieju w Stuttgarcie w 18 \nminut. Wszystko dlatego, że ze względu na kontuzję skreczowała jej..."
+          },
+          {
+            "articleTitle": "Napracowała się bardziej niż na korcie. Szaleństwo wokół Świątek",
+            "url": "https://sportowefakty.wp.pl/tenis/1056643/napracowala-sie-bardziej-niz-na-korcie-szalenstwo-wokol-swiatek",
+            "source": "SportoweFakty",
+            "time": "17 hours ago",
+            "snippet": "Iga Świątek spędziła w sobotę mało czasu na korcie z powodu kontuzji Ons \nJabeur. Po kreczu rywalki Polka awansowała do finału."
+          },
+          {
+            "articleTitle": "Świątek w finale w Stuttgarcie! Kontuzja i dramat rywalki Polki",
+            "url": "https://przegladsportowy.onet.pl/tenis/swiatek-w-finale-w-stuttgarcie-kontuzja-i-dramat-rywalki-polki/2cfrmtw",
+            "source": "Przegląd Sportowy",
+            "time": "1 day ago",
+            "snippet": "Iga Świątek awansowała do finału turnieju WTA 500 w Stuttgarcie. Polka \nspędziła na korcie z Ons Jabuer zaledwie trzy gemy."
+          },
+          {
+            "articleTitle": "Słynny trener grzmi ws. rywalek Igi Świątek. Jaśniej się nie da. \"To \nprzekracza moje pojęcie\"",
+            "url": "https://www.sport.pl/tenis/7,64987,29689408,slynny-trener-grzmi-ws-rywalek-igi-swiatek-jasniej-sie-nie.html",
+            "source": "Sport.pl",
+            "time": "17 hours ago",
+            "snippet": "Lepiej nic nie mówić niż tak głupio się wypowiadać - denerwuje się Piotr \nWoźniacki. Ojciec i trener Karoliny Woźniackiej, byłej numer 1..."
+          },
+          {
+            "articleTitle": "WTA Stuttgart. Gdzie oglądać mecz Iga Świątek - Aryna Sabalenka? Czy będzie \nw telewizji?",
+            "url": "https://sportowefakty.wp.pl/tenis/1056697/wta-stuttgart-gdzie-ogladac-mecz-iga-swiatek-aryna-sabalenka-czy-bedzie-w-telewi",
+            "source": "SportoweFakty",
+            "time": "7 hours ago",
+            "snippet": "Iga Świątek - Aryna Sabalenka to spotkanie finałowe turnieju WTA 500 w \nStuttgarcie. Do tego starcia dojdzie w niedzielę, 23 kwietnia,..."
+          }
+        ],
+        "idsForDedup": [
+          "/g/11c54bv10v /m/0727_",
+          "/g/11c54bv10v /m/084sjy",
+          "/g/11c54bv10v /m/09rtm_1",
+          "/g/11c54bv10v /m/0c3z8z5",
+          "/g/11c54bv10v /m/0fvb2",
+          "/m/0727_ /m/084sjy",
+          "/m/0727_ /m/09rtm_1",
+          "/m/0727_ /m/0c3z8z5",
+          "/m/0727_ /m/0fvb2",
+          "/m/084sjy /m/09rtm_1",
+          "/m/084sjy /m/0c3z8z5",
+          "/m/084sjy /m/0fvb2",
+          "/m/09rtm_1 /m/0c3z8z5",
+          "/m/09rtm_1 /m/0fvb2",
+          "/m/0c3z8z5 /m/0fvb2"
+        ],
+        "id": "PL_lnk_0j-2cwAAAABkzM_pl",
+        "title": "Iga Świątek, Women's Tennis Association, Women's Stuttgart Open, Stuttgart, Karolína Plíšková, Ons Jabeur",
+        "entityNames": [
+          "Iga Świątek",
+          "Women's Tennis Association",
+          "Women's Stuttgart Open",
+          "Stuttgart",
+          "Karolína Plíšková",
+          "Ons Jabeur"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://sportowefakty.wp.pl/kolarstwo/1056749/hat-trick-holenderki-w-liege-bastogne-liege-pech-niewiadomej",
+          "source": "SportoweFakty",
+          "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLsLUxbZ0gh8syUmB-kX5SVw8YUM9HYC5cXp_9-L7Qq2n4b4BkKZMe91G4UDQ"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_a4OddQAAAAD2dM_pl&category=all&geo=PL#PL_lnk_a4OddQAAAAD2dM_pl",
+        "articles": [
+          {
+            "articleTitle": "Hat-trick Holenderki w Liege-Bastogne-Liege. Pech Niewiadomej",
+            "url": "https://sportowefakty.wp.pl/kolarstwo/1056749/hat-trick-holenderki-w-liege-bastogne-liege-pech-niewiadomej",
+            "source": "SportoweFakty",
+            "time": "30 minutes ago",
+            "snippet": "Zawodniczki rywalizowały na najeżonej podjazdami 143 kilometrowej trasie z \nBastogne do Liege. Główną faworytką wyścigu była Holenderka Demi..."
+          },
+          {
+            "articleTitle": "Liège-Bastogne-Liège 2023: Tadej Pogačar poza rywalizacją!",
+            "url": "https://naszosie.pl/2023/04/23/liege-bastogne-liege-2023-tadej-pogacar-poza-rywalizacja/",
+            "source": "naszosie.pl",
+            "time": "57 minutes ago",
+            "snippet": "Już na 167km przed metą zakończyła się dla Tadeja Pogačara walka o wygranie \ncałego Tryptyku Ardeńskiego w jednym roku."
+          },
+          {
+            "articleTitle": "Julian Alaphilippe wraca do składu Soudal-Quick Step. Pomoże Remco \nEvenepoelowi",
+            "url": "https://naszosie.pl/2023/04/21/julian-alaphilippe-wraca-do-skladu-soudal-quick-step-pomoze-remco-evenepoelowi/",
+            "source": "naszosie.pl",
+            "time": "2 days ago",
+            "snippet": "Po około 20-dniowej przerwie Julian Alaphilippe wraca do ścigania. Nie on \nbędzie jednak liderem Soudal-Quick Step na Liege-Bastogne-Liege,..."
+          },
+          {
+            "articleTitle": "Liege-Bastogne-Liege: Vollering znów najszybsza, Niewiadoma na 11. miejscu",
+            "url": "https://sport.tvp.pl/69377214/liege-bastogne-liege-vollering-znow-najszybsza-niewiadoma-na-11-miejscu",
+            "source": "TVP Sport",
+            "time": "1 hour ago",
+            "snippet": "Holenderka Demi Vollering z ekipy SD Worx wygrała słynny kolarski klasyk \nLiege-Bastogne-Liege, wyprzedzając na finiszu Włoszkę Elisę Longo..."
+          },
+          {
+            "articleTitle": "Liege-Bastogne-Liege 2023. Kiedy i o której wyścig? Transmisja w TV i \nonline w Internecie. Gdzie oglądać ...",
+            "url": "https://eurosport.tvn24.pl/kolarstwo,129/liege-bastogne-liege-2023-kiedy-i-o-ktorej-wyscig-transmisja-w-tv-i-online-w-internecie-gdzie-ogladac-kolarstwo,1143708.html",
+            "source": "Eurosport",
+            "time": "7 hours ago",
+            "snippet": "W niedzielę odbędzie się jeden z najważniejszych kolarskich klasyków, czyli \nwyścig Liege-Bastogne-Liege. Na starcie nie zabraknie gwiazd,..."
+          },
+          {
+            "articleTitle": "Kwiatkowski, Niewiadoma, Owsian i Lach przed Liege-Bastogne-Liege",
+            "url": "https://rowery.org/2023/04/22/kwiatkowski-niewiadoma-owsian-i-lach-przed-liege-bastogne-liege/",
+            "source": "Rowery.org",
+            "time": "18 hours ago",
+            "snippet": "Michał Kwiatkowski, Łukasz Owsian, Katarzyna Niewiadoma i Marta Lach to \npolska czwórka, która w niedzielę przystąpi do wyścigów..."
+          },
+          {
+            "articleTitle": "Napisać historię – zapowiedź Liège-Bastogne-Liège 2023",
+            "url": "https://naszosie.pl/2023/04/23/napisac-historie-zapowiedz-liege-bastogne-liege-2023/",
+            "source": "naszosie.pl",
+            "time": "4 hours ago",
+            "snippet": "W mgnieniu oka przeleciała kampania wiosennych klasyków, która dziś \nzostanie zwieńczona monumentem – Liège-Bastogne-Liège."
+          },
+          {
+            "articleTitle": "Liège-Bastogne-Liège Femmes 2023: Demi Vollering zdobywa potrójną koronę w \nArdenach!",
+            "url": "https://naszosie.pl/2023/04/23/liege-bastogne-liege-femmes-2023-demi-vollering-zdobywa-potrojna-korone-w-ardenach/",
+            "source": "naszosie.pl",
+            "time": "1 hour ago",
+            "snippet": "Po zwycięstwie w dwójkowym sprincie przeciwko Elisie Longo Borghini \n(Trek-Segafredo) Demi Vollering (SD Worx) wygrała wyścig..."
+          },
+          {
+            "articleTitle": "Zapowiedź Liege-Bastogne-Liege 2023",
+            "url": "https://rowery.org/2023/04/22/zapowiedz-liege-bastogne-liege-2023/",
+            "source": "Rowery.org",
+            "time": "1 day ago",
+            "snippet": "W niedzielę odbędzie się ostatni akt klasycznej wiosny, monument \nLiege-Bastogne-Liege. Po dwóch odsłonach Ardeńskiego Tryptyku Demi..."
+          },
+          {
+            "articleTitle": "Liège-Bastogne-Liège 2023: Listy startowe wyścigów mężczyzn i kobiet",
+            "url": "https://naszosie.pl/2023/04/23/liege-bastogne-liege-2023-listy-startowe-wyscigow-mezczyzn-i-kobiet/",
+            "source": "naszosie.pl",
+            "time": "3 hours ago",
+            "snippet": "Dziś poznamy zwycięzcę i zwyciężczynię Liège-Bastogne-Liège. Na ardeńskich \npodjazdach powalczą najwięksi specjaliści i specjalistki od jazdy..."
+          }
+        ],
+        "idsForDedup": [
+          "/g/11d_77s5gz /g/11g0g4s_yq",
+          "/g/11d_77s5gz /m/03nr40",
+          "/g/11d_77s5gz /m/05yskv",
+          "/g/11d_77s5gz /m/0d4k2",
+          "/g/11d_77s5gz /m/0hn8pqk",
+          "/g/11d_77s5gz /m/0y65wfl",
+          "/g/11g0g4s_yq /m/03nr40",
+          "/g/11g0g4s_yq /m/05yskv",
+          "/g/11g0g4s_yq /m/0d4k2",
+          "/g/11g0g4s_yq /m/0hn8pqk",
+          "/g/11g0g4s_yq /m/0y65wfl",
+          "/m/03nr40 /m/05yskv",
+          "/m/03nr40 /m/0d4k2",
+          "/m/03nr40 /m/0hn8pqk",
+          "/m/03nr40 /m/0y65wfl",
+          "/m/05yskv /m/0d4k2",
+          "/m/05yskv /m/0hn8pqk",
+          "/m/05yskv /m/0y65wfl",
+          "/m/0d4k2 /m/0hn8pqk",
+          "/m/0d4k2 /m/0y65wfl",
+          "/m/0hn8pqk /m/0y65wfl"
+        ],
+        "id": "PL_lnk_a4OddQAAAAD2dM_pl",
+        "title": "Liège–Bastogne–Liège, Classic cycle races, Remco Evenepoel, Katarzyna Niewiadoma, Tadej Pogačar, Liège, Annemiek van Vleuten",
+        "entityNames": [
+          "Liège–Bastogne–Liège",
+          "Classic cycle races",
+          "Remco Evenepoel",
+          "Katarzyna Niewiadoma",
+          "Tadej Pogačar",
+          "Liège",
+          "Annemiek van Vleuten"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://www.dziennikwschodni.pl/lublin/plonie-auto-na-obwodnicy-lublina-utrudnienia-w-ruchu,n,1000323426.html",
+          "source": "Dziennik Wschodni",
+          "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8tAY_2lzwM6NZlEHiAVvDti1nTzCYssn511wHMzCGfV6KPrtV4ElEnPG_ga8"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_jLvvdAAAAABjTM_pl&category=all&geo=PL#PL_lnk_jLvvdAAAAABjTM_pl",
+        "articles": [
+          {
+            "articleTitle": "Płonie auto na obwodnicy Lublina. Utrudnienia w ruchu",
+            "url": "https://www.dziennikwschodni.pl/lublin/plonie-auto-na-obwodnicy-lublina-utrudnienia-w-ruchu,n,1000323426.html",
+            "source": "Dziennik Wschodni",
+            "time": "1 hour ago",
+            "snippet": "Do zdarzenia doszło w południu pomiędzy węzłami Rudnik i Tatary. \nZablokowany jest pas awaryjny i pas prawy jezdni w kierunku Chełma i..."
+          },
+          {
+            "articleTitle": "Pożar samochodu na drodze ekspresowej S17 pod Lublinem. Droga zablokowana, \nkierowcy utknęli w korku",
+            "url": "https://spottedlublin.pl/pozar-samochodu-na-drodze-ekspresowej-s17-pod-lublinem-droga-zablokowana-kierowcy-utkneli-w-korku/",
+            "source": "Spotted Lublin",
+            "time": "4 days ago",
+            "snippet": "Kilka minut przed godziną 14 na drodze ekspresową S17 pod Lublinem doszło \ndo pożaru samochodu. Na miejscu interweniują trzy zastępy straży..."
+          },
+          {
+            "articleTitle": "Na ekspresówce samochód stanął w płomieniach. Są utrudnienia na jezdni w \nstronę Lublina 15:23 20-04-2023",
+            "url": "https://www.lublin112.pl/na-ekspresowce-samochod-stanal-w-plomieniach-sa-utrudnienia-na-jezdni-w-strone-lublina/",
+            "source": "Lublin112.pl",
+            "time": "2 days ago",
+            "snippet": "Na drodze ekspresowej S12/17 płonie auto osobowe. Przed chwilą na miejsce \ndotarła straż pożarna. Trwa akcja gaśnicza, są utrudnienia w ruchu..."
+          },
+          {
+            "articleTitle": "Pożar samochodu na S17",
+            "url": "https://lublin.tvp.pl/69259531/pozar-samochodu-na-s17",
+            "source": "TVP Lublin",
+            "time": "4 days ago",
+            "snippet": "Pożar samochodu na drodze ekspresowej S12/S17 między węzłami \nLublin-Sławinek, a Jastków na wysokości Bogucina. Do wypadku doszło na \ntrasie w..."
+          },
+          {
+            "articleTitle": "Pożar samochodu na drodze ekspresowej S17. Kierowcy muszą liczyć się z \nutrudnieniami w ruchu",
+            "url": "https://kurierlubelski.pl/pozar-samochodu-na-drodze-ekspresowej-s17-kierowcy-musza-liczyc-sie-z-utrudnieniami-w-ruchu/ar/c16-17468223",
+            "source": "Kurier Lubelski",
+            "time": "4 days ago",
+            "snippet": "W miejscowości Panieńszczyzna na drodze ekspresowej nr S12/S17 w okolicy \nwęzła Lublin Sławinek – węzeł Jastków doszło do pożaru samochodu..."
+          },
+          {
+            "articleTitle": "Pożar samochodu na S17. Ogromne korki na trasie Lublin – Warszawa",
+            "url": "https://www.dziennikwschodni.pl/powiat-lubelski/pozar-samochodu-na-s17-ogromne-korki-na-trasie-lublin-warszawa,n,1000323201.html",
+            "source": "Dziennik Wschodni",
+            "time": "4 days ago",
+            "snippet": "Trudno jest przejechać drogą ekspresową numer 17 w kierunku Warszawy. To \nprzez pożar samochodu osobowego."
+          },
+          {
+            "articleTitle": "Pożar samochodu na drodze ekspresowej. Są utrudnienia w ruchu na trasie w \nstronę Warszawy (wideo)",
+            "url": "https://www.lublin112.pl/pozar-samochodu-na-drodze-ekspresowej-sa-utrudnienia-w-ruchu-na-trasie-w-strone-warszawy-wideo/",
+            "source": "Lublin112.pl",
+            "time": "4 days ago",
+            "snippet": "We wtorek po południu na drodze ekspresowej doszło do pożaru pojazdu \nosobowego. Obecnie występują utrudnienia w ruchu na pasach w kierunku..."
+          }
+        ],
+        "idsForDedup": [
+          "/g/122tvdd2 /m/05pbymr",
+          "/g/122tvdd2 /m/0jw_5",
+          "/m/05pbymr /m/0jw_5"
+        ],
+        "id": "PL_lnk_jLvvdAAAAABjTM_pl",
+        "title": "Lublin, Expressway S17, Lublina bypass",
+        "entityNames": ["Lublin", "Expressway S17", "Lublina bypass"]
+      },
+      {
+        "image": {
+          "newsUrl": "https://www.pomponik.pl/plotki/news-nie-zyje-edmund-karwanski-aktor-znany-z-barw-szczescia-byly-,nId,6734992",
+          "source": "Pomponik",
+          "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvAJScQKJb4SwEoWim8JgmJXlaJey12jgFFYc8xvg7RejazEFpbWUJEnsKysg"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_lsa6dQAAAAAsMM_pl&category=all&geo=PL#PL_lnk_lsa6dQAAAAAsMM_pl",
+        "articles": [
+          {
+            "articleTitle": "Nie żyje Edmund Karwański, aktor znany z \"Barw szczęścia\". Były dyrektor \nTeatru Kwadrat miał 94 lata",
+            "url": "https://www.pomponik.pl/plotki/news-nie-zyje-edmund-karwanski-aktor-znany-z-barw-szczescia-byly-,nId,6734992",
+            "source": "Pomponik",
+            "time": "5 hours ago",
+            "snippet": "Nie żyje Edmund Karwański - tę smutną informację przekazał Teatr Kwadrat, \nktórego 94-letni aktor był także wieloletnim dyrektorem."
+          },
+          {
+            "articleTitle": "Zmarł gwiazdor \"Barw szczęścia\". Co za wzruszające pożegnanie kolegów",
+            "url": "https://ludzie.fakt.pl/zmarl-gwiazdor-barw-szczescia-co-za-wzruszajace-pozegnanie-kolegow/7s4gexg",
+            "source": "Ludzie",
+            "time": "4 hours ago",
+            "snippet": "Smutna wiadomość dla aktorskiego świata. W nocy z 21 na 22 kwietnia zmarł \nEdmund Karwański. Polski aktor filmowy, serialowy i teatralny,..."
+          },
+          {
+            "articleTitle": "Nie żyje Edmund Karwański, aktor serialu \"Barwy szczęścia\"",
+            "url": "https://www.rmf.fm/magazyn/news,55799,nie-zyje-edmund-karwanski-aktor-serialu-barwy-szczescia.html",
+            "source": "RMF FM",
+            "time": "4 hours ago",
+            "snippet": "Nie żyje Edmund Karwański, polski aktor teatralny, filmowy i telewizyjny \nznany m. in. z serialu \"Barwy szczęścia\". Wiadomość o jego śmierci..."
+          },
+          {
+            "articleTitle": "Edmund Karwański nie żyje. Były dyrektor Teatru Kwadrat miał 94 lata",
+            "url": "https://plejada.pl/newsy/edmund-karwanski-nie-zyje-byly-dyrektor-teatru-kwadrat-mial-94-lata/d2lg23s",
+            "source": "Plejada",
+            "time": "20 hours ago",
+            "snippet": "Edmund Karwański nie żyje. W latach 1986-2010 był dyrektorem Teatru \nKwadrat. Aktor grał także w serialach \"Barwy szczęścia\",..."
+          },
+          {
+            "articleTitle": "Edmund Karwański nie żyje. Aktor \"Złotopolskich\" i \"Barw szczęścia\" miał 94 \nlata",
+            "url": "https://www.plotek.pl/plotek/7,154063,29689204,edmund-karwanski-nie-zyje-aktor-zlotopolskich-i-barw-szczescia.html",
+            "source": "Plotek",
+            "time": "19 hours ago",
+            "snippet": "Edmund Karwański nie żyje. Aktor znany z seriali 'Barwy szczęścia', 'Magda \nM.' czy 'Złotopolscy' miał 94 lata."
+          },
+          {
+            "articleTitle": "Nie żyje Edmund Karwański. Słynny aktor zmarł w wieku 94 lat",
+            "url": "https://gazetawroclawska.pl/nie-zyje-edmund-karwanski-slynny-aktor-zmarl-w-wieku-94-lat/ar/c13-17481185",
+            "source": "Gazeta Wrocławska",
+            "time": "19 hours ago",
+            "snippet": "W sobotę 22 kwietnia media obiegły wyjątkowo smutne wieści o śmierci \nEdmunda Karwańskiego. Aktor, którego mogliśmy oglądać m.in. w..."
+          },
+          {
+            "articleTitle": "Nie żyje Edmund Karwański. Grał w popularnym serialu",
+            "url": "https://www.o2.pl/plotki/nie-zyje-edmund-karwanski-gral-w-popularnym-serialu-6890392390240832a",
+            "source": "O2",
+            "time": "16 hours ago",
+            "snippet": "Smutne informacje przekazał w mediach społecznościowych Teatr Kwadrat. Nie \nżyje Edmund Karwański. Odszedł w wieku 94 lat."
+          },
+          {
+            "articleTitle": "Nie żyje aktor Edmund Karwański. Znali go widzowie „Barw szczęścia”",
+            "url": "https://www.wirtualnemedia.pl/artykul/edmund-karwanski-aktor-zmarl-barwy-szczescia",
+            "source": "Wirtualne Media",
+            "time": "16 hours ago",
+            "snippet": "W wieku 94 lat zmarł aktor teatralny, filmowy i serialowy Edmund Karwański, \nprzez 24 lata dyrektor stołecznego Teatru Kwadrat. O śmierci..."
+          },
+          {
+            "articleTitle": "Edmund Karwański nie żyje! Aktor był znany m.in. z \"Barw Szczęścia\" i \n\"Złotopolskich\"",
+            "url": "https://www.se.pl/wiadomosci/exclusive/edmund-karwanski-nie-zyje-aktor-byl-znany-m-in-z-barw-szczescia-i-zlotopolskich-aa-TMdc-eSJF-CviA.html",
+            "source": "Super Express",
+            "time": "18 hours ago",
+            "snippet": "Smutne wieści z Warszawy w sobotnie popołudnie. Jak poinformował Teatr \nKwadrat na swoim facebookowym profilu, nie żyje Edmun Karwański."
+          },
+          {
+            "articleTitle": "Nie żyje aktor \"Złotopolskich\" i \"Barw szczęścia\"",
+            "url": "https://www.tysol.pl/a103199-nie-zyje-aktor-zlotopolskich-i-barw-szczescia",
+            "source": "Tygodnik Solidarność",
+            "time": "18 hours ago",
+            "snippet": "Media obiegła informacja o śmierci aktora znanego z seriali Barwy \nszczęścia, Złotopolscy i Magda M. Edmund Karwański miał 94 lata."
+          }
+        ],
+        "idsForDedup": [
+          "/g/120_4ns1 /g/120k5wh6",
+          "/g/120_4ns1 /g/120w8frt",
+          "/g/120_4ns1 /m/02plmr9",
+          "/g/120_4ns1 /m/05qhw",
+          "/g/120_4ns1 /m/0v16cvp",
+          "/g/120k5wh6 /g/120w8frt",
+          "/g/120k5wh6 /m/02plmr9",
+          "/g/120k5wh6 /m/05qhw",
+          "/g/120k5wh6 /m/0v16cvp",
+          "/g/120w8frt /m/02plmr9",
+          "/g/120w8frt /m/05qhw",
+          "/g/120w8frt /m/0v16cvp",
+          "/m/02plmr9 /m/05qhw",
+          "/m/02plmr9 /m/0v16cvp",
+          "/m/05qhw /m/0v16cvp"
+        ],
+        "id": "PL_lnk_lsa6dQAAAAAsMM_pl",
+        "title": "Edmund Karwański, Barwy szczęścia, Kwadrat Theater, Złotopolscy, Magda M., Poland",
+        "entityNames": [
+          "Edmund Karwański",
+          "Barwy szczęścia",
+          "Kwadrat Theater",
+          "Złotopolscy",
+          "Magda M.",
+          "Poland"
+        ]
       }
-    ],
-    "averages": []
-  }
+    ]
+  },
+  "date": "Apr 23, 2023",
+  "hideAllImages": false
 }
