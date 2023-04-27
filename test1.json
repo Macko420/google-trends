@@ -1,903 +1,1400 @@
 {
   "featuredStoryIds": [],
   "trendingStoryIds": [
-    "PL_lnk_dfWzdAAAAADGAM_pl",
-    "PL_lnk_UcHEdQAAAACVNM_pl",
-    "PL_lnk_bO1gdQAAAAAMGM_pl",
-    "PL_lnk_kUm5dQAAAAAovM_pl",
-    "PL_lnk_Uw9qdQAAAAA5-M_pl",
-    "PL_lnk_bDDCdQAAAACuxM_pl",
-    "PL_lnk_0G2xdQAAAABhmM_pl",
-    "PL_lnk_0j-2cwAAAABkzM_pl",
-    "PL_lnk_1Lu5dQAAAABtTM_pl",
-    "PL_lnk_IhaxdQAAAACT4M_pl",
-    "PL_lnk_VBaxdQAAAADl4M_pl",
-    "PL_lnk_PhaxdQAAAACP4M_pl",
-    "PL_lnk_Ps2UdQAAAACqOM_pl",
-    "PL_lnk_gp42dQAAAAC0aM_pl",
-    "PL_lnk_NBaxdQAAAACF4M_pl",
-    "PL_lnk_-PPEcAAAAAA8AM_pl",
-    "PL_lnk_IqCsdQAAAACOVM_pl",
-    "PL_lnk_a4OddQAAAAD2dM_pl",
-    "PL_lnk_jLvvdAAAAABjTM_pl",
-    "PL_lnk_lsa6dQAAAAAsMM_pl",
-    "PL_lnk_xL6udQAAAABqSM_pl",
-    "PL_lnk_K0UYdAAAAAAzsM_pl",
-    "PL_lnk_sbK1dQAAAAAERM_pl",
-    "PL_lnk_kylYdQAAAADL3M_pl",
-    "PL_lnk_A6NwdQAAAABzVM_pl",
-    "PL_lnk_zuF-dAAAAACwFM_pl",
-    "PL_lnk_-UG-dQAAAABHtM_pl",
-    "PL_lnk_gaCzcwAAAAAyUM_pl",
-    "PL_lnk_MUK8dQAAAACNtM_pl",
-    "PL_lnk_Ac9ndQAAAABmOM_pl",
-    "PL_lnk_jw9WdQAAAADZ-M_pl",
-    "PL_lnk_5PnKdQAAAAAuDM_pl",
-    "PL_lnk_vWvQdAAAAABtnM_pl",
-    "PL_lnk_LsVSdQAAAAB8MM_pl",
-    "PL_lnk_qpb4dAAAAABSYM_pl",
-    "PL_lnk_nCSrdQAAAAA30M_pl",
-    "PL_lnk_31NGcQAAAACZoM_pl",
-    "PL_lnk_AXs-dQAAAAA_jM_pl",
-    "PL_lnk_O_kndAAAAAAcDM_pl",
-    "PL_lnk_QFWzdQAAAADzoM_pl",
-    "PL_lnk_Xne0cwAAAADqhM_pl",
-    "PL_lnk_OfHNdQAAAAD0BM_pl",
-    "PL_lnk_lUm5dQAAAAAsvM_pl",
-    "PL_lnk_mDDCdQAAAABaxM_pl",
-    "PL_lnk_FuqrdQAAAAC9HM_pl",
-    "PL_lnk_qONDdQAAAADrFM_pl",
-    "PL_lnk_erTRdQAAAACrQM_pl",
-    "PL_lnk_7EfacwAAAAA2tM_pl",
-    "PL_lnk_BMNPdQAAAABLNM_pl",
-    "PL_lnk_RT_LdQAAAACOyM_pl",
-    "PL_lnk_rLvvdAAAAABDTM_pl",
-    "PL_lnk_BO2ZdQAAAACdGM_pl",
-    "PL_lnk_zoaIdQAAAABGcM_pl",
-    "PL_lnk_OtCkdAAAAACeJM_pl",
-    "PL_lnk_sVzMdQAAAAB9qM_pl",
-    "PL_lnk_1AuVdAAAAABB_M_pl",
-    "PL_lnk_phFzdAAAAADV5M_pl",
-    "PL_lnk_m0xsdQAAAAD3uM_pl",
+    "PL_lnk_6gucdgAAAAB2_M_pl",
+    "PL_lnk_4tXndQAAAAAFIM_pl",
+    "PL_lnk_AS4bdgAAAAAa2M_pl",
+    "PL_lnk_0A3udQAAAAA--M_pl",
+    "PL_lnk_Y-7ndAAAAACEGM_pl",
+    "PL_lnk_QGQldQAAAABlkM_pl",
+    "PL_lnk_hP93dgAAAADzCM_pl",
+    "PL_lnk_9MJBdgAAAAC1NM_pl",
+    "PL_lnk_hJaRdgAAAAAVYM_pl",
+    "PL_lnk_hxuDdgAAAAAE7M_pl",
+    "PL_lnk_pREpdgAAAACM5M_pl",
+    "PL_lnk_lOlCdQAAAADWHM_pl",
+    "PL_lnk_lZoMdgAAAACZbM_pl",
+    "PL_lnk_xGCgdgAAAABklM_pl",
+    "PL_lnk_scOKdgAAAAA7NM_pl",
+    "PL_lnk_04_2dQAAAAAleM_pl",
+    "PL_lnk_poeMdgAAAAAqcM_pl",
+    "PL_lnk_P5gHdgAAAAA4bM_pl",
+    "PL_lnk_Rec-dgAAAAB7EM_pl",
+    "PL_lnk_tkrddAAAAABrvM_pl",
+    "PL_lnk_rOuZdgAAAAA1HM_pl",
+    "PL_lnk_Ex1jdgAAAABw6M_pl",
+    "PL_lnk_ArROdQAAAABMQM_pl",
+    "PL_lnk_SJLudQAAAACmZM_pl",
+    "PL_lnk_-1VhdgAAAACaoM_pl",
+    "PL_lnk_dHe0cwAAAADAhM_pl",
+    "PL_lnk_jElOdQAAAADCvM_pl",
+    "PL_lnk_70LKdQAAAAAltM_pl",
+    "PL_lnk_bcYsdgAAAABBMM_pl",
+    "PL_lnk_6GFcdgAAAAC0lM_pl",
+    "PL_lnk_nXKUdgAAAAAJhM_pl",
+    "PL_lnk_Lys2dgAAAAAZ3M_pl",
+    "PL_lnk_Go1kdQAAAAB-eM_pl",
+    "PL_lnk_mplqdgAAAADwbM_pl",
+    "PL_lnk_xevwdQAAAAA1HM_pl",
     "PL_lnk_9EZVdQAAAAChsM_pl",
-    "PL_lnk_4Sy7dAAAAABa2M_pl",
+    "PL_lnk_G6sUdgAAAAAPXM_pl",
+    "PL_lnk_8ztidgAAAACRzM_pl",
+    "PL_lnk_IA93dgAAAABX-M_pl",
+    "PL_lnk_TGGKdgAAAADGlM_pl",
+    "PL_lnk_jinvdQAAAABh3M_pl",
+    "PL_lnk_tHgddQAAAACpjM_pl",
+    "PL_lnk_7Ac9dQAAAADR8M_pl",
+    "PL_lnk_taH4dQAAAABNVM_pl",
+    "PL_lnk_1x9TdgAAAACE6M_pl",
+    "PL_lnk_wVM0dgAAAAD1pM_pl",
+    "PL_lnk_mweHdgAAAAAc8M_pl",
+    "PL_lnk_Fw93dgAAAABg-M_pl",
+    "PL_lnk_IWuLdgAAAACqnM_pl",
+    "PL_lnk_RkhxdgAAAAA3vM_pl",
+    "PL_lnk_V1TWdQAAAACBoM_pl",
+    "PL_lnk_WjUndgAAAAB9wM_pl",
+    "PL_lnk_4M2-dQAAAABeOM_pl",
+    "PL_lnk_3J3OdQAAAAASaM_pl",
+    "PL_lnk_PfrudAAAAADTDM_pl",
+    "PL_lnk_NDYgdgAAAAAUwM_pl",
+    "PL_lnk_JAVldgAAAABB8M_pl",
+    "PL_lnk_lm72dAAAAABgmM_pl",
+    "PL_lnk_dJnsdQAAAACYbM_pl",
+    "PL_lnk_rd6UdgAAAAA5KM_pl",
+    "PL_lnk_JFDUdQAAAADwpM_pl",
+    "PL_lnk_ekt7dgAAAAABvM_pl",
+    "PL_lnk_eNiOdQAAAAD2LM_pl",
+    "PL_lnk_X6lydgAAAAAtXM_pl",
+    "PL_lnk_xGuedgAAAABanM_pl",
+    "PL_lnk_XkRodAAAAAA2sM_pl",
+    "PL_lnk_ZrRSdgAAAAA0QM_pl",
+    "PL_lnk_vx9WdgAAAADp6M_pl",
+    "PL_lnk_8Pv5dAAAAAAJDM_pl",
+    "PL_lnk_zDyTdgAAAABfyM_pl",
+    "PL_lnk_H-eFdgAAAACaEM_pl",
+    "PL_lnk_q9R1dgAAAADeIM_pl",
+    "PL_lnk_BiundQAAAACh3M_pl",
+    "PL_lnk_6geMdgAAAABm8M_pl",
+    "PL_lnk_wU5tdgAAAACsuM_pl",
+    "PL_lnk_EFDydQAAAADipM_pl",
+    "PL_lnk_8EJadgAAAACqtM_pl",
+    "PL_lnk_FIFadQAAAABOdM_pl",
+    "PL_lnk_wpKPdgAAAABNZM_pl",
+    "PL_lnk_u_uJdQAAAAAyDM_pl",
+    "PL_lnk_kAeHdgAAAAAX8M_pl",
+    "PL_lnk_K2PwdAAAAADblM_pl",
+    "PL_lnk_Vu1gdQAAAAA2GM_pl",
+    "PL_lnk_hvQudQAAAACoAM_pl",
+    "PL_lnk_eMFNdQAAAAA1NM_pl",
+    "PL_lnk_zKRQdgAAAACcUM_pl",
+    "PL_lnk_oAeHdgAAAAAn8M_pl",
+    "PL_lnk_rH2SdQAAAAA-iM_pl",
+    "PL_lnk_npBwdgAAAADuZM_pl",
+    "PL_lnk_JqUldgAAAAADUM_pl",
+    "PL_lnk_GewFdgAAAAAcGM_pl",
+    "PL_lnk_bkVAdAAAAAAusM_pl",
+    "PL_lnk_w9CSdgAAAABRJM_pl",
+    "PL_lnk_naBodgAAAAD1VM_pl",
+    "PL_lnk_SB1jdgAAAAAr6M_pl",
+    "PL_lnk_VGGKdgAAAADelM_pl",
+    "PL_lnk_q4OZdgAAAAAydM_pl",
+    "PL_lnk_68GGdQAAAABtNM_pl",
+    "PL_lnk_XEt7dgAAAAAnvM_pl",
+    "PL_lnk_yMuIdgAAAABAPM_pl",
+    "PL_lnk_wL7tdQAAAAAtSM_pl",
+    "PL_lnk_-7uVdgAAAABuTM_pl",
+    "PL_lnk_fvZtdgAAAAATAM_pl",
+    "PL_lnk_S5t4dQAAAAAzbM_pl",
+    "PL_lnk_3OrHdQAAAAAbHM_pl",
+    "PL_lnk_kkSVdgAAAAAHsM_pl",
+    "PL_lnk_jW3idQAAAABvmM_pl",
+    "PL_lnk_zU5tdgAAAACguM_pl",
+    "PL_lnk_x9kzdgAAAAD0LM_pl",
+    "PL_lnk_48IkdgAAAADHNM_pl",
+    "PL_lnk_6jtidgAAAACIzM_pl",
+    "PL_lnk_bw2JdgAAAADm-M_pl",
+    "PL_lnk_OlxfdgAAAABlqM_pl",
+    "PL_lnk_TuqrdQAAAADlHM_pl",
+    "PL_lnk_5vN4dQAAAACeBM_pl",
+    "PL_lnk_GnKadgAAAACAhM_pl",
+    "PL_lnk_Q_ZtdgAAAAAuAM_pl",
+    "PL_lnk_pmLfdQAAAAB5lM_pl",
+    "PL_lnk_XeI5dgAAAABkFM_pl",
+    "PL_lnk_ridKdAAAAADk0M_pl",
+    "PL_lnk_hOlTdgAAAADXHM_pl",
+    "PL_lnk_BEK-dQAAAAC6tM_pl",
+    "PL_lnk_quuZdgAAAAAzHM_pl",
+    "PL_lnk_IWIydgAAAAATlM_pl",
+    "PL_lnk_etYidgAAAABYIM_pl",
+    "PL_lnk_X5mcdgAAAADDbM_pl",
+    "PL_lnk_4xEpdgAAAADK5M_pl",
+    "PL_lnk_juZmdQAAAADoEM_pl",
+    "PL_lnk_x0xbdgAAAACcuM_pl",
+    "PL_lnk_Hg0udgAAAAAw-M_pl",
+    "PL_lnk_KbVYdQAAAABxQM_pl",
+    "PL_lnk_w4lJdQAAAACKfM_pl",
+    "PL_lnk_L4SDdgAAAACscM_pl",
+    "PL_lnk_VD2PdgAAAADbyM_pl",
+    "PL_lnk_a_93dgAAAAAcCM_pl",
+    "PL_lnk_MGQldQAAAAAVkM_pl",
+    "PL_lnk_sZkidgAAAACTbM_pl",
+    "PL_lnk_DVdndgAAAABqoM_pl",
+    "PL_lnk_TGDwdQAAAAC8lM_pl",
+    "PL_lnk_dUSVdgAAAADgsM_pl",
+    "PL_lnk_eH1HdQAAAAA_iM_pl",
+    "PL_lnk_JtN7dQAAAABdJM_pl",
+    "PL_lnk_xSSrdQAAAABu0M_pl",
+    "PL_lnk_yThCdQAAAACLzM_pl",
+    "PL_lnk_V5mcdgAAAADLbM_pl",
+    "PL_lnk_wKbzdQAAAAAzUM_pl",
+    "PL_lnk_HqfLdQAAAADVUM_pl",
+    "PL_lnk_fZb4dAAAAACFYM_pl",
+    "PL_lnk__vZvdgAAAACRAM_pl",
+    "PL_lnk_S5UBdQAAAABKYM_pl",
+    "PL_lnk_7dgVdQAAAAD4LM_pl",
+    "PL_lnk_3RehdQAAAAB84M_pl",
+    "PL_lnk_LW6IdgAAAAClmM_pl",
+    "PL_lnk_gnJMdQAAAADOhM_pl",
+    "PL_lnk_FEFQdgAAAABEtM_pl",
+    "PL_lnk_vj91dAAAAADLyM_pl",
+    "PL_lnk_ojaFdgAAAAAnwM_pl",
+    "PL_lnk_ewIhdgAAAABa9M_pl",
+    "PL_lnk_3KH4dQAAAAAkVM_pl",
+    "PL_lnk_ll21dAAAAAAjqM_pl",
+    "PL_lnk_tbuVdgAAAAAgTM_pl",
+    "PL_lnk_a8QedQAAAAB1MM_pl",
+    "PL_lnk_JdKHdgAAAACiJM_pl",
+    "PL_lnk_TZaRdgAAAADcYM_pl",
+    "PL_lnk_1PZvdgAAAAC7AM_pl",
+    "PL_lnk_RbnwdQAAAAC1TM_pl",
+    "PL_lnk_32EydgAAAADtlM_pl",
+    "PL_lnk_4gyIdgAAAABq-M_pl",
+    "PL_lnk_JiaXdgAAAACx0M_pl",
+    "PL_lnk_dX1HdQAAAAAyiM_pl",
+    "PL_lnk_8tKNdgAAAAB_JM_pl",
+    "PL_lnk_qZlqdgAAAADDbM_pl",
+    "PL_lnk_YRaOdgAAAADv4M_pl",
+    "PL_lnk_p_Q_dgAAAACYAM_pl",
+    "PL_lnk_ixFadQAAAADR5M_pl",
+    "PL_lnk_c_hgdgAAAAATDM_pl",
+    "PL_lnk_Pg2JdgAAAAC3-M_pl",
+    "PL_lnk_U5yXdQAAAADEaM_pl",
+    "PL_lnk_m8c8dgAAAACnMM_pl",
+    "PL_lnk_pOw7dQAAAACfGM_pl",
+    "PL_lnk_EueFdgAAAACXEM_pl",
+    "PL_lnk_gXiOdgAAAAAPjM_pl",
+    "PL_lnk_WXoadgAAAABDjM_pl",
+    "PL_lnk_mHCHdgAAAAAfhM_pl",
+    "PL_lnk_lUlpdgAAAAD8vM_pl",
+    "PL_lnk_WOhjdgAAAAA7HM_pl",
+    "PL_lnk_j3KUdgAAAAAbhM_pl",
+    "PL_lnk_KDxidgAAAABKyM_pl",
+    "PL_lnk_Ym6IdgAAAADqmM_pl",
+    "PL_lnk_GZUjdQAAAAA6YM_pl",
+    "PL_lnk_1gyIdgAAAABe-M_pl",
+    "PL_lnk_dYwKdgAAAAB_eM_pl",
+    "PL_lnk_x4eMdgAAAABLcM_pl",
+    "PL_lnk_95AjdgAAAADUZM_pl",
     "PL_lnk_ovNTdQAAAADxBM_pl",
-    "PL_lnk_nd3QdQAAAABNKM_pl",
-    "PL_lnk_Dfz5dAAAAAD0CM_pl",
-    "PL_lnk_gcDMdQAAAABNNM_pl",
-    "PL_lnk_KvrudAAAAADEDM_pl",
-    "PL_lnk_DAMNdQAAAAAB9M_pl",
-    "PL_lnk_xL7PdQAAAAALSM_pl",
-    "PL_lnk_nM-xdAAAAAAtOM_pl",
-    "PL_lnk_z7_CdQAAAAANSM_pl",
-    "PL_lnk_YvrudAAAAACMDM_pl",
-    "PL_lnk_Tj6_dQAAAADxyM_pl",
-    "PL_lnk__D2_dQAAAABDyM_pl",
-    "PL_lnk_8w4kdQAAAADX-M_pl",
-    "PL_lnk_iPWVdQAAAAAdAM_pl",
-    "PL_lnk_OyOZdAAAAACi1M_pl",
-    "PL_lnk_U0K8dQAAAADvtM_pl",
-    "PL_lnk_uSSrdQAAAAAS0M_pl",
-    "PL_lnk_Cj6_dQAAAAC1yM_pl",
-    "PL_lnk_AD6_dQAAAAC_yM_pl",
-    "PL_lnk_8DrAdQAAAAAwzM_pl",
-    "PL_lnk_ZeaydQAAAADXEM_pl",
-    "PL_lnk_FDa1dQAAAAChwM_pl",
-    "PL_lnk_-UZVdQAAAACssM_pl",
-    "PL_lnk_uRehdQAAAAAY4M_pl",
-    "PL_lnk_oiWedAAAAAA80M_pl",
+    "PL_lnk_7fZvdgAAAACCAM_pl",
     "PL_lnk_CzLrdAAAAADgxM_pl",
-    "PL_lnk_NtO6dAAAAACMJM_pl",
-    "PL_lnk_5W6ZdAAAAAB8mM_pl",
-    "PL_lnk_sgVkdAAAAADW8M_pl",
-    "PL_lnk_KnMfdQAAAAA1hM_pl",
-    "PL_lnk_irzSdQAAAABYSM_pl",
-    "PL_lnk_gPNTdQAAAADTBM_pl",
-    "PL_lnk_0rGAdAAAAABSRM_pl",
-    "PL_lnk_fThldQAAAAAYzM_pl",
-    "PL_lnk_WklOdQAAAAAUvM_pl",
-    "PL_lnk_xW2xdQAAAAB0mM_pl",
-    "PL_lnk_ofnKdQAAAABrDM_pl",
-    "PL_lnk_bQ6ncwAAAADK_M_pl",
-    "PL_lnk_elzMdQAAAAC2qM_pl",
-    "PL_lnk_-fnKdQAAAAAzDM_pl",
-    "PL_lnk_UfmWdAAAAADHDM_pl",
-    "PL_lnk_PfzOdQAAAADzCM_pl",
-    "PL_lnk_FaZudAAAAAB7UM_pl",
-    "PL_lnk_VTB8dAAAAAApxM_pl",
-    "PL_lnk_uc2-dQAAAAAHOM_pl",
-    "PL_lnk_Qha3dQAAAAD14M_pl",
-    "PL_lnk_wsoDdAAAAADBPM_pl",
-    "PL_lnk_pV2wdQAAAAAVqM_pl",
-    "PL_lnk_mXHBdQAAAABYhM_pl",
-    "PL_lnk_rd-YdQAAAAA1KM_pl",
-    "PL_lnk_uapZdQAAAADgXM_pl",
-    "PL_lnk_ISHTdQAAAADy1M_pl",
-    "PL_lnk_3RgWdQAAAADL7M_pl",
-    "PL_lnk_4L-xdQAAAABRSM_pl",
-    "PL_lnk_uT2edQAAAAAnyM_pl",
-    "PL_lnk_bQcvcwAAAABC9M_pl",
-    "PL_lnk_tfnKdQAAAAB_DM_pl",
-    "PL_lnk_CDDQdQAAAADYxM_pl",
-    "PL_lnk_Q5vdcwAAAACeaM_pl",
-    "PL_lnk_Gju0dQAAAACuzM_pl",
-    "PL_lnk_-z2_dQAAAABEyM_pl",
-    "PL_lnk_polJdQAAAADvfM_pl",
-    "PL_lnk_Si_HdAAAAACN2M_pl",
-    "PL_lnk_hVm2dAAAAAAzrM_pl",
-    "PL_lnk_3sMadQAAAADENM_pl",
-    "PL_lnk_HyzNdQAAAADS2M_pl",
-    "PL_lnk_dT_LdQAAAAC-yM_pl",
-    "PL_lnk_jOpddQAAAADRHM_pl",
-    "PL_lnk_JYV_dAAAAABacM_pl",
-    "PL_lnk_UVWzdQAAAADioM_pl",
-    "PL_lnk_GW4_dQAAAAAmmM_pl",
-    "PL_lnk_hSkZcwAAAACc2M_pl",
-    "PL_lnk_T3YSdQAAAABdgM_pl",
-    "PL_lnk_uEG-dQAAAAAGtM_pl",
-    "PL_lnk_HLVYdQAAAABEQM_pl",
-    "PL_lnk_9oHydAAAAAAEdM_pl",
-    "PL_lnk_HXCVdQAAAACIhM_pl",
-    "PL_lnk_gfmWdAAAAAAXDM_pl",
-    "PL_lnk_rGa4dQAAAAAUkM_pl",
-    "PL_lnk__TzJdQAAAAA0yM_pl",
-    "PL_lnk_HHWvdQAAAACzgM_pl",
-    "PL_lnk_GFWzdQAAAACroM_pl",
-    "PL_lnk_ms2-dQAAAAAkOM_pl",
-    "PL_lnk_wsfJdQAAAAALMM_pl",
-    "PL_lnk_TvHNdQAAAACDBM_pl",
-    "PL_lnk_P8zAdQAAAAD_OM_pl",
-    "PL_lnk_n8a6dQAAAAAlMM_pl",
-    "PL_lnk_Do1kdQAAAABqeM_pl",
-    "PL_lnk_-bmIdAAAAABxTM_pl",
-    "PL_lnk_gUdfcgAAAADetM_pl",
-    "PL_lnk_EIjldAAAAAD1fM_pl",
-    "PL_lnk_8IvGdAAAAAA2fM_pl",
-    "PL_lnk_uilYdQAAAADi3M_pl",
-    "PL_lnk_kb_CdQAAAABTSM_pl",
-    "PL_lnk_wa-LdQAAAABKWM_pl",
-    "PL_lnk__-KWdQAAAABpFM_pl",
-    "PL_lnk_HdN7dQAAAABmJM_pl",
-    "PL_lnk_H5NedQAAAABBZM_pl",
-    "PL_lnk_4SNrdQAAAACK1M_pl",
-    "PL_lnk_ET3JdQAAAADYyM_pl",
-    "PL_lnk_joOddQAAAAATdM_pl",
-    "PL_lnk_afQWdQAAAAB_AM_pl",
-    "PL_lnk_AuOWdQAAAACUFM_pl",
-    "PL_lnk_QDvAdQAAAACAzM_pl",
-    "PL_lnk_kL1QdQAAAADASM_pl",
-    "PL_lnk_7O5jdQAAAACPGM_pl",
-    "PL_lnk_Xp2bdQAAAADFaM_pl",
-    "PL_lnk_TZMrdQAAAABmZM_pl",
-    "PL_lnk_n3HBdQAAAABehM_pl",
-    "PL_lnk_7gBcdQAAAACy9M_pl",
-    "PL_lnk_kRuudQAAAAA_7M_pl",
-    "PL_lnk_nFXFdAAAAABZoM_pl",
-    "PL_lnk_2-UHdQAAAADcEM_pl",
-    "PL_lnk_UTEedQAAAABPxM_pl",
-    "PL_lnk_j3HBdQAAAABOhM_pl",
-    "PL_lnk_tt3QdQAAAABmKM_pl",
-    "PL_lnk_YdN7dQAAAAAaJM_pl",
-    "PL_lnk_VA9WdQAAAAAC-M_pl",
-    "PL_lnk_VljRdQAAAACHrM_pl",
-    "PL_lnk_Z0S9dQAAAADasM_pl",
-    "PL_lnk_wZ42dQAAAAD3aM_pl",
-    "PL_lnk_xpeCdQAAAABEYM_pl",
-    "PL_lnk_eomwdAAAAADKfM_pl",
-    "PL_lnk_L9kVdQAAAAA6LM_pl",
-    "PL_lnk_rq7edAAAAABwWM_pl",
-    "PL_lnk_S27ocwAAAACjnM_pl",
-    "PL_lnk_9LbWcwAAAAAiRM_pl",
-    "PL_lnk_16ccdQAAAADLUM_pl",
-    "PL_lnk_AZ3rdAAAAADqaM_pl",
-    "PL_lnk_iUircwAAAAAiuM_pl",
-    "PL_lnk_FD6_dQAAAACryM_pl",
-    "PL_lnk_6p3OdQAAAAAkaM_pl",
-    "PL_lnk_oVjidAAAAABDrM_pl",
-    "PL_lnk_OnSSdAAAAACogM_pl",
-    "PL_lnk_czDCdQAAAACxxM_pl",
-    "PL_lnk_TaqYdAAAAADVXM_pl",
-    "PL_lnk_toaRdQAAAAAncM_pl",
-    "PL_lnk_g_mWdAAAAAAVDM_pl",
-    "PL_lnk_w7GJdAAAAABKRM_pl",
-    "PL_lnk_SZ2RdAAAAADYaM_pl",
-    "PL_lnk_oSeqdQAAAAAL0M_pl",
-    "PL_lnk_NEV4dQAAAABMsM_pl",
-    "PL_lnk_V8cgdQAAAAB3MM_pl",
-    "PL_lnk_dMa6dQAAAADOMM_pl",
-    "PL_lnk_PvOrdAAAAACVBM_pl",
-    "PL_lnk_6QOSdAAAAAB79M_pl",
-    "PL_lnk_IuqrdQAAAACJHM_pl",
-    "PL_lnk_w82-dQAAAAB9OM_pl",
-    "PL_lnk_h8HudAAAAABpNM_pl",
-    "PL_lnk_osfJdQAAAABrMM_pl",
-    "PL_lnk_roeMdQAAAAAicM_pl",
-    "PL_lnk_lAEAdQAAAACU9M_pl",
-    "PL_lnk_DPLDdQAAAADPBM_pl",
-    "PL_lnk_eXYSdQAAAABrgM_pl",
-    "PL_lnk_splzdAAAAADBbM_pl",
-    "PL_lnk_kQKBdQAAAAAQ9M_pl",
-    "PL_lnk_13lGdAAAAACRjM_pl",
-    "PL_lnk__ru5dQAAAABHTM_pl",
-    "PL_lnk_Xp9-dQAAAAAgaM_pl",
-    "PL_lnk_0-WcdQAAAABPEM_pl",
-    "PL_lnk_7kG-dQAAAABQtM_pl",
-    "PL_lnk_o4KEdAAAAAAndM_pl",
-    "PL_lnk_a7TRdQAAAAC6QM_pl",
-    "PL_lnk_zNJHdAAAAACLJM_pl",
-    "PL_lnk_2p3OdQAAAAAUaM_pl",
-    "PL_lnk_b5zjcwAAAACMbM_pl",
-    "PL_lnk_WjhldQAAAAA_zM_pl",
-    "PL_lnk_Rm4_dQAAAAB5mM_pl",
-    "PL_lnk_4LGAdAAAAABgRM_pl",
-    "PL_lnk_i323dQAAAAA8iM_pl",
-    "PL_lnk_JqfLdQAAAADtUM_pl",
-    "PL_lnk__PDNdQAAAAAxBM_pl",
-    "PL_lnk_f8KFdQAAAAD6NM_pl",
-    "PL_lnk_esubdAAAAADhPM_pl",
-    "PL_lnk_xrm7dQAAAAB9TM_pl",
-    "PL_lnk_t5NTdAAAAADkZM_pl",
-    "PL_lnk_DUARdAAAAAActM_pl",
-    "PL_lnk_VLwXdAAAAABDSM_pl",
-    "PL_lnk_quENdQAAAACnFM_pl",
-    "PL_lnk_QJ2BdQAAAADBaM_pl",
-    "PL_lnk_8eWcdQAAAABtEM_pl",
-    "PL_lnk_ecGtdQAAAADUNM_pl",
-    "PL_lnk_QBQfdQAAAABf4M_pl",
-    "PL_lnk_lF2wdQAAAAAkqM_pl",
-    "PL_lnk_7pT-dAAAAAAQYM_pl",
-    "PL_lnk_vQ6ncwAAAAAa_M_pl",
-    "PL_lnk_X6fLdQAAAACUUM_pl",
-    "PL_lnk_IcujdQAAAACCPM_pl",
-    "PL_lnk_h6z8dAAAAAB7WM_pl",
-    "PL_lnk_g_NqdAAAAADpBM_pl",
-    "PL_lnk_L9CkdAAAAACLJM_pl",
-    "PL_lnk_3DqGdQAAAABazM_pl",
-    "PL_lnk_mbrsdAAAAAB1TM_pl",
-    "PL_lnk__OQ6dQAAAADGEM_pl",
-    "PL_lnk_pWaLdQAAAAAukM_pl",
-    "PL_lnk_eW2cdAAAAADlmM_pl",
-    "PL_lnk_5eomdQAAAADDHM_pl",
-    "PL_lnk_SMDMdQAAAACENM_pl",
-    "PL_lnk_alGPdQAAAADlpM_pl",
-    "PL_lnk_Rx-2dQAAAADx6M_pl",
-    "PL_lnk_VEEKdAAAAABetM_pl",
-    "PL_lnk_NVJUdAAAAABhpM_pl",
-    "PL_lnk_w0m6dQAAAAB5vM_pl",
-    "PL_lnk_8-9QdAAAAACjGM_pl",
-    "PL_lnk_D562dQAAAAC5aM_pl",
-    "PL_lnk_eGMVdQAAAABtlM_pl",
-    "PL_lnk_TOWzdQAAAAD_EM_pl",
-    "PL_lnk_mLGAdAAAAAAYRM_pl",
-    "PL_lnk_mQcMdQAAAACV8M_pl",
-    "PL_lnk_H2wmdQAAAAA5mM_pl",
-    "PL_lnk_nJ42dQAAAACqaM_pl",
-    "PL_lnk_YRB7dQAAAAAa5M_pl",
-    "PL_lnk_EC1ydAAAAABi2M_pl",
-    "PL_lnk_fBa3dQAAAADL4M_pl",
-    "PL_lnk_L4pcdQAAAABzfM_pl",
-    "PL_lnk_T0K8dQAAAADztM_pl",
-    "PL_lnk_GfzOdQAAAADXCM_pl",
+    "PL_lnk_inrKdAAAAABAjM_pl",
+    "PL_lnk_V7qOdgAAAADZTM_pl",
+    "PL_lnk_LuFHdQAAAABpFM_pl",
+    "PL_lnk_7h9WdgAAAAC46M_pl",
+    "PL_lnk_vWsQdQAAAACtnM_pl",
+    "PL_lnk_ZdFmdgAAAAADJM_pl",
+    "PL_lnk_FW6IdgAAAACdmM_pl",
+    "PL_lnk_tAyIdgAAAAA8-M_pl",
+    "PL_lnk_r4BPdQAAAADgdM_pl",
+    "PL_lnk__WCKdgAAAAB3lM_pl",
+    "PL_lnk_fIz9dQAAAACBeM_pl",
+    "PL_lnk_gvNTdQAAAADRBM_pl",
+    "PL_lnk_B5gHdgAAAAAAbM_pl",
+    "PL_lnk_5rK1dQAAAABTRM_pl",
     "PL_lnk_XR-2dQAAAADr6M_pl",
-    "PL_lnk_-cZ6dQAAAACDMM_pl",
-    "PL_lnk_rtt8dQAAAADSLM_pl",
-    "PL_lnk_KDvAdQAAAADozM_pl",
-    "PL_lnk_oBmRdQAAAAAx7M_pl",
-    "PL_lnk_9thwdAAAAACGLM_pl",
-    "PL_lnk_8sfJdQAAAAA7MM_pl",
-    "PL_lnk_xEWUdQAAAABQsM_pl",
-    "PL_lnk_FNRxdQAAAABlIM_pl",
-    "PL_lnk_HGAQdAAAAAAMlM_pl",
-    "PL_lnk_pky7dQAAAAAduM_pl",
-    "PL_lnk_vBdOcwAAAADy5M_pl",
-    "PL_lnk_2L1QdQAAAACISM_pl",
-    "PL_lnk_hCMTdQAAAACX1M_pl",
-    "PL_lnk_ijhldQAAAADvzM_pl",
-    "PL_lnk_ORm5cwAAAACA6M_pl",
-    "PL_lnk_WJNedQAAAAAGZM_pl",
-    "PL_lnk_RvC3dQAAAADxBM_pl",
-    "PL_lnk_vqPodAAAAABWVM_pl",
-    "PL_lnk_M-1gdQAAAABTGM_pl",
-    "PL_lnk_VmOmdAAAAADwlM_pl",
-    "PL_lnk_cOZmdQAAAAAWEM_pl",
-    "PL_lnk_-3SvdQAAAABUgM_pl"
+    "PL_lnk_s5T-dAAAAABNYM_pl",
+    "PL_lnk_ouR-dgAAAADcEM_pl",
+    "PL_lnk_jMc8dgAAAACwMM_pl",
+    "PL_lnk_gAlEdQAAAADE_M_pl",
+    "PL_lnk_QJgHdgAAAABHbM_pl",
+    "PL_lnk_M0MsdQAAAAAftM_pl",
+    "PL_lnk_x5GWdgAAAABRZM_pl",
+    "PL_lnk_3slLdgAAAACVPM_pl",
+    "PL_lnk_02qLdgAAAABYnM_pl",
+    "PL_lnk_b4ardQAAAADEcM_pl",
+    "PL_lnk_D7VsdgAAAABjQM_pl",
+    "PL_lnk_i9NOdgAAAADFJM_pl",
+    "PL_lnk_ILESdgAAAAAyRM_pl",
+    "PL_lnk_wKqJdgAAAABJXM_pl",
+    "PL_lnk_74OZdgAAAAB2dM_pl",
+    "PL_lnk_iyGddgAAAAAW1M_pl",
+    "PL_lnk_UvWVdQAAAADHAM_pl",
+    "PL_lnk_awGIdQAAAADj9M_pl",
+    "PL_lnk_JXoydQAAAAAXjM_pl",
+    "PL_lnk__Q17dAAAAACG-M_pl",
+    "PL_lnk_eZaRdgAAAADoYM_pl",
+    "PL_lnk_leqQdgAAAAAFHM_pl",
+    "PL_lnk_IeWzdQAAAACSEM_pl",
+    "PL_lnk_owyIdgAAAAAr-M_pl",
+    "PL_lnk_h_ZtdgAAAADqAM_pl",
+    "PL_lnk_ThaOdgAAAADA4M_pl",
+    "PL_lnk_R4pjdgAAAAAkfM_pl",
+    "PL_lnk_EEhxdgAAAABhvM_pl",
+    "PL_lnk_VHoydQAAAABmjM_pl",
+    "PL_lnk_oQucdgAAAAA9_M_pl",
+    "PL_lnk_wa6LdgAAAABKWM_pl",
+    "PL_lnk_KueFdgAAAACvEM_pl",
+    "PL_lnk_o1SDdQAAAAAgoM_pl",
+    "PL_lnk_bwgLdgAAAABk_M_pl",
+    "PL_lnk_xyWXdgAAAABQ0M_pl",
+    "PL_lnk_OEhxdgAAAABJvM_pl",
+    "PL_lnk_wieqdQAAAABo0M_pl",
+    "PL_lnk_sXWBdQAAAAAwgM_pl",
+    "PL_lnk_wsF0dgAAAAC2NM_pl",
+    "PL_lnk_C4pjdgAAAABofM_pl",
+    "PL_lnk_S_ZbdgAAAAAQAM_pl",
+    "PL_lnk_yZKPdgAAAABGZM_pl",
+    "PL_lnk_1mZZdgAAAACPkM_pl",
+    "PL_lnk_5C_9dQAAAAAZ2M_pl",
+    "PL_lnk_wFgDdgAAAADDrM_pl",
+    "PL_lnk_jelTdgAAAADeHM_pl",
+    "PL_lnk_R1sAdgAAAABHrM_pl",
+    "PL_lnk_0Q3udQAAAAA_-M_pl",
+    "PL_lnk_asUpdgAAAABDMM_pl",
+    "PL_lnk_lp3XdQAAAABBaM_pl",
+    "PL_lnk_9oufdgAAAABpfM_pl",
+    "PL_lnk_7QINdQAAAADg9M_pl",
+    "PL_lnk_AigsdgAAAAAu3M_pl",
+    "PL_lnk_UvZbdgAAAAAJAM_pl",
+    "PL_lnk_Q-NWdgAAAAAVFM_pl",
+    "PL_lnk_uo5gdgAAAADaeM_pl",
+    "PL_lnk_uuqQdgAAAAAqHM_pl",
+    "PL_lnk_Y0P0dQAAAACXtM_pl",
+    "PL_lnk_l9s2dgAAAAChLM_pl",
+    "PL_lnk_1OsFdgAAAADRHM_pl",
+    "PL_lnk_GHcudgAAAAA2gM_pl",
+    "PL_lnk_tkSVdgAAAAAjsM_pl",
+    "PL_lnk_LeTadQAAAAD3EM_pl",
+    "PL_lnk_C1pXdQAAAABcrM_pl",
+    "PL_lnk_fbHTdQAAAACuRM_pl",
+    "PL_lnk_ZoaadQAAAAD8cM_pl",
+    "PL_lnk__qiTdgAAAABtXM_pl",
+    "PL_lnk_2dCSdgAAAABLJM_pl",
+    "PL_lnk_9lTLdAAAAAA9oM_pl",
+    "PL_lnk_4jk7dgAAAADZzM_pl",
+    "PL_lnk_wFgpdgAAAADprM_pl",
+    "PL_lnk_eEt7dgAAAAADvM_pl",
+    "PL_lnk_jLm7dQAAAAA3TM_pl",
+    "PL_lnk_465UdgAAAAC3WM_pl",
+    "PL_lnk_xrNOdQAAAACIRM_pl",
+    "PL_lnk_H5LcdQAAAADDZM_pl",
+    "PL_lnk_3ydmdQAAAAC50M_pl",
+    "PL_lnk_vcc8dgAAAACBMM_pl",
+    "PL_lnk_fwgLdgAAAAB0_M_pl",
+    "PL_lnk_izyBdgAAAAAKyM_pl",
+    "PL_lnk_RbTRdAAAAACUQM_pl",
+    "PL_lnk_ksOKdgAAAAAYNM_pl",
+    "PL_lnk_o-uZdgAAAAA6HM_pl",
+    "PL_lnk_yoOZdgAAAABTdM_pl",
+    "PL_lnk_vHKUdgAAAAAohM_pl",
+    "PL_lnk_2gAgdgAAAAD69M_pl",
+    "PL_lnk_3TN-dQAAAACjxM_pl",
+    "PL_lnk_3icsdgAAAADy0M_pl"
   ],
   "storySummaries": {
     "featuredStories": [],
     "trendingStories": [
       {
         "image": {
-          "newsUrl": "https://przegladsportowy.onet.pl/pilka-nozna/korona-kielce-zaglebie-lubin-na-zywo-relacja-i-wynik/7rn7teh",
-          "source": "Przegląd Sportowy",
-          "imgUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQsE9mrb1KjdbMwpVYmWGQNKvKvl7EtOzfu6AC-EgxqPf23DCWTf4EmXBHVH9Q"
+          "newsUrl": "https://www.tvp.info/69478592/nie-zyje-jerry-springer-slynny-prezenter-telewizyjny-mial-79-lat",
+          "source": "TVP Info",
+          "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyaXUerwU75LrkGYLT-P0E2KcT1TP-05-rHBQZsh0Azj-ihstXRySDs1Zy4QI"
         },
-        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_dfWzdAAAAADGAM_pl&category=all&geo=PL#PL_lnk_dfWzdAAAAADGAM_pl",
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_6gucdgAAAAB2_M_pl&category=all&geo=PL#PL_lnk_6gucdgAAAAB2_M_pl",
         "articles": [
           {
-            "articleTitle": "Korona Kielce - Zagłębie Lubin NA ŻYWO. Relacja i wynik.",
-            "url": "https://przegladsportowy.onet.pl/pilka-nozna/korona-kielce-zaglebie-lubin-na-zywo-relacja-i-wynik/7rn7teh",
+            "articleTitle": "Jerry Springer nie żyje. Słynny prezenter telewizyjny miał 79 lat",
+            "url": "https://www.tvp.info/69478592/nie-zyje-jerry-springer-slynny-prezenter-telewizyjny-mial-79-lat",
+            "source": "TVP Info",
+            "time": "47 minutes ago",
+            "snippet": "Zmarł Jerry Springer, amerykański dziennikarz telewizyjny i radiowy, \nnajbardziej znany z talk show „The Jerry Springer Show”. Miał 79 lat."
+          },
+          {
+            "articleTitle": "Był legendą telewizji, autorem słynnego talk-show. Jerry Springer nie żyje",
+            "url": "https://wyborcza.pl/7,75410,29708067,nie-zyje-jerry-springer-autor-jednego-z-najbardziej-kontrowersyjnych.html",
+            "source": "Wyborcza.pl",
+            "time": "1 hour ago",
+            "snippet": "Największą popularność przyniósł mu, nadawany od 1991 r., autorski \ntalk-show 'The Jerry Springer Show'. Bluzgi padały co kilka sekund,..."
+          },
+          {
+            "articleTitle": "USA. Nie żyje Jerry Springer. Dziennikarz zmarł w wieku 79 lat. \n\"Niezastąpiony\"",
+            "url": "https://wiadomosci.gazeta.pl/wiadomosci/7,114881,29708053,nie-zyje-dziennikarz-jerry-springer.html",
+            "source": "Wiadomości",
+            "time": "1 hour ago",
+            "snippet": "W wieku 79 lat zmarł Jerry Springer - amerykański dziennikarz, prezenter \ntelewizyjny i były polityk."
+          },
+          {
+            "articleTitle": "Jerry Springer nie żyje. Legendarny gospodarz talk-show miał 79 lat",
+            "url": "https://www.pudelek.pl/jerry-springer-nie-zyje-legendarny-gospodarz-talk-show-mial-79-lat-6891955205024320a",
+            "source": "Pudelek",
+            "time": "1 hour ago",
+            "snippet": "Jerry Springer zasłynął jako prowadzący telewizyjny talk-show \"Potyczki \nJerry'ego Springera\". Zmarł w czwartek 27 kwietnia. Wiadomo, co się..."
+          },
+          {
+            "articleTitle": "Jerry Springer nie żyje. Miał 79 lat",
+            "url": "https://wydarzenia.interia.pl/zagranica/news-jerry-springer-nie-zyje-mial-79-lat,nId,6743807",
+            "source": "Wydarzenia w INTERIA.PL",
+            "time": "1 hour ago",
+            "snippet": "Jerry Springer nie żyje. Słynny amerykański dziennikarz, aktor i prowadzący \ntalk show miał 79 lat."
+          },
+          {
+            "articleTitle": "Jerry Springer nie żyje. Słynny prezenter miał 79 lat",
+            "url": "https://tvn24.pl/swiat/jerry-springer-nie-zyje-slynny-prezenter-mial-79-lat-7008784",
+            "source": "TVN24",
+            "time": "1 hour ago",
+            "snippet": "Jerry Springer, amerykański dziennikarz i prezenter telewizyjny, zmarł w \nwieku 79 lat – podało BBC."
+          },
+          {
+            "articleTitle": "Nie żyje Jerry Springer",
+            "url": "https://dorzeczy.pl/swiat/433312/nie-zyje-jerry-springer.html",
+            "source": "Do Rzeczy",
+            "time": "1 hour ago",
+            "snippet": "Jerry Springer, prezenter znany z kontrowersyjnych programów telewizyjnych, \nzmarł w wieku 79 lat."
+          },
+          {
+            "articleTitle": "Nie żyje Jerry Springer. Legenda szokowała cały świat latami",
+            "url": "https://ludzie.fakt.pl/nie-zyje-jerry-springer-legenda-szokowala-caly-swiat-latami/cxzbnjf",
+            "source": "Ludzie",
+            "time": "1 hour ago",
+            "snippet": "Jerry Springer, jeden z najbardziej wpływowych postaci medialnych w \nhistorii telewizji, umarł dziś rano w Chicago."
+          },
+          {
+            "articleTitle": "Jerry Springer nie żyje. Słynny prezenter miał 79 lat",
+            "url": "https://www.plotek.pl/plotek/7,154063,29707966,jerry-springer-nie-zyje-amerykanski-dziennikarz-mial-79-lat.html",
+            "source": "Plotek",
+            "time": "1 hour ago",
+            "snippet": "Jerry Springer, popularny amerykański dziennikarz i osobowość telewizyjna, \nzmarł 27 kwietnia - podają media."
+          },
+          {
+            "articleTitle": "Zmarł Jerry Springer, jeden z najpopularniejszych gwiazdorów amerykańskiej \ntelewizji",
+            "url": "https://www.wirtualnemedia.pl/artykul/zmarl-jerry-springer-jeden-z-najpopularniejszych-gwiazdorow-amerykanskiej-telewizji",
+            "source": "Wirtualne Media",
+            "time": "1 hour ago",
+            "snippet": "W wieku 79 lat po krótkiej walce z chorobą zmarł Jerry Springer, jeden z \nnajbardziej znanych gospodarzy autorskiego talk-show w Stanach..."
+          }
+        ],
+        "idsForDedup": ["/m/01v0432 /m/0zxgh"],
+        "id": "PL_lnk_6gucdgAAAAB2_M_pl",
+        "title": "Jerry Springer",
+        "entityNames": ["Jerry Springer"]
+      },
+      {
+        "image": {
+          "newsUrl": "https://przegladsportowy.onet.pl/tenis/magda-linette-marketa-vondrousova-relacja-na-zywo-dawaj-magda-wynik-live/e913635",
+          "source": "Przegląd Sportowy",
+          "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRyS_pooS9A8c2P3WjcUqzlYbGwu3WAzC4fxoT5v2yWbRr94ydF6ozNhKFfInA"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_4tXndQAAAAAFIM_pl&category=all&geo=PL#PL_lnk_4tXndQAAAAAFIM_pl",
+        "articles": [
+          {
+            "articleTitle": "Magda Linette - Marketa Vondrousova: relacja na żywo. Dawaj, Magda! Wynik \nLIVE",
+            "url": "https://przegladsportowy.onet.pl/tenis/magda-linette-marketa-vondrousova-relacja-na-zywo-dawaj-magda-wynik-live/e913635",
             "source": "Przegląd Sportowy",
-            "time": "14 hours ago",
-            "snippet": "Korona Kielce - Zagłębie Lubin to spotkanie 29. kolejki PKO BP Ekstraklasy. \nObie ekipy muszą pozostać czujne, bo przewaga nad strefą..."
+            "time": "3 hours ago",
+            "snippet": "Magda Linette - Marketa Vondrousova to spotkanie 1/32 finału turnieju WTA w \nMadrycie. Dla reprezentantki to pierwszy mecz w zmaganiach,..."
           },
           {
-            "articleTitle": "PKO Ekstraklasa. Tłum kibiców Korony Kielce przed stadionem. Zobaczcie co \ndziało się przed meczem z Zagłębiem ...",
-            "url": "https://gol24.pl/pko-ekstraklasa-tlum-kibicow-korony-kielce-przed-stadionem-zobaczcie-co-dzialo-sie-przed-meczem-z-zaglebiem-lubin-na-suzuki/ar/c2-17482249",
-            "source": "Gol24",
-            "time": "41 minutes ago",
-            "snippet": "Bardzo dużym zainteresowaniem cieszy się niedzielny mecz PKO BP \nEkstraklasy, w którym Korona Kielce na Suzuki Arenie gra z Zagłębiem Lubin."
+            "articleTitle": "Wielki mecz Magdaleny Fręch. Zagra z trzecią rakietą świata. Znamy datę",
+            "url": "https://www.sport.pl/tenis/7,64987,29704732,wielki-mecz-magdaleny-frech-zagra-z-trzecia-rakieta-swiata.html",
+            "source": "Sport.pl",
+            "time": "10 hours ago",
+            "snippet": "Magdalena Fręch pokonała Jasmine Paolini (6:2, 6:3) i awansowała do drugiej \nrundy WTA w Madrycie. W niej zmierzy się z trzecią rakietą..."
           },
           {
-            "articleTitle": "PKO Ekstraklasa. Kamil Kuzera zdradza tajemnicę przemiany Korony Kielce. \n\"Przekonali się do jeżdżenia na d…ch\"",
-            "url": "https://sport.tvp.pl/69368716/pko-ekstraklasa-kamil-kuzera-zdradza-tajemnice-przemiany-korony-kielce-przekonali-sie-do-jezdzenia-na-dch",
+            "articleTitle": "Magda Linette - Marketa Vondrousova | Oglądaj na żywo i na życzenie w \nCANAL+ | CANAL+",
+            "url": "https://www.canalplus.com/pl/sport/magda-linette-marketa-vondrousova/h/13578577_70029",
+            "source": "myCANAL",
+            "time": "9 hours ago",
+            "snippet": "Magda Linette z racji rozstawienia turniej w Madrycie rozpoczyna od drugiej \nrundy. W czwartek Polka zmierzy się z Marketą Vondrousovą, finalistką \nFrench..."
+          },
+          {
+            "articleTitle": "Magda Linette - Marketa Vondrousova [NA ŻYWO]. Relacja online z meczu WTA \nMadryt w czwartek 27.4.2023 (sport ...",
+            "url": "https://sport.tvp.pl/69472856/magda-linette-marketa-vondrousova-na-zywo-relacja-online-z-meczu-wta-madryt-w-czwartek-2742023",
             "source": "TVP Sport",
-            "time": "7 hours ago",
-            "snippet": "Kamil Kuzera przejął Koronę w listopadzie po tym, jak klub postanowił \nrozstać się z Leszkiem Ojrzyńskim. Po trudnym początku później sprawił..."
+            "time": "6 hours ago",
+            "snippet": "Vondrousova - Linette 6:7 (1:7), 6:4. Niestety nie był to dobry gem w \nwykonaniu Linette. Czeszka gładko go wygrywa i kończy drugiego seta."
           },
           {
-            "articleTitle": "PKO Ekstraklasa. Mecz Korona Kielce - Zagłębie Lubin ONLINE. Po siódme \ndomowe zwycięstwo z rzędu. Gdzie ...",
-            "url": "https://gol24.pl/pko-ekstraklasa-mecz-korona-kielce-zaglebie-lubin-online-po-siodme-domowe-zwyciestwo-z-rzedu-gdzie-ogladac-transmisja-tv-na-zywo/rs/c2-4605907211",
-            "source": "Gol24",
-            "time": "35 minutes ago",
-            "snippet": "Korona Kielce - Zagłębie Lubin ONLINE. Odmienieni na wiosnę kielczanie \npostarają się o siódme z rzędu domowe zwycięstwo."
-          },
-          {
-            "articleTitle": "PKO BP Ekstraklasa: Korona Kielce - Zagłębie Lubin. Relacja i wynik na żywo",
-            "url": "https://www.polsatsport.pl/wiadomosc/2023-04-23/pko-bp-ekstraklasa-korona-kielce-zaglebie-lubin-relacja-i-wynik-na-zywo/",
-            "source": "Polsat Sport",
-            "time": "14 hours ago",
-            "snippet": "KGHM Zagłębie nie wygrało już od pięciu meczów i tę czarną serię chce \nprzerwać w niedzielnym spotkaniu piłkarskiej ekstraklasy z Koroną w..."
-          },
-          {
-            "articleTitle": "Korona idzie na rekord. Sama może sprawić sobie komfort",
-            "url": "https://sportowefakty.wp.pl/pilka-nozna/1056563/korona-idzie-na-rekord-sama-moze-sprawic-sobie-komfort",
+            "articleTitle": "Czeszka na drodze Magdy Linette. To srebrna medalistka olimpijska",
+            "url": "https://sportowefakty.wp.pl/tenis/1057252/czeszka-na-drodze-magdy-linette-to-srebrna-medalistka-olimpijska",
             "source": "SportoweFakty",
-            "time": "18 hours ago",
-            "snippet": "Od początku ustaliliśmy z zespołem, że postaramy się zrobić coś, co \nzostanie z nami na całe życie - mówi trener Korony Kielce Kamil Kuzera."
+            "time": "22 hours ago",
+            "snippet": "Marketa Vondrousova rozprawiła się z Hiszpanką Mariną Bassols Riberą w \nturnieju WTA 1000 w Madrycie. Czeska finalistka Rolanda Garrosa 2019..."
           },
           {
-            "articleTitle": "Korona Kielce – Zagłębie Lubin infoMECZ",
-            "url": "https://korona-kielce.pl/artykuly/2023/97186-infomecz-korona-kielce-zaglebie-lubin/",
-            "source": "Korona Kielce",
+            "articleTitle": "Była o krok od ogromnej sensacji. Teraz spróbuję zatrzymać Magdę Linette",
+            "url": "https://przegladsportowy.onet.pl/tenis/byla-o-krok-od-ogromnej-sensacji-teraz-sprobuje-zatrzymac-magde-linette/hxdnh96",
+            "source": "Przegląd Sportowy",
+            "time": "22 hours ago",
+            "snippet": "Magda Linette wie już, że w czwartek zagra z Marketą Vondrousovą! Czeska \ntenisistka w meczu pierwszej rundy turnieju w Madrycie pokonała..."
+          },
+          {
+            "articleTitle": "O której gra Magda Linette? Kiedy mecz WTA w Madrycie? Gdzie obejrzeć? \n[TRANSMISJA NA ŻYWO]",
+            "url": "https://www.sport.pl/tenis/7,64987,29705302,o-ktorej-gra-magda-linette-kiedy-mecz-wta-w-madrycie-gdzie.html",
+            "source": "Sport.pl",
+            "time": "7 hours ago",
+            "snippet": "Magda Linette w czwartek 27 kwietnia zmierzy się z Marketą Vondrousovą w \nmeczu drugiej rundy turnieju WTA 1000 w Madrycie. Dla Polki to..."
+          },
+          {
+            "articleTitle": "WTA Madryt 2023. Magdalena Fręch - Jasmine Paolini, wynik meczu i relacja - \ntenis | Eurosport w TVN24",
+            "url": "https://eurosport.tvn24.pl/tenis,115/wta-madryt-2023-magdalena-frech-jasmine-paolini-wynik-meczu-i-relacja-tenis,1144016.html",
+            "source": "Eurosport",
             "time": "1 day ago",
-            "snippet": "Przed nami 29.kolejka PKO BP Ekstraklasy, w której to Żółto-Czerwoni na \nSuzuki Arenie podejmą Zagłębie Lubin."
+            "snippet": "Magdalena Fręch gra dalej w hiszpańskiej stolicy. W prestiżowej imprezie \nMutua Madrid Open łodzianka w środę w pierwszej rundzie pokonała..."
           },
           {
-            "articleTitle": "Trela: Podstawy do utrzymania. Pięć aspektów, które odmieniły sytuację \nKorony",
-            "url": "https://weszlo.com/2023/04/23/korona-kielce-rewelacja-wiosny-utrzymanie",
-            "source": "Weszło",
-            "time": "4 hours ago",
-            "snippet": "Kamil Kuzera nie wymyślił futbolu na nowo. Paweł Golański nie wynalazł \nnowych gwiazd ligi. Mimo to kielczanie zamienili się z głównego..."
+            "articleTitle": "Magdalena Fręch w drugiej rundzie w Madrycie! Nie dała szans rywalce",
+            "url": "https://przegladsportowy.onet.pl/tenis/magdalena-frech-w-drugiej-rundzie-w-madrycie-nie-dala-szans-rywalce/6b7mplt",
+            "source": "Przegląd Sportowy",
+            "time": "1 day ago",
+            "snippet": "Magdalena Fręch ograła Włoszkę polskiego pochodzenia Jasmine Paolini 6:2 \n6:3 i awansowała do drugiej rundy prestiżowego Mutua Madrid Open,..."
           },
           {
-            "articleTitle": "KORONA KIELCE - ZAGŁĘBIE LUBIN [RELACJA]",
-            "url": "https://radiokielce.pl/1041199/korona-kielce-zaglebie-lubin-relacja/",
-            "source": "Radio Kielce",
-            "time": "2 hours ago",
-            "snippet": "Dzień dobry! Już za pół godziny początek kolejnego, bardzo ważnego dla \nKorony meczu. Dziś rywalem Zagłębie Lubin, czyli bezpośredni rywal w..."
-          },
+            "articleTitle": "WTA Madryt. Marketa Vondrousova - Magda Linette. Gdzie oglądać? Czy będzie \nw telewizji?",
+            "url": "https://sportowefakty.wp.pl/tenis/1057401/wta-madryt-marketa-vondrousova-magda-linette-gdzie-ogladac-czy-bedzie-w-telewizj",
+            "source": "SportoweFakty",
+            "time": "6 hours ago",
+            "snippet": "Magda Linette od II rundy rozpocznie swój udział w turnieju Mutua Madrid \nOpen. Jej rywalką będzie Marketa Vondrousova. Sprawdź, kiedy i..."
+          }
+        ],
+        "idsForDedup": [
+          "/g/11cmg4v2z_ /g/121bdg5w",
+          "/g/11cmg4v2z_ /m/012r5llv",
+          "/g/11cmg4v2z_ /m/056_y",
+          "/g/11cmg4v2z_ /m/062pyl",
+          "/g/11cmg4v2z_ /m/0crcwvx",
+          "/g/11cmg4v2z_ /m/0fvb2",
+          "/g/121bdg5w /m/012r5llv",
+          "/g/121bdg5w /m/056_y",
+          "/g/121bdg5w /m/062pyl",
+          "/g/121bdg5w /m/0crcwvx",
+          "/g/121bdg5w /m/0fvb2",
+          "/m/012r5llv /m/056_y",
+          "/m/012r5llv /m/062pyl",
+          "/m/012r5llv /m/0crcwvx",
+          "/m/012r5llv /m/0fvb2",
+          "/m/056_y /m/062pyl",
+          "/m/056_y /m/0crcwvx",
+          "/m/056_y /m/0fvb2",
+          "/m/062pyl /m/0crcwvx",
+          "/m/062pyl /m/0fvb2",
+          "/m/0crcwvx /m/0fvb2"
+        ],
+        "id": "PL_lnk_4tXndQAAAAAFIM_pl",
+        "title": "Women's Tennis Association, Magdalena Fręch, Magda Linette, Madrid Open, game, Markéta Vondroušová, Madrid",
+        "entityNames": [
+          "Women's Tennis Association",
+          "Magdalena Fręch",
+          "Magda Linette",
+          "Madrid Open",
+          "game",
+          "Markéta Vondroušová",
+          "Madrid"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://www.goal.pl/transfery/manchester-united-obsypie-zlotem-kanea/",
+          "source": "Goal.pl",
+          "imgUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRMvxPRB5jePw1EOr7sw-hq43zuTxl9oP1JmY32ioyQ01qnsRGezyrCsX55iPs"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_AS4bdgAAAAAa2M_pl&category=all&geo=PL#PL_lnk_AS4bdgAAAAAa2M_pl",
+        "articles": [
           {
-            "articleTitle": "Korona – Zagłębie Lubin: typy, kursy, zapowiedź (23.04.2023)",
-            "url": "https://www.goal.pl/typy/korona-zaglebie-lubin-typy-kursy-zapowiedz-23042023/",
+            "articleTitle": "Manchester United chce obsypać złotem gwiazdę Premier League",
+            "url": "https://www.goal.pl/transfery/manchester-united-obsypie-zlotem-kanea/",
             "source": "Goal.pl",
+            "time": "2 days ago",
+            "snippet": "Transfery. Manchester United chce tego lata sprowadzić do siebie Harry'ego \nKane'a i szykuje dla niego lukratywną ofertę."
+          },
+          {
+            "articleTitle": "Harry Kane blisko odejścia! Tottenham wycenił napastnika. Olbrzymia kwota",
+            "url": "https://przegladsportowy.onet.pl/pilka-nozna/premier-league/harry-kane-blisko-odejscia-tottenham-wycenil-napastnika-olbrzymia-kwota/6x79nvb",
+            "source": "Przegląd Sportowy",
+            "time": "2 days ago",
+            "snippet": "Coraz więcej wskazuje na to, że Harry Kane po zakończeniu obecnego sezonu \nodejdzie z Tottenhamu. Jak podał \"The Telegraph\", klub z Londynu..."
+          },
+          {
+            "articleTitle": "Tego piłkarza chce Erik ten Hag. Oto strategia Manchesteru United na letnie \nokienko. Nie tylko wielkie gwiazdy",
+            "url": "https://www.meczyki.pl/newsy/tego-pilkarza-chce-erik-ten-hag-oto-strategia-manchesteru-united-na-letnie-okienko-nie-tylko-wielkie-gwiazdy/210676-n",
+            "source": "Meczyki",
             "time": "1 day ago",
-            "snippet": "Złocisto-Krwiści w rundzie wiosennej PKO BP Ekstraklasy dzielnie walczą o \nutrzymanie i wiele wskazuje na to, że uda im się ta sztuka."
+            "snippet": "Manchester United szykuje się do letniego wzmocnienia kadry. \"Czerwone \nDiabły\" myślą nie tylko o transferach największych gwiazd."
+          },
+          {
+            "articleTitle": "Manchester United z awaryjnym planem na wypadek fiaska transferu Harry'ego \nKane'a. Pięciu napastników na radarze",
+            "url": "https://transfery.info/aktualnosci/manchester-united-z-awaryjnym-planem-na-wypadek-fiaska-transferu-harryego-kanea-pieciu-napastnikow-na-radarze/183956",
+            "source": "Transfery.info",
+            "time": "1 day ago",
+            "snippet": "Manchester United przygotowuje się do podjęcia próby pozyskania Harry'ego \nKane'a z Tottenhamu. W razie poniesienia porażki na tym polu ma na..."
+          },
+          {
+            "articleTitle": "Kto jeśli nie Harry Kane? Pięciu napastników pod lupą Manchesteru United",
+            "url": "https://www.meczyki.pl/newsy/kto-jesli-nie-harry-kane-pieciu-napastnikow-pod-lupa-manchesteru-united/210570-n",
+            "source": "Meczyki",
+            "time": "1 day ago",
+            "snippet": "Manchester Untied chce kupić klasowego środkowego napastnika. \"Sky Sports\" \ntwierdzi, że na liście życzeń klubu jest aż sześciu atakujących."
+          },
+          {
+            "articleTitle": "Harry Kane wyceniony. Tottenham chce ogromnych pieniędzy",
+            "url": "https://sportowefakty.wp.pl/pilka-nozna/1056962/harry-kane-wyceniony-tottenham-chce-ogromnych-pieniedzy",
+            "source": "SportoweFakty",
+            "time": "2 days ago",
+            "snippet": "Nie można wykluczyć, że w najbliższym czasie będziemy świadkami transferu z \nudziałem Harry'ego Kane'a. Anglik nie jest zadowolony z sytuacji..."
+          },
+          {
+            "articleTitle": "Harry Kane bliski odejścia. Tottenham wycenił swoją gwiazdę. Potężna kwota",
+            "url": "https://www.sport.pl/pilka/7,65080,29696178,harry-kane-bliski-odejscia-tottenham-wycenil-swoja-gwiazde.html",
+            "source": "Sport.pl",
+            "time": "2 days ago",
+            "snippet": "Wiele wskazuje, że Harry Kane odejdzie tego lata z Tottenhamu. Angielskie \nmedia podały, że klub z Londynu wycenił już swoją gwiazdę i żąda..."
+          },
+          {
+            "articleTitle": "Manchester United zaczyna starania o hitowy transfer",
+            "url": "https://www.goal.pl/transfery/man-united-marzy-o-hitowym-transferze-klub-juz-dziala/",
+            "source": "Goal.pl",
+            "time": "3 days ago",
+            "snippet": "Manchester United w lato pragnie zrealizować hit transferowy. Na Old \nTrafford celem jest Harry Kane. Kwota, którą trzeba zapłacić za Anglika..."
+          },
+          {
+            "articleTitle": "Manchester United zaczął kreślić plan dotyczący transferu Kane'a",
+            "url": "https://devilpage.pl/index/news/komentarze/75726/manchester-united-zaczal-kreslic-plan-dotyczacy-transferu-kane-a/",
+            "source": "DevilPage.pl",
+            "time": "2 days ago",
+            "snippet": "Manchester United rozpoczął starania o pozyskanie Harry'ego Kane'a. \nDziennik The Telegraph informuje, że Czerwone Diabły sondują,..."
+          },
+          {
+            "articleTitle": "Manchester United bada grunt pod hitowy transfer",
+            "url": "https://transfery.info/aktualnosci/manchester-united-bada-grunt-pod-hitowy-transfer/183855",
+            "source": "Transfery.info",
+            "time": "3 days ago",
+            "snippet": "Manchester United rozpoczyna starania w kierunku sprowadzenia na Old \nTrafford Harry'ego Kane'a - informuje Matt Law na łamach „Daily..."
+          }
+        ],
+        "idsForDedup": [
+          "/m/02_tc /m/030lpl",
+          "/m/02_tc /m/050fh",
+          "/m/02_tc /m/0g9z4d4",
+          "/m/02_tc /m/0hvjr",
+          "/m/030lpl /m/050fh",
+          "/m/030lpl /m/0g9z4d4",
+          "/m/030lpl /m/0hvjr",
+          "/m/050fh /m/0g9z4d4",
+          "/m/050fh /m/0hvjr",
+          "/m/0g9z4d4 /m/0hvjr"
+        ],
+        "id": "PL_lnk_AS4bdgAAAAAa2M_pl",
+        "title": "Harry Kane, Manchester United F.C., Tottenham Hotspur F.C., Premier League, Old Trafford",
+        "entityNames": [
+          "Harry Kane",
+          "Manchester United F.C.",
+          "Tottenham Hotspur F.C.",
+          "Premier League",
+          "Old Trafford"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://przegladsportowy.onet.pl/zuzel/cellfast-wilki-krosno-for-nature-solutions-ks-apator-torun-relacja-na-zywo/nngqd0d",
+          "source": "Przegląd Sportowy",
+          "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRmY5BwyrFYa3h9t7NzSbl13SvPS2YVcS2qnZ1ADbkL2a8k4XpHPj0f0VSGSSI"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_0A3udQAAAAA--M_pl&category=all&geo=PL#PL_lnk_0A3udQAAAAA--M_pl",
+        "articles": [
+          {
+            "articleTitle": "Cellfast Wilki Krosno - For Nature Solutions KS Apator Toruń [RELACJA NA \nŻYWO] - Przegląd Sportowy",
+            "url": "https://przegladsportowy.onet.pl/zuzel/cellfast-wilki-krosno-for-nature-solutions-ks-apator-torun-relacja-na-zywo/nngqd0d",
+            "source": "Przegląd Sportowy",
+            "time": "47 minutes ago",
+            "snippet": "Historyczny dzień w Krośnie. To właśnie dziś, czyli 27 kwietnia rozpocznie \nsię pierwszy w historii mecz PGE Ekstraligi w tym mieście."
+          },
+          {
+            "articleTitle": "Żużel. Pierwszy domowy mecz dla beniaminka to pewna wygrana? Ostatnie \nsezony trochę namieszały",
+            "url": "https://sportowefakty.wp.pl/zuzel/1054718/zuzel-pierwszy-domowy-mecz-dla-beniaminka-to-pewna-wygrana-ostatnie-sezony-troch",
+            "source": "SportoweFakty",
+            "time": "10 hours ago",
+            "snippet": "Już w czwartek Wilki Krosno zainaugurują sezon przed własną publicznością. \nKlub z Podkarpacia będzie mierzył się na domowym torze z Apatorem..."
+          },
+          {
+            "articleTitle": "Torunianie narzekają na stan toru w Krośnie! Sawina rozważa dymisję",
+            "url": "https://przegladsportowy.onet.pl/zuzel/torunianie-narzekaja-na-stan-toru-w-krosnie-sawina-rozwaza-dymisje/dc49zpn",
+            "source": "Przegląd Sportowy",
+            "time": "2 days ago",
+            "snippet": "Właśnie rozpoczyna się spotkanie pomiędzy Cellfast Wilkami Krosno a For \nNature Solutions Apatorem Toruń. Przed startem do pierwszego biegu..."
+          },
+          {
+            "articleTitle": "Inauguracje w Krośnie i Lublinie (zapowiedź #KROTOR i #LUBWRO) | PGE \nEkstraliga",
+            "url": "https://speedwayekstraliga.pl/inauguracje-w-krosnie-i-lublinie-zapowiedz-krotor-i-lubwro/",
+            "source": "PGE Ekstraliga",
+            "time": "8 hours ago",
+            "snippet": "Nadszedł czas rozegrać dwa przełożone mecze z 1. i 2. rundy PGE Ekstraligi, \nktóre otworzą sezon w Krośnie oraz Lublinie."
+          },
+          {
+            "articleTitle": "Pojedzie tam pierwszy raz w historii! Poprowadzi drużynę do zwycięstwa?",
+            "url": "https://przegladsportowy.onet.pl/zuzel/ekstraliga/pojedzie-tam-pierwszy-raz-w-historii-poprowadzi-druzyne-do-zwyciestwa/j996t8d",
+            "source": "Przegląd Sportowy",
+            "time": "10 hours ago",
+            "snippet": "W końcu kibice się doczekali. Już o godzinie 18:00 na torze w Krośnie \nodbędzie się starcie pomiędzy Cellfast Wilkami Krosno a For Nature..."
+          },
+          {
+            "articleTitle": "Żużel. Kto zadecyduje o losach meczu w Krośnie? Świdnicki może być \nkluczowym ogniwem Wilków",
+            "url": "https://sportowefakty.wp.pl/zuzel/1057156/zuzel-kto-zadecyduje-o-losach-meczu-w-krosnie-swidnicki-moze-byc-kluczowym-ogniw",
+            "source": "SportoweFakty",
+            "time": "9 hours ago",
+            "snippet": "W czwartek pierwsze domowe spotkanie w tym roku czeka Cellfast Wilki, a \npierwsze wyjazdowe For Nature Solutions KS Apatora. Zerkamy na układ..."
+          },
+          {
+            "articleTitle": "Niewiarygodne ile lat minęło od ich ostatniego meczu ligowego!",
+            "url": "https://przegladsportowy.onet.pl/zuzel/niewiarygodne-ile-lat-minelo-od-ich-ostatniego-meczu-ligowego/t2cnepl",
+            "source": "Przegląd Sportowy",
+            "time": "11 hours ago",
+            "snippet": "Kibice Cellfast Wilków odliczają już godziny do chwili, kiedy po raz \npierwszy w historii Ekstraliga zawita do Krosna. Pierwszymi gośćmi ekipy \nIreneusza..."
+          },
+          {
+            "articleTitle": "Sprzedaż biletów na mecz z Cellfast Wilkami Krosno!",
+            "url": "https://wlokniarz.com/2023/04/26/sprzedaz-biletow-na-mecz-z-cellfast-wilkami-krosno/",
+            "source": "Włókniarz Częstochowa",
+            "time": "1 day ago",
+            "snippet": "Już 5 maja (piątek) w ramach 5. kolejki PGE Ekstraligi na Arenie \nzielona-energia.com – TAURON Włókniarz Częstochowa zmierzy się z..."
+          },
+          {
+            "articleTitle": "Dziś w Krośnie wielki debiut. Cellfast Wilki kontra \"Anioły\" z Torunia. \nAndrzej Lebiediew: W powietrzu aż pachnie ...",
+            "url": "https://nowiny24.pl/dzis-w-krosnie-wielki-debiut-cellfast-wilki-kontra-anioly-z-torunia-andrzej-lebiediew-w-powietrzu-az-pachnie-emocjami/ar/c2-17494103",
+            "source": "Nowiny 24",
+            "time": "8 hours ago",
+            "snippet": "Dziś pierwszy raz w historii żużla na Podkarpaciu Cellfast Wilki Krosno \nwalczyć będą przed własną publicznością o punkty PGE Ekstraligi."
+          },
+          {
+            "articleTitle": "Te dwa mecze wstrząsną Krosnem. Załatwią sobie utrzymanie?",
+            "url": "https://sport.interia.pl/zuzel/news-te-dwa-mecze-wstrzasna-krosnem-zalatwia-sobie-utrzymanie,nId,6743494",
+            "source": "Interia Sport",
+            "time": "6 hours ago",
+            "snippet": "W sezonie 2022 beniaminek z Ostrowa przegrał wszystkie mecze. Cellfast \nWilki, które w tym roku debiutują w Ekstralidze, też zaczęły od..."
           }
         ],
         "idsForDedup": [
           "/g/11b6gnztrq /g/121bdg5w",
-          "/g/11b6gnztrq /m/0324n_",
-          "/g/11b6gnztrq /m/03d3q3",
-          "/g/11b6gnztrq /m/09nw6c",
-          "/g/11b6gnztrq /m/0cncm6",
-          "/g/11b6gnztrq /m/0cz9jp6",
-          "/g/121bdg5w /m/0324n_",
-          "/g/121bdg5w /m/03d3q3",
-          "/g/121bdg5w /m/09nw6c",
-          "/g/121bdg5w /m/0cncm6",
-          "/g/121bdg5w /m/0cz9jp6",
-          "/m/0324n_ /m/03d3q3",
-          "/m/0324n_ /m/09nw6c",
-          "/m/0324n_ /m/0cncm6",
-          "/m/0324n_ /m/0cz9jp6",
-          "/m/03d3q3 /m/09nw6c",
-          "/m/03d3q3 /m/0cncm6",
-          "/m/03d3q3 /m/0cz9jp6",
-          "/m/09nw6c /m/0cncm6",
-          "/m/09nw6c /m/0cz9jp6",
-          "/m/0cncm6 /m/0cz9jp6"
+          "/g/11b6gnztrq /m/022mv1",
+          "/g/11b6gnztrq /m/02vzqs7",
+          "/g/11b6gnztrq /m/0d9kb2",
+          "/g/121bdg5w /m/022mv1",
+          "/g/121bdg5w /m/02vzqs7",
+          "/g/121bdg5w /m/0d9kb2",
+          "/m/022mv1 /m/02vzqs7",
+          "/m/022mv1 /m/0d9kb2",
+          "/m/02vzqs7 /m/0d9kb2"
         ],
-        "id": "PL_lnk_dfWzdAAAAADGAM_pl",
-        "title": "Korona Kielce, Zagłębie Lubin, Ekstraklasa, game, Kamil Kuzera, Kielce Municipal Stadium - Suzuki Arena, competitive player",
+        "id": "PL_lnk_0A3udQAAAAA--M_pl",
+        "title": "Ekstraliga, game, KS Toruń, Krosno, competitive player",
         "entityNames": [
-          "Korona Kielce",
-          "Zagłębie Lubin",
-          "Ekstraklasa",
+          "Ekstraliga",
           "game",
-          "Kamil Kuzera",
-          "Kielce Municipal Stadium - Suzuki Arena",
+          "KS Toruń",
+          "Krosno",
           "competitive player"
         ]
       },
       {
         "image": {
-          "newsUrl": "https://intermediolan.com/news/38104/mkhitarian-wycofal-sie-z-rywalizacji-z-empoli",
-          "source": "Inter Mediolan",
-          "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSwL5rTqTc0yHpihIVX1H0zZ88kalSM0HvrMY3pCEvldmAg8pV22u8LygiPjkw"
+          "newsUrl": "https://www.rmf24.pl/fakty/swiat/news-slowacja-gornik-z-polski-w-ciezkim-stanie-po-wypadku-w-kopal,nId,6743453",
+          "source": "RMF24",
+          "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTLgr4RPbXcbDqO7ILwhS97Gd6cd5LUOJprwpEphbvAbNPIeAg94xKZ--pjUME"
         },
-        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_UcHEdQAAAACVNM_pl&category=all&geo=PL#PL_lnk_UcHEdQAAAACVNM_pl",
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_hP93dgAAAADzCM_pl&category=all&geo=PL#PL_lnk_hP93dgAAAADzCM_pl",
         "articles": [
           {
-            "articleTitle": "Mkhitarian wycofał się z rywalizacji z Empoli",
-            "url": "https://intermediolan.com/news/38104/mkhitarian-wycofal-sie-z-rywalizacji-z-empoli",
-            "source": "Inter Mediolan",
-            "time": "4 hours ago",
-            "snippet": "Henrikh Mkhitarian wyrósł w tym sezonie na kluczowego zawodnika drużyny \nSimone Inzaghiego. Niestety 34-latek nie będzie dost��pny na mecz..."
+            "articleTitle": "Słowacja: Górnik z Polski w ciężkim stanie po wypadku w kopalni",
+            "url": "https://www.rmf24.pl/fakty/swiat/news-slowacja-gornik-z-polski-w-ciezkim-stanie-po-wypadku-w-kopal,nId,6743453",
+            "source": "RMF24",
+            "time": "6 hours ago",
+            "snippet": "Spośród dziewięciu górników, rannych w pożarze metanu w kopalni Novaky w \nrejonie Bańskiej Bystrzycy, czterej są w ciężkim stanie. Jeden z..."
           },
           {
-            "articleTitle": "Mkhitaryana zabraknie w Empoli, sporo rotacji w wyjściowej jedenastce (9)",
-            "url": "https://fcinter.pl/news/mkhitaryana-zabraknie-w-empoli-sporo-rotacji-w-wyjsciowej-jedenastce",
-            "source": "Inter Mediolan",
+            "articleTitle": "Wybuch w słowackiej kopalni Novaky. Dwóch Polaków w ciężkim stanie",
+            "url": "https://www.polsatnews.pl/wiadomosc/2023-04-27/pozar-pod-ziemia-polscy-gornicy-ranni-w-slowackiej-kopalni/",
+            "source": "Polsat News",
+            "time": "10 hours ago",
+            "snippet": "Dwóch Polaków zostało rannych na skutek wybuchu w słowackiej kopalni \nNovaky. W sumie rannych jest dziewięć osób, cztery są w ciężkim stanie."
+          },
+          {
+            "articleTitle": "Słowacja. Pożar w kopalni Novaky. Wśród poszkodowanych Polacy",
+            "url": "https://www.tvp.info/69468766/slowacja-pozar-w-kopalni-novaky-wsrod-poszkodowanych-polacy",
+            "source": "TVP Info",
+            "time": "9 hours ago",
+            "snippet": "W kopalni węgla kamiennego Novaky na zachodzie Słowacji zapalił się metan. \nJak poinformowały służby ratownicze, dziewięciu górników zostało..."
+          },
+          {
+            "articleTitle": "Polscy górnicy ciężko ranni w pożarze w kopalni Novaky na Słowacji",
+            "url": "https://www.rmf24.pl/fakty/swiat/news-polscy-gornicy-ciezko-ranni-w-pozarze-w-kopalni-novaky-na-sl,nId,6743160",
+            "source": "RMF24",
+            "time": "13 hours ago",
+            "snippet": "W kopalni węgla kamiennego Novaky na zachodzie Słowacji zapalił się w środę \nmetan. Jak poinformowały służby ratownicze, dziewięciu górników..."
+          },
+          {
+            "articleTitle": "Poprawił się stan dwóch górników po pożarze w kopalni na Słowacji. Jeden z \nnich to Polak",
+            "url": "https://polskieradio24.pl/5/1223/artykul/3158281,poprawil-sie-stan-dwoch-gornikow-po-pozarze-w-kopalni-na-slowacji-jeden-z-nich-to-polak",
+            "source": "Polskie Radio 24",
+            "time": "1 hour ago",
+            "snippet": "Martina Pavlikova, rzeczniczka Kliniki Oparzeń i Chirurgii Rekonstrukcyjnej \nw Koszycach, do której trafili dwaj z czterech górników ciężko..."
+          },
+          {
+            "articleTitle": "Słowacja: poprawił się stan dwóch ciężko rannych górników z kopalni Novaky \nleczonych w Koszycach",
+            "url": "https://www.wnp.pl/gornictwo/slowacja-poprawil-sie-stan-dwoch-ciezko-rannych-gornikow-z-kopalni-novaky-leczonych-w-koszycach,704225.html",
+            "source": "WNP",
+            "time": "1 hour ago",
+            "snippet": "Rzeczniczka Kliniki Oparzeń i Chirurgii Rekonstrukcyjnej w Koszycach, do \nktórej trafili dwaj z czterech górników ciężko rannych w pożarze w..."
+          },
+          {
+            "articleTitle": "Słowacja. Pożar w kopalni - polscy górnicy wśród rannych",
+            "url": "https://tvn24.pl/swiat/slowacja-pozar-w-kopalni-polscy-gornicy-wsrod-rannych-7007277",
+            "source": "TVN24",
             "time": "12 hours ago",
-            "snippet": "Nerazzurri już dziś o 12:30 zmierzą się na wyjeździe z Empoli, niecałe \ncztery dni po ćwierćfinałowym meczu z Benfiką w Lidze Mistrzów."
-          }
-        ],
-        "idsForDedup": [
-          "/g/121bdg5w /m/03x6m",
-          "/g/121bdg5w /m/045xx",
-          "/g/121bdg5w /m/049fbh",
-          "/g/121bdg5w /m/04psgg",
-          "/m/03x6m /m/045xx",
-          "/m/03x6m /m/049fbh",
-          "/m/03x6m /m/04psgg",
-          "/m/045xx /m/049fbh",
-          "/m/045xx /m/04psgg",
-          "/m/049fbh /m/04psgg"
-        ],
-        "id": "PL_lnk_UcHEdQAAAACVNM_pl",
-        "title": "Empoli F.C., Inter Milan, Coppa Italia, Juventus F.C., game",
-        "entityNames": [
-          "Empoli F.C.",
-          "Inter Milan",
-          "Coppa Italia",
-          "Juventus F.C.",
-          "game"
-        ]
-      },
-      {
-        "image": {
-          "newsUrl": "https://garbarnia.krakow.pl/2023/04/23/sprzedaz-biletow-na-mecz-z-kotwica-kolobrzeg/",
-          "source": "Garbarnia Kraków",
-          "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQOHHqLNL5tspO0jQ85qxFRzLrHLBn-b7HOaRSlgLsjexAzCqPZE5tMYkdoa8E"
-        },
-        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_0G2xdQAAAABhmM_pl&category=all&geo=PL#PL_lnk_0G2xdQAAAABhmM_pl",
-        "articles": [
+            "snippet": "Według wstępnych ustaleń w miejscu zdarzenia doszło do nagłego i \nniespodziewanego zapalenia się metanu, a nie do jego wybuchu - powiedział..."
+          },
           {
-            "articleTitle": "Sprzedaż biletów na mecz z Kotwicą Kołobrzeg – RKS Garbarnia Kraków – \noficjalny serwis klubu",
-            "url": "https://garbarnia.krakow.pl/2023/04/23/sprzedaz-biletow-na-mecz-z-kotwica-kolobrzeg/",
-            "source": "Garbarnia Kraków",
+            "articleTitle": "Pożar w słowackiej kopalni. Część górników została ciężko ranna. Wśród \nposzkodowanych są Polacy",
+            "url": "https://wiadomosci.gazeta.pl/wiadomosci/7,114881,29704738,pozar-w-slowackiej-kopalni-polscy-gornicy-ciezko-ranni.html",
+            "source": "Wiadomości",
+            "time": "11 hours ago",
+            "snippet": "W słowackiej kopalni Novaky doszło do zapalenia się metanu. W wyniku pożaru \nrannych zostało ośmiu górników. Cztery osoby odniosły ciężkie..."
+          },
+          {
+            "articleTitle": "Górnictwo: Słowaccy lekarze całą noc walczyli o życie poszkodowanych w \nkopalni Novaky - Górnictwo",
+            "url": "https://nettg.pl/gornictwo/196227/slowaccy-lekarze-cala-nic-walczyli-o-zycie-ofiar-katastrofy-w-kopalni-novaky",
+            "source": "netTG.pl",
             "time": "6 hours ago",
-            "snippet": "W ostatnim kwietniowym domowym pojedynku Garbarnia Kraków zmierzy się z \nKotwicą Kołobrzeg. Mecz 29. kolejki eWinner 2. Ligi odbędzie się w..."
+            "snippet": "Wciąż nie ma informacji o stanie zdrowia polskich górników, którzy \nucierpieli w wyniku zapalenia się metanu w słowackiej kopalni Novaky w..."
+          },
+          {
+            "articleTitle": "Wypadek w kopalni na Słowacji. Ranni górnicy, w tym Polacy",
+            "url": "https://www.fakt.pl/wydarzenia/swiat/wypadek-w-kopalni-na-slowacji-ranni-gornicy-w-tym-polacy/zs8xhn2",
+            "source": "Fakt.pl",
+            "time": "13 hours ago",
+            "snippet": "W kopalni węgla kamiennego Novaky na zachodzie Słowacji zapalił się w środę \nmetan. Jak poinformowały służby ratownicze, dziewięciu górników..."
           }
         ],
         "idsForDedup": [
-          "/g/121bdg5w /g/122t1pc_",
-          "/g/121bdg5w /m/0324l8",
-          "/g/121bdg5w /m/03yhx28",
-          "/g/121bdg5w /m/04p_z56",
-          "/g/122t1pc_ /m/0324l8",
-          "/g/122t1pc_ /m/03yhx28",
-          "/g/122t1pc_ /m/04p_z56",
-          "/m/0324l8 /m/03yhx28",
-          "/m/0324l8 /m/04p_z56",
-          "/m/03yhx28 /m/04p_z56"
+          "/g/1216lpw2 /m/026hkqz",
+          "/g/1216lpw2 /m/06npd",
+          "/m/026hkqz /m/06npd"
         ],
-        "id": "PL_lnk_0G2xdQAAAABhmM_pl",
-        "title": "game, II liga, Górnik Polkowice, Kotwica Kołobrzeg",
-        "entityNames": [
-          "game",
-          "II liga",
-          "Górnik Polkowice",
-          "Kotwica Kołobrzeg"
-        ]
+        "id": "PL_lnk_hP93dgAAAADzCM_pl",
+        "title": "Slovakia, wounded in action, Nováky",
+        "entityNames": ["Slovakia", "wounded in action", "Nováky"]
       },
       {
         "image": {
-          "newsUrl": "https://www.sport.pl/tenis/14,64987,29690357.html",
-          "source": "Sport.pl",
-          "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcS_kBtmDKR9bdKLwF4mBIqO0SM7FnXay1huK9HmMuR4zjJgZ6IDwYrfa1-LPbk"
-        },
-        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_0j-2cwAAAABkzM_pl&category=all&geo=PL#PL_lnk_0j-2cwAAAABkzM_pl",
-        "articles": [
-          {
-            "articleTitle": "Wielki finał z Igą Świątek. Gra z Sabalenką o triumf w Stuttgarcie Tenis",
-            "url": "https://www.sport.pl/tenis/14,64987,29690357.html",
-            "source": "Sport.pl",
-            "time": "12 minutes ago",
-            "snippet": "Światek - Sabalenka 0:0, 5:3. Jest przełamanie! Co to był za kosmiczny gem! \nMarcin Jaz. www.sport.pl. Wielki finał z Igą Świątek."
-          },
-          {
-            "articleTitle": "\"Zabiłaby mnie\". Huber nie ma wątpliwości. \"Iga Świątek już jest legendą\"",
-            "url": "https://www.sport.pl/tenis/7,64987,29690300,zabilaby-mnie-dyrektorka-turnieju-w-stuttgarcie-o-swiatek.html",
-            "source": "Sport.pl",
-            "time": "52 minutes ago",
-            "snippet": "Zabiłaby mnie - wypaliła Anke Huber, była niemiecka tenisistka, a obecnie \ndyrektorka turnieju w Stuttgarcie na pytanie, jak poradziłaby..."
-          },
-          {
-            "articleTitle": "WTA w Stuttgarcie: Iga Świątek - Aryna Sabalenka. Relacja i wynik na żywo",
-            "url": "https://www.polsatsport.pl/wiadomosc/2023-04-23/wta-w-stuttgarcie-iga-swiatek-aryna-sabalenka-relacja-i-wynik-na-zywo/",
-            "source": "Polsat Sport",
-            "time": "3 hours ago",
-            "snippet": "W wielkim finale turnieju WTA 500 w Stuttgarcie Iga Świątek zmierzy się z \nBiałorusinką Aryną Sabalenką. Czy Polce uda się obronić wywalczony..."
-          },
-          {
-            "articleTitle": "Gwiazda niemieckiego tenisa wypaliła o Świątek: zabiłaby mnie!",
-            "url": "https://przegladsportowy.onet.pl/tenis/gwiazda-niemieckiego-tenisa-wypalila-o-swiatek-zabilaby-mnie/zkyc16d",
-            "source": "Przegląd Sportowy",
-            "time": "19 hours ago",
-            "snippet": "Była niemiecka tenisistka, pełniąca obecnie rolę dyrektorki operacyjnej \nturnieju WTA 500 w Stutgarcie Anke Huber, zapytana została,..."
-          },
-          {
-            "articleTitle": "Iga Świątek - Aryna Sabalenka w finale WTA w Stuttgarcie. Relacja na żywo",
-            "url": "https://sport.fakt.pl/iga-swiatek-aryna-sabalenka-w-finale-wta-w-stuttgarcie-relacja-na-zywo/g56e9l5",
-            "source": "Sport",
-            "time": "49 minutes ago",
-            "snippet": "Iga Świątek gra o drugi w karierze triumf na kortach ziemnych w \nStuttgarcie. Podobnie jak przed rokiem w decydującym spotkaniu jej \nrywalką..."
-          },
-          {
-            "articleTitle": "Iga Świątek – Aryna Sabalenka [NA ŻYWO]. Relacja online z finału WTA \nStuttgart w niedzielę 23.4.2023 (sport.tvp.pl)",
-            "url": "https://sport.tvp.pl/69374399/iga-swiatek-aryna-sabalenka-na-zywo-relacja-online-z-finalu-wta-stuttgart-w-niedziele-2342023",
-            "source": "TVP Sport",
-            "time": "6 hours ago",
-            "snippet": "Iga Świątek zapewniła sobie awans do finału turnieju w Stuttgarcie w 18 \nminut. Wszystko dlatego, że ze względu na kontuzję skreczowała jej..."
-          },
-          {
-            "articleTitle": "Napracowała się bardziej niż na korcie. Szaleństwo wokół Świątek",
-            "url": "https://sportowefakty.wp.pl/tenis/1056643/napracowala-sie-bardziej-niz-na-korcie-szalenstwo-wokol-swiatek",
-            "source": "SportoweFakty",
-            "time": "17 hours ago",
-            "snippet": "Iga Świątek spędziła w sobotę mało czasu na korcie z powodu kontuzji Ons \nJabeur. Po kreczu rywalki Polka awansowała do finału."
-          },
-          {
-            "articleTitle": "Świątek w finale w Stuttgarcie! Kontuzja i dramat rywalki Polki",
-            "url": "https://przegladsportowy.onet.pl/tenis/swiatek-w-finale-w-stuttgarcie-kontuzja-i-dramat-rywalki-polki/2cfrmtw",
-            "source": "Przegląd Sportowy",
-            "time": "1 day ago",
-            "snippet": "Iga Świątek awansowała do finału turnieju WTA 500 w Stuttgarcie. Polka \nspędziła na korcie z Ons Jabuer zaledwie trzy gemy."
-          },
-          {
-            "articleTitle": "Słynny trener grzmi ws. rywalek Igi Świątek. Jaśniej się nie da. \"To \nprzekracza moje pojęcie\"",
-            "url": "https://www.sport.pl/tenis/7,64987,29689408,slynny-trener-grzmi-ws-rywalek-igi-swiatek-jasniej-sie-nie.html",
-            "source": "Sport.pl",
-            "time": "17 hours ago",
-            "snippet": "Lepiej nic nie mówić niż tak głupio się wypowiadać - denerwuje się Piotr \nWoźniacki. Ojciec i trener Karoliny Woźniackiej, byłej numer 1..."
-          },
-          {
-            "articleTitle": "WTA Stuttgart. Gdzie oglądać mecz Iga Świątek - Aryna Sabalenka? Czy będzie \nw telewizji?",
-            "url": "https://sportowefakty.wp.pl/tenis/1056697/wta-stuttgart-gdzie-ogladac-mecz-iga-swiatek-aryna-sabalenka-czy-bedzie-w-telewi",
-            "source": "SportoweFakty",
-            "time": "7 hours ago",
-            "snippet": "Iga Świątek - Aryna Sabalenka to spotkanie finałowe turnieju WTA 500 w \nStuttgarcie. Do tego starcia dojdzie w niedzielę, 23 kwietnia,..."
-          }
-        ],
-        "idsForDedup": [
-          "/g/11c54bv10v /m/0727_",
-          "/g/11c54bv10v /m/084sjy",
-          "/g/11c54bv10v /m/09rtm_1",
-          "/g/11c54bv10v /m/0c3z8z5",
-          "/g/11c54bv10v /m/0fvb2",
-          "/m/0727_ /m/084sjy",
-          "/m/0727_ /m/09rtm_1",
-          "/m/0727_ /m/0c3z8z5",
-          "/m/0727_ /m/0fvb2",
-          "/m/084sjy /m/09rtm_1",
-          "/m/084sjy /m/0c3z8z5",
-          "/m/084sjy /m/0fvb2",
-          "/m/09rtm_1 /m/0c3z8z5",
-          "/m/09rtm_1 /m/0fvb2",
-          "/m/0c3z8z5 /m/0fvb2"
-        ],
-        "id": "PL_lnk_0j-2cwAAAABkzM_pl",
-        "title": "Iga Świątek, Women's Tennis Association, Women's Stuttgart Open, Stuttgart, Karolína Plíšková, Ons Jabeur",
-        "entityNames": [
-          "Iga Świątek",
-          "Women's Tennis Association",
-          "Women's Stuttgart Open",
-          "Stuttgart",
-          "Karolína Plíšková",
-          "Ons Jabeur"
-        ]
-      },
-      {
-        "image": {
-          "newsUrl": "https://sportowefakty.wp.pl/kolarstwo/1056749/hat-trick-holenderki-w-liege-bastogne-liege-pech-niewiadomej",
-          "source": "SportoweFakty",
-          "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcSLsLUxbZ0gh8syUmB-kX5SVw8YUM9HYC5cXp_9-L7Qq2n4b4BkKZMe91G4UDQ"
-        },
-        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_a4OddQAAAAD2dM_pl&category=all&geo=PL#PL_lnk_a4OddQAAAAD2dM_pl",
-        "articles": [
-          {
-            "articleTitle": "Hat-trick Holenderki w Liege-Bastogne-Liege. Pech Niewiadomej",
-            "url": "https://sportowefakty.wp.pl/kolarstwo/1056749/hat-trick-holenderki-w-liege-bastogne-liege-pech-niewiadomej",
-            "source": "SportoweFakty",
-            "time": "30 minutes ago",
-            "snippet": "Zawodniczki rywalizowały na najeżonej podjazdami 143 kilometrowej trasie z \nBastogne do Liege. Główną faworytką wyścigu była Holenderka Demi..."
-          },
-          {
-            "articleTitle": "Liège-Bastogne-Liège 2023: Tadej Pogačar poza rywalizacją!",
-            "url": "https://naszosie.pl/2023/04/23/liege-bastogne-liege-2023-tadej-pogacar-poza-rywalizacja/",
-            "source": "naszosie.pl",
-            "time": "57 minutes ago",
-            "snippet": "Już na 167km przed metą zakończyła się dla Tadeja Pogačara walka o wygranie \ncałego Tryptyku Ardeńskiego w jednym roku."
-          },
-          {
-            "articleTitle": "Julian Alaphilippe wraca do składu Soudal-Quick Step. Pomoże Remco \nEvenepoelowi",
-            "url": "https://naszosie.pl/2023/04/21/julian-alaphilippe-wraca-do-skladu-soudal-quick-step-pomoze-remco-evenepoelowi/",
-            "source": "naszosie.pl",
-            "time": "2 days ago",
-            "snippet": "Po około 20-dniowej przerwie Julian Alaphilippe wraca do ścigania. Nie on \nbędzie jednak liderem Soudal-Quick Step na Liege-Bastogne-Liege,..."
-          },
-          {
-            "articleTitle": "Liege-Bastogne-Liege: Vollering znów najszybsza, Niewiadoma na 11. miejscu",
-            "url": "https://sport.tvp.pl/69377214/liege-bastogne-liege-vollering-znow-najszybsza-niewiadoma-na-11-miejscu",
-            "source": "TVP Sport",
-            "time": "1 hour ago",
-            "snippet": "Holenderka Demi Vollering z ekipy SD Worx wygrała słynny kolarski klasyk \nLiege-Bastogne-Liege, wyprzedzając na finiszu Włoszkę Elisę Longo..."
-          },
-          {
-            "articleTitle": "Liege-Bastogne-Liege 2023. Kiedy i o której wyścig? Transmisja w TV i \nonline w Internecie. Gdzie oglądać ...",
-            "url": "https://eurosport.tvn24.pl/kolarstwo,129/liege-bastogne-liege-2023-kiedy-i-o-ktorej-wyscig-transmisja-w-tv-i-online-w-internecie-gdzie-ogladac-kolarstwo,1143708.html",
-            "source": "Eurosport",
-            "time": "7 hours ago",
-            "snippet": "W niedzielę odbędzie się jeden z najważniejszych kolarskich klasyków, czyli \nwyścig Liege-Bastogne-Liege. Na starcie nie zabraknie gwiazd,..."
-          },
-          {
-            "articleTitle": "Kwiatkowski, Niewiadoma, Owsian i Lach przed Liege-Bastogne-Liege",
-            "url": "https://rowery.org/2023/04/22/kwiatkowski-niewiadoma-owsian-i-lach-przed-liege-bastogne-liege/",
-            "source": "Rowery.org",
-            "time": "18 hours ago",
-            "snippet": "Michał Kwiatkowski, Łukasz Owsian, Katarzyna Niewiadoma i Marta Lach to \npolska czwórka, która w niedzielę przystąpi do wyścigów..."
-          },
-          {
-            "articleTitle": "Napisać historię – zapowiedź Liège-Bastogne-Liège 2023",
-            "url": "https://naszosie.pl/2023/04/23/napisac-historie-zapowiedz-liege-bastogne-liege-2023/",
-            "source": "naszosie.pl",
-            "time": "4 hours ago",
-            "snippet": "W mgnieniu oka przeleciała kampania wiosennych klasyków, która dziś \nzostanie zwieńczona monumentem – Liège-Bastogne-Liège."
-          },
-          {
-            "articleTitle": "Liège-Bastogne-Liège Femmes 2023: Demi Vollering zdobywa potrójną koronę w \nArdenach!",
-            "url": "https://naszosie.pl/2023/04/23/liege-bastogne-liege-femmes-2023-demi-vollering-zdobywa-potrojna-korone-w-ardenach/",
-            "source": "naszosie.pl",
-            "time": "1 hour ago",
-            "snippet": "Po zwycięstwie w dwójkowym sprincie przeciwko Elisie Longo Borghini \n(Trek-Segafredo) Demi Vollering (SD Worx) wygrała wyścig..."
-          },
-          {
-            "articleTitle": "Zapowiedź Liege-Bastogne-Liege 2023",
-            "url": "https://rowery.org/2023/04/22/zapowiedz-liege-bastogne-liege-2023/",
-            "source": "Rowery.org",
-            "time": "1 day ago",
-            "snippet": "W niedzielę odbędzie się ostatni akt klasycznej wiosny, monument \nLiege-Bastogne-Liege. Po dwóch odsłonach Ardeńskiego Tryptyku Demi..."
-          },
-          {
-            "articleTitle": "Liège-Bastogne-Liège 2023: Listy startowe wyścigów mężczyzn i kobiet",
-            "url": "https://naszosie.pl/2023/04/23/liege-bastogne-liege-2023-listy-startowe-wyscigow-mezczyzn-i-kobiet/",
-            "source": "naszosie.pl",
-            "time": "3 hours ago",
-            "snippet": "Dziś poznamy zwycięzcę i zwyciężczynię Liège-Bastogne-Liège. Na ardeńskich \npodjazdach powalczą najwięksi specjaliści i specjalistki od jazdy..."
-          }
-        ],
-        "idsForDedup": [
-          "/g/11d_77s5gz /g/11g0g4s_yq",
-          "/g/11d_77s5gz /m/03nr40",
-          "/g/11d_77s5gz /m/05yskv",
-          "/g/11d_77s5gz /m/0d4k2",
-          "/g/11d_77s5gz /m/0hn8pqk",
-          "/g/11d_77s5gz /m/0y65wfl",
-          "/g/11g0g4s_yq /m/03nr40",
-          "/g/11g0g4s_yq /m/05yskv",
-          "/g/11g0g4s_yq /m/0d4k2",
-          "/g/11g0g4s_yq /m/0hn8pqk",
-          "/g/11g0g4s_yq /m/0y65wfl",
-          "/m/03nr40 /m/05yskv",
-          "/m/03nr40 /m/0d4k2",
-          "/m/03nr40 /m/0hn8pqk",
-          "/m/03nr40 /m/0y65wfl",
-          "/m/05yskv /m/0d4k2",
-          "/m/05yskv /m/0hn8pqk",
-          "/m/05yskv /m/0y65wfl",
-          "/m/0d4k2 /m/0hn8pqk",
-          "/m/0d4k2 /m/0y65wfl",
-          "/m/0hn8pqk /m/0y65wfl"
-        ],
-        "id": "PL_lnk_a4OddQAAAAD2dM_pl",
-        "title": "Liège–Bastogne–Liège, Classic cycle races, Remco Evenepoel, Katarzyna Niewiadoma, Tadej Pogačar, Liège, Annemiek van Vleuten",
-        "entityNames": [
-          "Liège–Bastogne–Liège",
-          "Classic cycle races",
-          "Remco Evenepoel",
-          "Katarzyna Niewiadoma",
-          "Tadej Pogačar",
-          "Liège",
-          "Annemiek van Vleuten"
-        ]
-      },
-      {
-        "image": {
-          "newsUrl": "https://www.dziennikwschodni.pl/lublin/plonie-auto-na-obwodnicy-lublina-utrudnienia-w-ruchu,n,1000323426.html",
-          "source": "Dziennik Wschodni",
-          "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ8tAY_2lzwM6NZlEHiAVvDti1nTzCYssn511wHMzCGfV6KPrtV4ElEnPG_ga8"
-        },
-        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_jLvvdAAAAABjTM_pl&category=all&geo=PL#PL_lnk_jLvvdAAAAABjTM_pl",
-        "articles": [
-          {
-            "articleTitle": "Płonie auto na obwodnicy Lublina. Utrudnienia w ruchu",
-            "url": "https://www.dziennikwschodni.pl/lublin/plonie-auto-na-obwodnicy-lublina-utrudnienia-w-ruchu,n,1000323426.html",
-            "source": "Dziennik Wschodni",
-            "time": "1 hour ago",
-            "snippet": "Do zdarzenia doszło w południu pomiędzy węzłami Rudnik i Tatary. \nZablokowany jest pas awaryjny i pas prawy jezdni w kierunku Chełma i..."
-          },
-          {
-            "articleTitle": "Pożar samochodu na drodze ekspresowej S17 pod Lublinem. Droga zablokowana, \nkierowcy utknęli w korku",
-            "url": "https://spottedlublin.pl/pozar-samochodu-na-drodze-ekspresowej-s17-pod-lublinem-droga-zablokowana-kierowcy-utkneli-w-korku/",
-            "source": "Spotted Lublin",
-            "time": "4 days ago",
-            "snippet": "Kilka minut przed godziną 14 na drodze ekspresową S17 pod Lublinem doszło \ndo pożaru samochodu. Na miejscu interweniują trzy zastępy straży..."
-          },
-          {
-            "articleTitle": "Na ekspresówce samochód stanął w płomieniach. Są utrudnienia na jezdni w \nstronę Lublina 15:23 20-04-2023",
-            "url": "https://www.lublin112.pl/na-ekspresowce-samochod-stanal-w-plomieniach-sa-utrudnienia-na-jezdni-w-strone-lublina/",
-            "source": "Lublin112.pl",
-            "time": "2 days ago",
-            "snippet": "Na drodze ekspresowej S12/17 płonie auto osobowe. Przed chwilą na miejsce \ndotarła straż pożarna. Trwa akcja gaśnicza, są utrudnienia w ruchu..."
-          },
-          {
-            "articleTitle": "Pożar samochodu na S17",
-            "url": "https://lublin.tvp.pl/69259531/pozar-samochodu-na-s17",
-            "source": "TVP Lublin",
-            "time": "4 days ago",
-            "snippet": "Pożar samochodu na drodze ekspresowej S12/S17 między węzłami \nLublin-Sławinek, a Jastków na wysokości Bogucina. Do wypadku doszło na \ntrasie w..."
-          },
-          {
-            "articleTitle": "Pożar samochodu na drodze ekspresowej S17. Kierowcy muszą liczyć się z \nutrudnieniami w ruchu",
-            "url": "https://kurierlubelski.pl/pozar-samochodu-na-drodze-ekspresowej-s17-kierowcy-musza-liczyc-sie-z-utrudnieniami-w-ruchu/ar/c16-17468223",
-            "source": "Kurier Lubelski",
-            "time": "4 days ago",
-            "snippet": "W miejscowości Panieńszczyzna na drodze ekspresowej nr S12/S17 w okolicy \nwęzła Lublin Sławinek – węzeł Jastków doszło do pożaru samochodu..."
-          },
-          {
-            "articleTitle": "Pożar samochodu na S17. Ogromne korki na trasie Lublin – Warszawa",
-            "url": "https://www.dziennikwschodni.pl/powiat-lubelski/pozar-samochodu-na-s17-ogromne-korki-na-trasie-lublin-warszawa,n,1000323201.html",
-            "source": "Dziennik Wschodni",
-            "time": "4 days ago",
-            "snippet": "Trudno jest przejechać drogą ekspresową numer 17 w kierunku Warszawy. To \nprzez pożar samochodu osobowego."
-          },
-          {
-            "articleTitle": "Pożar samochodu na drodze ekspresowej. Są utrudnienia w ruchu na trasie w \nstronę Warszawy (wideo)",
-            "url": "https://www.lublin112.pl/pozar-samochodu-na-drodze-ekspresowej-sa-utrudnienia-w-ruchu-na-trasie-w-strone-warszawy-wideo/",
-            "source": "Lublin112.pl",
-            "time": "4 days ago",
-            "snippet": "We wtorek po południu na drodze ekspresowej doszło do pożaru pojazdu \nosobowego. Obecnie występują utrudnienia w ruchu na pasach w kierunku..."
-          }
-        ],
-        "idsForDedup": [
-          "/g/122tvdd2 /m/05pbymr",
-          "/g/122tvdd2 /m/0jw_5",
-          "/m/05pbymr /m/0jw_5"
-        ],
-        "id": "PL_lnk_jLvvdAAAAABjTM_pl",
-        "title": "Lublin, Expressway S17, Lublina bypass",
-        "entityNames": ["Lublin", "Expressway S17", "Lublina bypass"]
-      },
-      {
-        "image": {
-          "newsUrl": "https://www.pomponik.pl/plotki/news-nie-zyje-edmund-karwanski-aktor-znany-z-barw-szczescia-byly-,nId,6734992",
+          "newsUrl": "https://www.pomponik.pl/plotki/news-zebrowska-pokazala-sie-w-nowej-odslonie-splywaja-komentarze-,nId,6743337",
           "source": "Pomponik",
-          "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTvAJScQKJb4SwEoWim8JgmJXlaJey12jgFFYc8xvg7RejazEFpbWUJEnsKysg"
+          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGNUvsXT4Ok9m-n8LeMzfxj1gjBhY8VYZT6QveXBzJ70CLWagB7UoUZ6RfJnc"
         },
-        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_lsa6dQAAAAAsMM_pl&category=all&geo=PL#PL_lnk_lsa6dQAAAAAsMM_pl",
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_hxuDdgAAAAAE7M_pl&category=all&geo=PL#PL_lnk_hxuDdgAAAAAE7M_pl",
         "articles": [
           {
-            "articleTitle": "Nie żyje Edmund Karwański, aktor znany z \"Barw szczęścia\". Były dyrektor \nTeatru Kwadrat miał 94 lata",
-            "url": "https://www.pomponik.pl/plotki/news-nie-zyje-edmund-karwanski-aktor-znany-z-barw-szczescia-byly-,nId,6734992",
+            "articleTitle": "​Żebrowska pokazała się w nowej odsłonie. Spływają komentarze: \"O proszę, \nnareszcie ubrana i umyta!\"",
+            "url": "https://www.pomponik.pl/plotki/news-zebrowska-pokazala-sie-w-nowej-odslonie-splywaja-komentarze-,nId,6743337",
             "source": "Pomponik",
-            "time": "5 hours ago",
-            "snippet": "Nie żyje Edmund Karwański - tę smutną informację przekazał Teatr Kwadrat, \nktórego 94-letni aktor był także wieloletnim dyrektorem."
+            "time": "8 hours ago",
+            "snippet": "Aleksandra Żebrowska (36 l.) świetnie odnajduje się w roli influencerki, \nktóra nie boi się mówić o trudnych tematach. Przez to często..."
           },
           {
-            "articleTitle": "Zmarł gwiazdor \"Barw szczęścia\". Co za wzruszające pożegnanie kolegów",
-            "url": "https://ludzie.fakt.pl/zmarl-gwiazdor-barw-szczescia-co-za-wzruszajace-pozegnanie-kolegow/7s4gexg",
-            "source": "Ludzie",
-            "time": "4 hours ago",
-            "snippet": "Smutna wiadomość dla aktorskiego świata. W nocy z 21 na 22 kwietnia zmarł \nEdmund Karwański. Polski aktor filmowy, serialowy i teatralny,..."
-          },
-          {
-            "articleTitle": "Nie żyje Edmund Karwański, aktor serialu \"Barwy szczęścia\"",
-            "url": "https://www.rmf.fm/magazyn/news,55799,nie-zyje-edmund-karwanski-aktor-serialu-barwy-szczescia.html",
-            "source": "RMF FM",
-            "time": "4 hours ago",
-            "snippet": "Nie żyje Edmund Karwański, polski aktor teatralny, filmowy i telewizyjny \nznany m. in. z serialu \"Barwy szczęścia\". Wiadomość o jego śmierci..."
-          },
-          {
-            "articleTitle": "Edmund Karwański nie żyje. Były dyrektor Teatru Kwadrat miał 94 lata",
-            "url": "https://plejada.pl/newsy/edmund-karwanski-nie-zyje-byly-dyrektor-teatru-kwadrat-mial-94-lata/d2lg23s",
-            "source": "Plejada",
+            "articleTitle": "Fanka do Oli Żebrowskiej: \"Nareszcie ubrana i umyta\". Odpowiedziała!",
+            "url": "https://www.pudelek.pl/fanka-chwali-ubrana-i-umyta-aleksandre-zebrowska-celebrytka-odpowiada-ale-z-cycem-na-wierzchu-6891671356521024a",
+            "source": "Pudelek",
             "time": "20 hours ago",
-            "snippet": "Edmund Karwański nie żyje. W latach 1986-2010 był dyrektorem Teatru \nKwadrat. Aktor grał także w serialach \"Barwy szczęścia\",..."
+            "snippet": "Jedna z komentujących pochwaliła Aleksandrę Żebrowską pod najnowszym \nzdjęciem, nawiązując do złośliwych komentarzy na temat higieny..."
           },
           {
-            "articleTitle": "Edmund Karwański nie żyje. Aktor \"Złotopolskich\" i \"Barw szczęścia\" miał 94 \nlata",
-            "url": "https://www.plotek.pl/plotek/7,154063,29689204,edmund-karwanski-nie-zyje-aktor-zlotopolskich-i-barw-szczescia.html",
+            "articleTitle": "Aleksandra Żebrowska na najnowszym zdjęciu. Internautka: Nareszcie ubrana i \numyta. Na odpowiedź długo nie",
+            "url": "https://www.plotek.pl/plotek/7,154063,29707614,aleksandra-zebrowska-na-najnowszym-zdjeciu-internautka-nareszcie.html",
             "source": "Plotek",
-            "time": "19 hours ago",
-            "snippet": "Edmund Karwański nie żyje. Aktor znany z seriali 'Barwy szczęścia', 'Magda \nM.' czy 'Złotopolscy' miał 94 lata."
-          },
-          {
-            "articleTitle": "Nie żyje Edmund Karwański. Słynny aktor zmarł w wieku 94 lat",
-            "url": "https://gazetawroclawska.pl/nie-zyje-edmund-karwanski-slynny-aktor-zmarl-w-wieku-94-lat/ar/c13-17481185",
-            "source": "Gazeta Wrocławska",
-            "time": "19 hours ago",
-            "snippet": "W sobotę 22 kwietnia media obiegły wyjątkowo smutne wieści o śmierci \nEdmunda Karwańskiego. Aktor, którego mogliśmy oglądać m.in. w..."
-          },
-          {
-            "articleTitle": "Nie żyje Edmund Karwański. Grał w popularnym serialu",
-            "url": "https://www.o2.pl/plotki/nie-zyje-edmund-karwanski-gral-w-popularnym-serialu-6890392390240832a",
-            "source": "O2",
-            "time": "16 hours ago",
-            "snippet": "Smutne informacje przekazał w mediach społecznościowych Teatr Kwadrat. Nie \nżyje Edmund Karwański. Odszedł w wieku 94 lat."
-          },
-          {
-            "articleTitle": "Nie żyje aktor Edmund Karwański. Znali go widzowie „Barw szczęścia”",
-            "url": "https://www.wirtualnemedia.pl/artykul/edmund-karwanski-aktor-zmarl-barwy-szczescia",
-            "source": "Wirtualne Media",
-            "time": "16 hours ago",
-            "snippet": "W wieku 94 lat zmarł aktor teatralny, filmowy i serialowy Edmund Karwański, \nprzez 24 lata dyrektor stołecznego Teatru Kwadrat. O śmierci..."
-          },
-          {
-            "articleTitle": "Edmund Karwański nie żyje! Aktor był znany m.in. z \"Barw Szczęścia\" i \n\"Złotopolskich\"",
-            "url": "https://www.se.pl/wiadomosci/exclusive/edmund-karwanski-nie-zyje-aktor-byl-znany-m-in-z-barw-szczescia-i-zlotopolskich-aa-TMdc-eSJF-CviA.html",
-            "source": "Super Express",
-            "time": "18 hours ago",
-            "snippet": "Smutne wieści z Warszawy w sobotnie popołudnie. Jak poinformował Teatr \nKwadrat na swoim facebookowym profilu, nie żyje Edmun Karwański."
-          },
-          {
-            "articleTitle": "Nie żyje aktor \"Złotopolskich\" i \"Barw szczęścia\"",
-            "url": "https://www.tysol.pl/a103199-nie-zyje-aktor-zlotopolskich-i-barw-szczescia",
-            "source": "Tygodnik Solidarność",
-            "time": "18 hours ago",
-            "snippet": "Media obiegła informacja o śmierci aktora znanego z seriali Barwy \nszczęścia, Złotopolscy i Magda M. Edmund Karwański miał 94 lata."
+            "time": "1 hour ago",
+            "snippet": "Aleksandra Żebrowska znana jest z nietuzinkowego poczucia humoru. \nWielokrotnie udowodniła też, że ma do siebie dystans. Tak było też i tym..."
           }
         ],
         "idsForDedup": [
-          "/g/120_4ns1 /g/120k5wh6",
-          "/g/120_4ns1 /g/120w8frt",
-          "/g/120_4ns1 /m/02plmr9",
-          "/g/120_4ns1 /m/05qhw",
-          "/g/120_4ns1 /m/0v16cvp",
-          "/g/120k5wh6 /g/120w8frt",
-          "/g/120k5wh6 /m/02plmr9",
-          "/g/120k5wh6 /m/05qhw",
-          "/g/120k5wh6 /m/0v16cvp",
-          "/g/120w8frt /m/02plmr9",
-          "/g/120w8frt /m/05qhw",
-          "/g/120w8frt /m/0v16cvp",
-          "/m/02plmr9 /m/05qhw",
-          "/m/02plmr9 /m/0v16cvp",
-          "/m/05qhw /m/0v16cvp"
+          "/m/0btlpz /m/0glpjll",
+          "/m/0btlpz /m/0j0nh3w",
+          "/m/0glpjll /m/0j0nh3w"
         ],
-        "id": "PL_lnk_lsa6dQAAAAAsMM_pl",
-        "title": "Edmund Karwański, Barwy szczęścia, Kwadrat Theater, Złotopolscy, Magda M., Poland",
+        "id": "PL_lnk_hxuDdgAAAAAE7M_pl",
+        "title": "Aleksandra Żebrowska, Michał Żebrowski, Instagram",
+        "entityNames": ["Aleksandra Żebrowska", "Michał Żebrowski", "Instagram"]
+      },
+      {
+        "image": {
+          "newsUrl": "https://sportowefakty.wp.pl/formula-1/1057316/trzesienie-ziemi-w-zespole-f1-szef-odchodzi-na-emeryture-nastepca-juz-wybrany",
+          "source": "SportoweFakty",
+          "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTsBNd5GIFFjJj-q0oGwi48fois4OLirPkrZ4aoUevOZtxiDZey6LC_vzlWqzI"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_pREpdgAAAACM5M_pl&category=all&geo=PL#PL_lnk_pREpdgAAAACM5M_pl",
+        "articles": [
+          {
+            "articleTitle": "Trzęsienie ziemi w zespole F1. Szef odchodzi na emeryturę, następca już \nwybrany",
+            "url": "https://sportowefakty.wp.pl/formula-1/1057316/trzesienie-ziemi-w-zespole-f1-szef-odchodzi-na-emeryture-nastepca-juz-wybrany",
+            "source": "SportoweFakty",
+            "time": "20 hours ago",
+            "snippet": "Doniesienia o transferze Laurenta Mekiesa z Ferrari do Alpha Tauri pojawiły \nsię już we wtorek, ale wtedy nie spodziewano się, że Francuz tak..."
+          },
+          {
+            "articleTitle": "Ferrari wściekłe na rywala. Chodzi o transfer cennego pracownika",
+            "url": "https://sportowefakty.wp.pl/formula-1/1057465/ferrari-wsciekle-na-rywala-chodzi-o-transfer-cennego-pracownika",
+            "source": "SportoweFakty",
+            "time": "21 minutes ago",
+            "snippet": "Alpha Tauri ogłosiło, że Laurent Mekies zostanie nowym szefem zespołu. \nFrancuz ma jednak ważny wieloletni kontrakt z Ferrari i nie ustalił z..."
+          },
+          {
+            "articleTitle": "Gruntowne zmiany w zespole Orlenu. Nowe fakty ujrzały światło dzienne",
+            "url": "https://sportowefakty.wp.pl/formula-1/1057367/gruntowne-zmiany-w-zespole-orlenu-nowe-fakty-ujrzaly-swiatlo-dzienne",
+            "source": "SportoweFakty",
+            "time": "9 hours ago",
+            "snippet": "Alpha Tauri to zespół F1 bliższy polskim kibicom, bo jego sponsorem jest \nOrlen. W środę stajnia z Faenzy ogłosiła gruntowne zmiany."
+          },
+          {
+            "articleTitle": "Duża zmiana w Formule 1. Szef zespołu odchodzi po 18 latach",
+            "url": "https://www.polsatsport.pl/wiadomosc/2023-04-26/duza-zmiana-w-formule-1-szef-zespolu-odchodzi-po-18-latach/",
+            "source": "Polsat Sport",
+            "time": "23 hours ago",
+            "snippet": "Wraz z końcem roku Franz Tost przestanie pełnić funkcję szefa zespołu \nScuderia Alpha Tauri w Formule 1. Austriak kierował należącą do..."
+          },
+          {
+            "articleTitle": "Zmiany w F1. Szef zespołu Orlenu rezygnuje. Sprzedaż teamu coraz bliżej",
+            "url": "https://www.sport.pl/F1/7,96296,29704103,zmiany-w-f1-szef-zespolu-orlenu-rezygnuje-sprzedaz-teamu-coraz.html",
+            "source": "Sport.pl",
+            "time": "21 hours ago",
+            "snippet": "Coraz więcej wskazuje na to, że sponsorowany przez Orlen zespół Alpha Tauri \npójdzie pod młotek. Po sezonie 2023 z ekipą pożegna się..."
+          },
+          {
+            "articleTitle": "AlphaTauri zmieni szefa zespołu po sezonie 2023 - Parc Fermé",
+            "url": "https://parcfer.me/f1/ogromne-zmiany-w-alphatauri-mekies-zastapi-tosta-po-sezonie-2023",
+            "source": "ParcFer.me",
+            "time": "6 hours ago",
+            "snippet": "Ekipa z Faenzy ogłosiła wielkie przetasowania, jakie będą miały miejsce w \nnajbliższym czasie. Po zakończeniu kampanii 2023 ze swoim..."
+          },
+          {
+            "articleTitle": "Zmiany na szczycie w AlphaTauri",
+            "url": "https://pl.motorsport.com/f1/news/mekies-odchodzi-z-ferrari/10460862/",
+            "source": "Motorsport.com",
+            "time": "1 day ago",
+            "snippet": "Laurent Mekies, po odejściu ze stanowiska dyrektora sportowego Ferrari, \nprzeniesie się do AlphaTauri, aby zostać nowym szefem zespołu,..."
+          },
+          {
+            "articleTitle": "Oficjalnie: Tost przestanie pełnić funkcję szefa AlphaTauri po sezonie 2023",
+            "url": "https://f1.dziel-pasje.pl/F1_news-37678-Oficjalnie-Tost-przestanie-pelnic-funkcje-szefa-AlphaTauri-po-sezonie-2023.html",
+            "source": "Dziel Pasję",
+            "time": "21 hours ago",
+            "snippet": "Zgodnie z wcześniejszymi przeciekami, we włoskiej ekipy dojdzie do kilku \nprzetasowań na najważniejszych stanowiskach kierowniczych."
+          },
+          {
+            "articleTitle": "Ferrari może stracić kolejnego ważnego pracownika - Parc Fermé",
+            "url": "https://parcfer.me/f1/ferrari-moze-stracic-kolejnego-waznego-pracownika-23",
+            "source": "ParcFer.me",
+            "time": "1 day ago",
+            "snippet": "Wiele wskazuje na to, że już niedługo jeden z ważniejszych przedstawicieli \nwłoskiej ekipy opuści jej szeregi."
+          },
+          {
+            "articleTitle": "Laurent Mekies bliski transferu do AlphaTauri - Serwis F1",
+            "url": "https://f1.dziel-pasje.pl/F1_news-37670-Laurent_Mekies_bliski_transferu_do_AlphaTauri.html",
+            "source": "Dziel Pasję",
+            "time": "2 days ago",
+            "snippet": "F1 najświeższe informacje codziennie aktualizowane. F1: wyścigi, punktacja, \nwyniki. Ferrari, McLaren, Renault, Toyota, Williams, Red Bull w..."
+          }
+        ],
+        "idsForDedup": [
+          "/g/11_yy9fdw /g/11bwy_py5w",
+          "/g/11_yy9fdw /m/0179v6",
+          "/g/11_yy9fdw /m/01kw30",
+          "/g/11_yy9fdw /m/04dd5t",
+          "/g/11_yy9fdw /m/08c195",
+          "/g/11_yy9fdw /m/0gb3fl",
+          "/g/11bwy_py5w /m/0179v6",
+          "/g/11bwy_py5w /m/01kw30",
+          "/g/11bwy_py5w /m/04dd5t",
+          "/g/11bwy_py5w /m/08c195",
+          "/g/11bwy_py5w /m/0gb3fl",
+          "/m/0179v6 /m/01kw30",
+          "/m/0179v6 /m/04dd5t",
+          "/m/0179v6 /m/08c195",
+          "/m/0179v6 /m/0gb3fl",
+          "/m/01kw30 /m/04dd5t",
+          "/m/01kw30 /m/08c195",
+          "/m/01kw30 /m/0gb3fl",
+          "/m/04dd5t /m/08c195",
+          "/m/04dd5t /m/0gb3fl",
+          "/m/08c195 /m/0gb3fl"
+        ],
+        "id": "PL_lnk_pREpdgAAAACM5M_pl",
+        "title": "Laurent Mekies, Franz Tost, Scuderia Ferrari, Red Bull Racing, Scuderia Toro Rosso, Fédération Internationale de l'Automobile, Frédéric Vasseur",
         "entityNames": [
-          "Edmund Karwański",
-          "Barwy szczęścia",
-          "Kwadrat Theater",
-          "Złotopolscy",
-          "Magda M.",
-          "Poland"
+          "Laurent Mekies",
+          "Franz Tost",
+          "Scuderia Ferrari",
+          "Red Bull Racing",
+          "Scuderia Toro Rosso",
+          "Fédération Internationale de l'Automobile",
+          "Frédéric Vasseur"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://lovekrakow.pl/galeria/zycie-wrocilo-do-parku-bednarskiego-otwarty-w-nowej-odslonie-zdjecia_6512.html",
+          "source": "Lovekrakow",
+          "imgUrl": "https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQWaRu16w7RVPn8DTYdMPON8dleyPswfN-6MlmJKQVBAgma3JRbyJ0urAczcmk"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_lOlCdQAAAADWHM_pl&category=all&geo=PL#PL_lnk_lOlCdQAAAADWHM_pl",
+        "articles": [
+          {
+            "articleTitle": "Życie wróciło do parku Bednarskiego. Otwarty w nowej odsłonie [ZDJĘCIA]",
+            "url": "https://lovekrakow.pl/galeria/zycie-wrocilo-do-parku-bednarskiego-otwarty-w-nowej-odslonie-zdjecia_6512.html",
+            "source": "Lovekrakow",
+            "time": "53 minutes ago",
+            "snippet": "Po trwającej od stycznia ubiegłego roku rewitalizacji park Bednarskiego w \nPodgórzu został w czwartek oficjalnie otwarty."
+          },
+          {
+            "articleTitle": "Park Bednarskiego w krakowskim Podgórzu znowu otwarty. Byliśmy tam, wiele \nsię tam zmieniło [ZDJĘCIA]",
+            "url": "https://krakow.wyborcza.pl/krakow/7,44425,29701981,bylismy-w-parku-bednarskiego-tuz-przed-oficjalnym-otwarciem.html",
+            "source": "Kraków.Wyborcza.pl",
+            "time": "1 hour ago",
+            "snippet": "Kiedy miasto przedstawiło swój pomysł na rewitalizację parku Bednarskiego, \nokoliczni mieszkańcy rozstawili tu namioty i grzmieli,..."
+          },
+          {
+            "articleTitle": "Kraków: Park Bednarskiego otwarty po rewitalizacji",
+            "url": "https://www.wnp.pl/parlamentarny/wydarzenia/krakow-park-bednarskiego-otwarty-po-rewitalizacji,704265.html",
+            "source": "WNP",
+            "time": "11 minutes ago",
+            "snippet": "Piknikiem Retro oraz posadzeniem tulipanowca świętowano w czwartek otwarcie \nzrewitalizowanego parku Bednarskiego, jednego z najstarszych w..."
+          },
+          {
+            "articleTitle": "\"Jest zupełnie inny, ale klimat tego miejsca się nie zmienił.\" Już jutro \notwarcie Parku Bednarskiego! [FOTO]",
+            "url": "https://glos24.pl/jest-zupelnie-inny-ale-klimat-tego-miejsca-nie-zmienil-sie-juz-jutro-otwarcie-parki-bednarskiego",
+            "source": "Głos24",
+            "time": "1 day ago",
+            "snippet": "Już jutro nastąpi oficjalne otwarcie Parku Bednarskiego po trwającym dwa \nlata remoncie. Miejsce zmienił się nie do poznania, jednak wciąż..."
+          },
+          {
+            "articleTitle": "W czwartek oficjalne otwarcie parku Bednarskiego po rewitalizacji. \nMieszkańcy sami sprawdzą, czy remont się udał",
+            "url": "https://krakow.wyborcza.pl/krakow/7,44425,29702524,w-czwartek-oficjalne-otwarcie-parku-bednarskiego-po-rewitalizacji.html",
+            "source": "Kraków.Wyborcza.pl",
+            "time": "1 day ago",
+            "snippet": "Nowe drzewa i krzewy, przebudowane alejki i schody, nowe ławki i plac \nzabaw. W czwartek, po miesiącach remontu w parku im."
+          },
+          {
+            "articleTitle": "Wyremontowany park Bednarskiego oficjalnie otwarty",
+            "url": "https://www.rmf24.pl/regiony/krakow/news-wyremontowany-park-bednarskiego-oficjalnie-otwarty,nId,6743845",
+            "source": "RMF24",
+            "time": "1 hour ago",
+            "snippet": "Wyremontowany park Bednarskiego jest już dostępny dla mieszkańców. Dzisiaj \nz tej okazji zorganizowano Piknik Retro. Od godz."
+          },
+          {
+            "articleTitle": "Odnowiony Park Bednarskiego nas zachwyca: piękne miejsce, z pięknymi \nwidokami – Galerie",
+            "url": "https://lifeinkrakow.pl/galerie/w-wolnym-czasie/2140,odnowiony-park-bednarskiego-nas-zachwyca-piekne-miejsce-z-pieknymi-widokami",
+            "source": "Life in Kraków",
+            "time": "2 days ago",
+            "snippet": "W ramach naszej witryny stosujemy pliki cookies w celu świadczenia Państwu \nusług na najwyższym poziomie, w tym w sposób dostosowany do..."
+          },
+          {
+            "articleTitle": "Oficjalne otwarcie parku Bednarskiego w Krakowie",
+            "url": "https://www.radiokrakow.pl/aktualnosci/krakow/krakow-27-kwietnia-otwarcie-parku-bednarskiego-po-rewitalizacji-zdjecia",
+            "source": "Radio Kraków",
+            "time": "8 hours ago",
+            "snippet": "Radio Kraków: 27 kwietnia po południu otwarcie po rewitalizacji parku \nBednarskiego w Krakowie. Projekt zakładał przywrócenie historycznego..."
+          },
+          {
+            "articleTitle": "Park Bednarskiego był zamknięty od miesięcy. Niektórych miejsc nie \nrozpoznacie! [ZDJĘCIA]",
+            "url": "https://lovekrakow.pl/galeria/park-bednarskiego-byl-zamkniety-od-miesiecy-niektorych-miejsc-nie-rozpoznacie-zdjecia_6500.html",
+            "source": "LoveKrakow.pl",
+            "time": "3 days ago",
+            "snippet": "Już w czwartek 27 kwietnia, po gruntownym remoncie, ma zostać otwarty dla \nmieszkańców park Bednarskiego w Podgórzu."
+          },
+          {
+            "articleTitle": "Remont Parku Bednarskiego wywołał w Krakowie wielkie emocje i kontrowersje. \nJaki jest efekt końcowy? Zajrzeliśmy ...",
+            "url": "https://gazetakrakowska.pl/remont-parku-bednarskiego-wywolal-w-krakowie-wielkie-emocje-i-kontrowersje-jaki-jest-efekt-koncowy-zajrzelismy-tam-tuz-przed/ar/c1-17486087",
+            "source": "Gazeta Krakowska",
+            "time": "2 days ago",
+            "snippet": "Po sporach urzędników z mieszkańcami Krakowa o zakres przebudowy parku, po \ndługiej inwestycji, w końcu, Park Bednarskiego zostanie otwarty w..."
+          }
+        ],
+        "idsForDedup": [
+          "/g/122kzmmd /g/122t1162",
+          "/g/122kzmmd /m/0491y",
+          "/g/122t1162 /m/0491y"
+        ],
+        "id": "PL_lnk_lOlCdQAAAADWHM_pl",
+        "title": "Kraków",
+        "entityNames": ["Kraków"]
+      },
+      {
+        "image": {
+          "newsUrl": "https://www.sport.pl/pilka/7,65037,29696218,lukasz-piszczek-wyciety-z-filmu-o-lewandowski-brutalna-szczerosc.html",
+          "source": "Sport.pl",
+          "imgUrl": "https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcR75yHYBuoot4CPa1_jpIJyOizJTouckjST8M8qvm8E38PjmHvni06B7N52r7Q"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_lZoMdgAAAACZbM_pl&category=all&geo=PL#PL_lnk_lZoMdgAAAACZbM_pl",
+        "articles": [
+          {
+            "articleTitle": "Łukasz Piszczek wycięty z filmu o Lewandowskim. Brutalna szczerość",
+            "url": "https://www.sport.pl/pilka/7,65037,29696218,lukasz-piszczek-wyciety-z-filmu-o-lewandowski-brutalna-szczerosc.html",
+            "source": "Sport.pl",
+            "time": "2 days ago",
+            "snippet": "Łukasz Piszczek w poniedziałkowym 'Hejt Parku' zdradził, że został wycięty \nz dokumentu o Robercie Lewandowskim. - Widocznie nie było tyle..."
+          },
+          {
+            "articleTitle": "Wypowiedź Piszczka wycięta z filmu o Lewandowskim? Jasny komunikat",
+            "url": "https://przegladsportowy.onet.pl/ofsajd/wypowiedz-piszczka-wycieta-z-filmu-o-lewandowskim-jasny-komunikat/cz86wbw",
+            "source": "Przegląd Sportowy",
+            "time": "2 days ago",
+            "snippet": "Kilka tygodni temu swoją światową premierę miał film dokumentalny o \nreprezentancie Polski i zawodniku FC Barcelona \"Lewandowski — Nieznany\"."
+          },
+          {
+            "articleTitle": "Łukasz Piszczek szczerze o Robercie Lewandowskim. Dziś patrzy na to inaczej",
+            "url": "https://sport.fakt.pl/pilka-nozna/lukasz-piszczek-szczerze-o-robercie-lewandowskim-dzis-patrzy-na-to-inaczej/vj9k4v9",
+            "source": "Sport",
+            "time": "1 day ago",
+            "snippet": "Młodzieńcze ego być może grało większą rolę niż to, jak na pewne sprawy \npowinno się spojrzeć — przyznaje Łukasz Piszczek pytany o relacje z..."
+          },
+          {
+            "articleTitle": "Piłka nożna. Łukasz Piszczek szczerze o filmie dokumentalnym Roberta \nLewandowskiego: widocznie nie było miejsca dla mojej osoby",
+            "url": "https://sport.tvp.pl/69416663/pilka-nozna-lukasz-piszczek-szczerze-o-filmie-dokumentalnym-roberta-lewandowskiego-widocznie-nie-bylo-miejsca-dla-mojej-osoby",
+            "source": "TVP Sport",
+            "time": "2 days ago",
+            "snippet": "Niespełna miesiąc temu miała miejsce premiera filmu dokumentalnego o \nRobercie Lewandowskim pt. \"Nieznany\". To materiał opowiadający o życiu..."
+          },
+          {
+            "articleTitle": "Łukasz Piszczek otwarcie o relacjach z Robertem Lewandowskim. „Nasze drogi \nzaczęły się rozchodzić...” [WIDEO]",
+            "url": "https://sport.se.pl/pilka-nozna/reprezentacja-polski/lukasz-piszczek-otwarcie-o-relacjach-z-robertem-lewandowskim-wtedy-nasze-drogi-sie-rozeszly-aa-sCVn-Ywfh-otef.html",
+            "source": "Sport",
+            "time": "1 hour ago",
+            "snippet": "Przez wiele lat kariery zapracował na miano piłkarza niezawodnego. Choć \nŁukasz Piszczek (38 l.) borykał się z wieloma kontuzjami, to zrobił..."
+          },
+          {
+            "articleTitle": "Łukasz Piszczek wycięty z dokumentu o Robercie Lewandowskim. \"Widocznie nie \nbyło miejsca dla mojej osoby\"",
+            "url": "https://www.meczyki.pl/newsy/lukasz-piszczek-wyciety-z-dokumentu-o-robercie-lewandowskim-widocznie-nie-bylo-miejsca-dla-mojej-osoby/210532-n",
+            "source": "Meczyki",
+            "time": "2 days ago",
+            "snippet": "Łukasz Piszczek przyznał, że udzielił wypowiedzi do dokumentu o Robercie \nLewandowskim. Mimo to nie została ona pokazana w produkcji o napastniku \nBarcelony."
+          },
+          {
+            "articleTitle": "Łukasz Piszczek miał wystąpić w filmie o Lewandowskim. Został wycięty",
+            "url": "https://sport.fakt.pl/pilka-nozna/lukasz-piszczek-mial-wystapic-w-filmie-o-lewandowskim-zostal-wyciety/zqj7j1f",
+            "source": "Sport",
+            "time": "2 days ago",
+            "snippet": "Łukasz Piszczek był w poniedziałkowy wieczór gościem w \"Kanale Sportowym\". \nPodczas rozmowy z Mateuszem Borkiem przyznał, że skontaktowali..."
+          },
+          {
+            "articleTitle": "Piszczek wycięty z filmu o Lewym? \"Widocznie zabrakło minut\"",
+            "url": "https://www.goal.pl/kadra/piszczka-zabraklo-w-dokumencie-o-lewandowskim-widocznie-nie-bylo-tyle-miejsca-dla-mojej-osoby/",
+            "source": "Goal.pl",
+            "time": "2 days ago",
+            "snippet": "Łukasz Piszczek wypowiedział się na temat braku obecności w dokumencie o \nRobercie Lewandowskim. Przyznał, że spotkał się z producentami..."
+          },
+          {
+            "articleTitle": "Zaskakujące słowa Piszczka. Piłkarz wycięty z dokumentu o Lewandowskim?",
+            "url": "https://sport.wprost.pl/pilka-nozna/11192644/zaskakujace-slowa-piszczka-pilkarz-wyciety-z-dokumentu-o-lewandowskim.html",
+            "source": "Sport Wprost",
+            "time": "2 days ago",
+            "snippet": "Łukasz Piszczek był gościem programu „Hejt Park” na Kanale Sportowym. Były \npiłkarz m.in. Borussii Dortmund opowiedział o historiach z..."
+          },
+          {
+            "articleTitle": "Piszczek nie pojawił się w filmie o Lewandowskim. Powiedział, jak było",
+            "url": "https://www.o2.pl/sport/piszczek-nie-pojawil-sie-w-filmie-o-lewandowskim-powiedzial-jak-bylo-6890978074757696a",
+            "source": "O2",
+            "time": "2 days ago",
+            "snippet": "Łukasz Piszczek przez lata grał z Robertem Lewandowskim - i w klubie, i w \nreprezentacji. W filmie dokumentalnym o Lewandowskim zabrakło..."
+          }
+        ],
+        "idsForDedup": [
+          "/m/01w_d6 /m/02700lm",
+          "/m/01w_d6 /m/03b6j8",
+          "/m/01w_d6 /m/03c2x_h",
+          "/m/01w_d6 /m/0g9wf3",
+          "/m/02700lm /m/03b6j8",
+          "/m/02700lm /m/03c2x_h",
+          "/m/02700lm /m/0g9wf3",
+          "/m/03b6j8 /m/03c2x_h",
+          "/m/03b6j8 /m/0g9wf3",
+          "/m/03c2x_h /m/0g9wf3"
+        ],
+        "id": "PL_lnk_lZoMdgAAAACZbM_pl",
+        "title": "Łukasz Piszczek, Robert Lewandowski, Poland national football team, Borussia Dortmund, Jakub Błaszczykowski",
+        "entityNames": [
+          "Łukasz Piszczek",
+          "Robert Lewandowski",
+          "Poland national football team",
+          "Borussia Dortmund",
+          "Jakub Błaszczykowski"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://eurosport.tvn24.pl/video/sicko-otworzyl-wynik-meczu-wlochy-polska-w-eliminacjach-do-euro-2024,2051566.html?playlist_id=14515",
+          "source": "Eurosport",
+          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRRakgpn43PXgicvoX8Frz18jLau_pvsBgZQpEM6_iR4800yeANB5MeZwOo9lM"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_xGCgdgAAAABklM_pl&category=all&geo=PL#PL_lnk_xGCgdgAAAABklM_pl",
+        "articles": [
+          {
+            "articleTitle": "Sićko otworzył wynik meczu Włochy – Polska w eliminacjach do Euro 2024 - w \nSport TVN24",
+            "url": "https://eurosport.tvn24.pl/video/sicko-otworzyl-wynik-meczu-wlochy-polska-w-eliminacjach-do-euro-2024,2051566.html?playlist_id=14515",
+            "source": "Eurosport",
+            "time": "16 hours ago",
+            "snippet": "Szymon Sićko rzucił pierwszą bramkę w spotkaniu Włochy – Polska w \neliminacjach do Euro 2024. Zobacz tego gola."
+          }
+        ],
+        "idsForDedup": [
+          "/g/121bdg5w /m/017tnz",
+          "/g/121bdg5w /m/02q0sw8",
+          "/g/121bdg5w /m/03rjj",
+          "/g/121bdg5w /m/05qhw",
+          "/g/121bdg5w /m/0l6c9",
+          "/m/017tnz /m/02q0sw8",
+          "/m/017tnz /m/03rjj",
+          "/m/017tnz /m/05qhw",
+          "/m/017tnz /m/0l6c9",
+          "/m/02q0sw8 /m/03rjj",
+          "/m/02q0sw8 /m/05qhw",
+          "/m/02q0sw8 /m/0l6c9",
+          "/m/03rjj /m/05qhw",
+          "/m/03rjj /m/0l6c9",
+          "/m/05qhw /m/0l6c9"
+        ],
+        "id": "PL_lnk_xGCgdgAAAABklM_pl",
+        "title": "Italy, game, Poland, Piotr Żyła, Adam Małysz, US Open",
+        "entityNames": [
+          "Italy",
+          "game",
+          "Poland",
+          "Piotr Żyła",
+          "Adam Małysz",
+          "US Open"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://deon.pl/kosciol/ponad-450-seminarzystow-przyjmie-swiecenia-kaplanskie-w-usa-w-r-2023,2487344",
+          "source": "Deon",
+          "imgUrl": "https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR_6XRA-mEKSVUMUc5V4enMKAQ2h_shRf7mmMaqSuW1L8ox5NgTTK02vKX4PbM"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_poeMdgAAAAAqcM_pl&category=all&geo=PL#PL_lnk_poeMdgAAAAAqcM_pl",
+        "articles": [
+          {
+            "articleTitle": "Ponad 450 seminarzystów przyjmie święcenia kapłańskie w USA w r. 2023",
+            "url": "https://deon.pl/kosciol/ponad-450-seminarzystow-przyjmie-swiecenia-kaplanskie-w-usa-w-r-2023,2487344",
+            "source": "Deon",
+            "time": "4 hours ago",
+            "snippet": "Ponad 450 mężczyzn ma przyjąć w tym roku święcenia kapłańskie w Stanach \nZjednoczonych, a badania przeprowadzone w roczniku święceń 2023..."
+          },
+          {
+            "articleTitle": "Geneza powołań w USA: rodzina, parafia, adoracja",
+            "url": "https://www.onet.pl/informacje/kai/geneza-powolan-w-usa-rodzina-parafia-adoracja/2hl66nb,30bc1058?utm_source=detal&utm_medium=synergy&utm_campaign=allonet_detal_popularne",
+            "source": "Onet",
+            "time": "1 hour ago",
+            "snippet": "Stabilna wierząca rodzina i świadectwo księdza na parafii to dwa czynniki \nmające największy wpływ na rozwój nowych powołań do kapłaństwa czy..."
+          },
+          {
+            "articleTitle": "Przyszli księża opowiedzieli o sobie w ankietach. Co o nich wiemy?",
+            "url": "https://stacja7.pl/ze-swiata/przyszli-ksieza-opowiedzieli-o-sobie-w-ankietach-co-o-nich-wiemy/",
+            "source": "Stacja7.pl",
+            "time": "7 hours ago",
+            "snippet": "W tym roku ponad 450 diakonów przyjmie święcenia kapłańskie w Stanach \nZjednoczonych. W tym dniu dziękujmy Bogu za to, że nadal powołuje..."
+          },
+          {
+            "articleTitle": "Skąd się biorą księża? Kilkuset kleryków odpowiedziało na ankietę",
+            "url": "https://pl.aleteia.org/2023/04/27/usa-ankieta-wsrod-klerykow-rozaniec-adoracja-i-rodzina/",
+            "source": "Aleteia Polska",
+            "time": "6 hours ago",
+            "snippet": "Ankieta została przeprowadzona wśród 458 kleryków, którzy mają przyjąć \nsakrament święceń w tym roku. Respondenci mają ze sobą wiele..."
+          },
+          {
+            "articleTitle": "Geneza powołań w USA: rodzina, parafia, adoracja",
+            "url": "https://m.niedziela.pl/artykul/91112/Geneza-powolan-w-USA-rodzina-parafia",
+            "source": "niedziela.pl",
+            "time": "1 hour ago",
+            "snippet": "Stabilna wierząca rodzina i świadectwo księdza na parafii to dwa czynniki \nmające największy wpływ na rozwój nowych powołań do kapłaństwa czy..."
+          }
+        ],
+        "idsForDedup": [
+          "/g/122q9frb /g/122sxhfj",
+          "/g/122q9frb /m/02vxy_",
+          "/g/122q9frb /m/09c7w0",
+          "/g/122sxhfj /m/02vxy_",
+          "/g/122sxhfj /m/09c7w0",
+          "/m/02vxy_ /m/09c7w0"
+        ],
+        "id": "PL_lnk_poeMdgAAAAAqcM_pl",
+        "title": "Catholic Church, Survey Method, United States",
+        "entityNames": ["Catholic Church", "Survey Method", "United States"]
+      },
+      {
+        "image": {
+          "newsUrl": "https://tvn24.pl/polska/donald-tusk-wladyslaw-kosiniak-kamysz-i-szymon-holownia-to-ludzie-przyzwoici-patrioci-chce-z-nimi-wspolpracowac-6980127",
+          "source": "TVN24",
+          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhOWzXPVRzXWdnwsee5t63xiLH4C2m27H9y66pVwiHQ2btvZRFqFUh20dr-XU"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_P5gHdgAAAAA4bM_pl&category=all&geo=PL#PL_lnk_P5gHdgAAAAA4bM_pl",
+        "articles": [
+          {
+            "articleTitle": "Tusk: Kosiniak-Kamysz i Hołownia to ludzie przyzwoici, patrioci. Chcę z \nnimi współpracować",
+            "url": "https://tvn24.pl/polska/donald-tusk-wladyslaw-kosiniak-kamysz-i-szymon-holownia-to-ludzie-przyzwoici-patrioci-chce-z-nimi-wspolpracowac-6980127",
+            "source": "TVN24",
+            "time": "2 days ago",
+            "snippet": "Mogę się z nimi nie zgadzać w sprawie kształtu list wyborczych, ale to \nprzyzwoici ludzie, którzy nie zdradzą etosu polityka, nie wezmą..."
+          },
+          {
+            "articleTitle": "Strzeżcie się Tuska, nawet gdy przynosi dary! Czy umizgi do \nKosiniaka-Kamysza i Hołowni przyniosą efekt?",
+            "url": "https://wpolityce.pl/polityka/644101-strzezcie-sie-tuska-nawet-gdy-przynosi-dary",
+            "source": "wPolityce",
+            "time": "2 days ago",
+            "snippet": "Władysław Kosiniak-Kamysz i Szymon Hołownia pewnie pękają z dumy – właśnie \nTusk wydal im certyfikat przyzwoitości i patriotyzmu na spotkaniu..."
+          },
+          {
+            "articleTitle": "Tusk przymila się do Kosiniaka-Kamysza i Hołowni?",
+            "url": "https://wpolityce.pl/polityka/644009-tusk-przymila-sie-do-kosiniaka-kamysza-i-holowni",
+            "source": "wPolityce",
+            "time": "2 days ago",
+            "snippet": "Prezes PSL Władysław Kosiniak-Kamysz i lider Polski 2050 Szymon Hołownia to \nludzie przyzwoici; możemy się nie zgadzać, ale ja chcę z nimi..."
+          }
+        ],
+        "idsForDedup": [
+          "/g/122q9gld /g/12365lx1",
+          "/g/122q9gld /m/02_fg6",
+          "/g/122q9gld /m/05_6b",
+          "/g/122q9gld /m/05qhw",
+          "/g/122q9gld /m/09sgd",
+          "/g/12365lx1 /m/02_fg6",
+          "/g/12365lx1 /m/05_6b",
+          "/g/12365lx1 /m/05qhw",
+          "/g/12365lx1 /m/09sgd",
+          "/m/02_fg6 /m/05_6b",
+          "/m/02_fg6 /m/05qhw",
+          "/m/02_fg6 /m/09sgd",
+          "/m/05_6b /m/05qhw",
+          "/m/05_6b /m/09sgd",
+          "/m/05qhw /m/09sgd"
+        ],
+        "id": "PL_lnk_P5gHdgAAAAA4bM_pl",
+        "title": "Donald Tusk, Władysław Kosiniak-Kamysz, Szymon Hołownia, Polish People's Party, Poland, Civic Platform",
+        "entityNames": [
+          "Donald Tusk",
+          "Władysław Kosiniak-Kamysz",
+          "Szymon Hołownia",
+          "Polish People's Party",
+          "Poland",
+          "Civic Platform"
+        ]
+      },
+      {
+        "image": {
+          "newsUrl": "https://przegladsportowy.onet.pl/pilka-nozna/bundesliga/rewolucja-niemieckiego-klubu-koniec-z-placeniem-za-bilety-na-mecze/dkf1k3y",
+          "source": "Przegląd Sportowy",
+          "imgUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSw-zVyhsmMsbmXa3y6x4c4O-9ioRrwF0J24gOMgMf8GNvaRLUx49kQR306ZWI"
+        },
+        "shareUrl": "https://trends.google.com/trends/trendingsearches/realtime?id=PL_lnk_Rec-dgAAAAB7EM_pl&category=all&geo=PL#PL_lnk_Rec-dgAAAAB7EM_pl",
+        "articles": [
+          {
+            "articleTitle": "Rewolucja niemieckiego klubu. Koniec z płaceniem za bilety na mecze",
+            "url": "https://przegladsportowy.onet.pl/pilka-nozna/bundesliga/rewolucja-niemieckiego-klubu-koniec-z-placeniem-za-bilety-na-mecze/dkf1k3y",
+            "source": "Przegląd Sportowy",
+            "time": "10 hours ago",
+            "snippet": "Niemiecki klub piłkarski Fortuna Duesseldorf występujący aktualnie w 2. \nlidze planuje umożliwić fanom bezpłatne uczestnictwo w meczach — ogłosił \noficjalnie..."
+          },
+          {
+            "articleTitle": "Ukłon dla ludzi czy marketingowy majstersztyk? Niemcy dokonują rewolucji",
+            "url": "https://przegladsportowy.onet.pl/pilka-nozna/bundesliga/uklon-dla-ludzi-czy-marketingowy-majstersztyk-niemcy-dokonuja-rewolucji/dl29t1z",
+            "source": "Przegląd Sportowy",
+            "time": "9 hours ago",
+            "snippet": "Fortuna Duesseldorf zachwyca kibiców i branżę piłkarską. Drugoligowy klub \nchce umożliwić swoim kibicom oglądanie meczów za darmo. Kryje się..."
+          },
+          {
+            "articleTitle": "2. Bundesliga. Fortuna Duesseldorf chce umożliwić fanom wolny wstęp na mecze",
+            "url": "https://sport.tvp.pl/69466892/2-bundesliga-fortuna-duesseldorf-chce-umozliwic-fanom-wolny-wstep-na-mecze",
+            "source": "TVP Sport",
+            "time": "10 hours ago",
+            "snippet": "Niemiecki klub piłkarski Fortuna Duesseldorf występujący aktualnie w 2. \nlidze planuje umożliwić fanom bezpłatne uczestnictwo w meczach..."
+          },
+          {
+            "articleTitle": "Niemiecki klub zaskakuje. Chce wpuszczać kibiców za darmo",
+            "url": "https://sportowefakty.wp.pl/pilka-nozna/1057159/niemiecki-klub-zaskakuje-chce-wpuszczac-kibicow-za-darmo",
+            "source": "SportoweFakty",
+            "time": "1 day ago",
+            "snippet": "Nie chodzi o klub z niskiej ligi w Niemczech, a przedstawiciela 2. \nBundesligi. Fortuna Duesseldorf, której piłkarzami są Michał Karbownik i..."
+          },
+          {
+            "articleTitle": "Klub Polaków szykuje \"rewolucję\". Nowatorski pomysł",
+            "url": "https://www.sport.pl/pilka/7,65081,29700423,klub-polakow-szykuje-rewolucje-nowatorski-pomysl.html",
+            "source": "Sport.pl",
+            "time": "1 day ago",
+            "snippet": "Fortuna Duesseldorf ma problemy z zapełnieniem stadionu i w związku z tym \ndziałacze klubu wpadli na nowatorski pomysł, by temu zaradzić."
+          },
+          {
+            "articleTitle": "Fortuna Düsseldorf z wyjątkowym pomysłem. UCZCIWA cena za bilet",
+            "url": "https://transfery.info/aktualnosci/fortuna-dusseldorf-z-wyjatkowym-pomyslem-uczciwa-cena-za-bilet/183958",
+            "source": "Transfery.info",
+            "time": "1 day ago",
+            "snippet": "Fortuna Düsseldorf planuje wdrożyć w życie pomysł, który może \nzrewolucjonizować podejście klubów do kibiców. Niemiecki klub chce \nzaoferować..."
+          },
+          {
+            "articleTitle": "Ukłon dla ludzi czy marketingowy majstersztyk? Niemcy dokonują rewolucji",
+            "url": "https://www.onet.pl/sport/przeglad-sportowy/uklon-dla-ludzi-czy-marketingowy-majstersztyk-niemcy-dokonuja-rewolucji/dl29t1z,5e4c2379",
+            "source": "Onet",
+            "time": "3 days ago",
+            "snippet": "Fortuna Duesseldorf zachwyca kibiców i branżę piłkarską. Drugoligowy klub \nchce umożliwić swoim kibicom oglądanie meczów za darmo. Kryje się..."
+          },
+          {
+            "articleTitle": "Liga niemiecka. Fortuna Duesseldorf chce umożliwić fanom wolny wstęp na \nmecze. \"Ten klub należy do jego fanów\"",
+            "url": "https://gol24.pl/liga-niemiecka-fortuna-duesseldorf-chce-umozliwic-fanom-wolny-wstep-na-mecze-ten-klub-nalezy-do-jego-fanow/ar/c2-17494131",
+            "source": "Gol24",
+            "time": "9 hours ago",
+            "snippet": "Liga niemiecka. Klub 2. Bundesligi Fortuna Duesseldorf planuje umożliwić \nfanom bezpłatne uczestnictwo w meczach - ogłosił oficjalnie..."
+          },
+          {
+            "articleTitle": "Klub Polaka postawił na rewolucyjny ruch! Wejście na stadion ZA DARMO? To \nmoże być przełom",
+            "url": "https://sport.se.pl/pilka-nozna/bundesliga/klub-polaka-postawil-na-rewolucyjny-ruch-wejscie-na-stadion-za-darmo-to-moze-byc-przelom-aa-gPeC-hZmF-47Su.html",
+            "source": "Sport",
+            "time": "6 hours ago",
+            "snippet": "Fortuna Dusseldorf występuje na poziomie 2. Bundesligi i jest jednym z \nklubów aspirujących do awansu na najwyższy poziom rozgrywkowy w..."
+          }
+        ],
+        "idsForDedup": [
+          "/g/121bdg5w /m/0345h",
+          "/g/121bdg5w /m/037169",
+          "/g/121bdg5w /m/0689lg",
+          "/g/121bdg5w /m/09fj8w",
+          "/g/121bdg5w /m/0yvr942",
+          "/m/0345h /m/037169",
+          "/m/0345h /m/0689lg",
+          "/m/0345h /m/09fj8w",
+          "/m/0345h /m/0yvr942",
+          "/m/037169 /m/0689lg",
+          "/m/037169 /m/09fj8w",
+          "/m/037169 /m/0yvr942",
+          "/m/0689lg /m/09fj8w",
+          "/m/0689lg /m/0yvr942",
+          "/m/09fj8w /m/0yvr942"
+        ],
+        "id": "PL_lnk_Rec-dgAAAAB7EM_pl",
+        "title": "Fortuna Düsseldorf, game, Bundesliga, Germany, 2. Bundesliga, Dawid Kownacki",
+        "entityNames": [
+          "Fortuna Düsseldorf",
+          "game",
+          "Bundesliga",
+          "Germany",
+          "2. Bundesliga",
+          "Dawid Kownacki"
         ]
       }
     ]
   },
-  "date": "Apr 23, 2023",
+  "date": "Apr 27, 2023",
   "hideAllImages": false
 }

@@ -9,64 +9,191 @@ const hook = new Webhook(
   "https://discord.com/api/webhooks/1099438330027970570/bGlucgJjz8av7f58y8yAbmb0eC2U2tGqOJTb-YH5_BWT7o-_CAE3eZu01KEU135SCuTC"
 );
 
-const app = express();
+const books = [
+  "Antygona",
+  "Odprawa posłów greckich",
+  "Makbet",
+  "Skąpiec",
+  "Konrad Wallenrod",
+  "Dziady",
+  "Kordian",
+  "Lalka",
+  "Gloria victis",
+  "Potop",
+  "Zbrodnia i kara",
+  "Wesele",
+  "Przedwiośnie",
+  "Dżuma",
+  "1984",
+  "Sofokles",
+  "Molier",
+  "Żeromski",
+  "Borowski",
+  "Orwell",
+  "Skarga",
+  "Anonim",
+  "Homer",
+  "Biblia",
+  "Parandowski",
+  "Kochanowski",
+  "Szekspir",
+  "Mickiewicz",
+  "Słowacki",
+  "Prus",
+  "Orzeszkowa",
+  "Wyspiański",
+  "Reymont",
+  "Sienkiewicz",
+  "Pan Tadeusz",
+  "Ferdydurke",
+  "Gombrowicz",
+  "motyw",
+  "konflikt",
+  "problematyka",
+  "bohater literacki",
+  "bohater",
+];
 
 //discord webhook
-const IMAGE_URL = "https://homepages.cae.wisc.edu/~ece533/images/airplane.png";
 hook.setUsername("Łe");
-hook.setAvatar(IMAGE_URL);
 
-app.get("/", async (req, res) => {
-  const data = await getTrend();
-  console.log(data, "data");
-  // for (i of data) {
-  //   let embed = new MessageBuilder()
-  //     .setTitle(i.query)
-  //     .addField("1", i.title, true)
-  //     .addField("2", i.snippet)
-  //     .setColor("#00b0f4");
-  //   hook.send(embed);
-  // }
+// app.get("/", async (req, res) => {
+//   const data = await getTrend();
+//   for (i of data) {
+//     let embed = new MessageBuilder()
+//       .setTitle(i.title)
+//       .addField("Link: ", i.link, true)
+//       .addField("From: ", i.form)
+//       .setColor("#00b0f4");
+//     hook.send(embed);
+//   }
 
-  res.send(data);
-});
+//   res.send(data);
+// });
 
-app.listen(3000, () =>
-  console.log("Example app listening on port http://localhost:3000")
-);
+// app.listen(3000, () =>
+//   console.log("Example app listening on port http://localhost:3000")
+// );
 
-function getTrend(keyword) {
-  return googleTrends.realTimeTrends({
-    geo: "PL",
-  });
-  // .then(function (results) {
-  //   console.log(typeof results);
-  //   // let chuj = fs.writeFile("test1.json", results, function (err) {
-  //   //   if (err) {
-  //   //     return console.log(err);
-  //   //   }
-  //   //   console.log("The file was saved!");
-  //   // });
-
-  //   // results = JSON.parse(results);
-  //   // let query = "";
-  //   // let title = "";
-  //   // let snippet = "";
-  //   // let arr = [];
-  //   // let element = {};
-
-  //   // for (i of results.default.trendingSearchesDays[0].trendingSearches) {
-  //   //   query = i.title.query;
-  //   //   for (j of i.articles) {
-  //   //     title = j.title;
-  //   //     snippet = j.snippet;
-  //   //     element = { query: query, title: title, snippet: snippet };
-  //   //     arr.push(element);
-  //   //   }
-  //   // }
-
-  //   // console.log(arr, "arr");
-
-  //   return results;
-  // });
+function scanElement(arr, tekst) {
+  for (let i = 0; i < arr.length; i++) {
+    if (tekst.toLowerCase().includes(arr[i].toLowerCase())) {
+      return true;
+    }
+  }
+  return false;
 }
+
+async function getTrend() {
+  let subjects = [];
+  let ids = [];
+  const ress = await googleTrends.realTimeTrends({
+    geo: "PL",
+    hl: "polish",
+  });
+  let result = JSON.parse(ress);
+  result = result.storySummaries;
+
+  for (i of result.trendingStories) {
+    //title
+    if (scanElement(books, i.title)) {
+      if (!scanElement(ids, i.id)) {
+        subjects.push({ from: "title", title: i.title, link: i.shareUrl });
+        ids.push(i.id);
+      } else {
+        break;
+      }
+    }
+    //entityNames
+    for (j of i.entityNames) {
+      if (scanElement(books, j)) {
+        if (!scanElement(ids, i.id)) {
+          subjects.push({
+            from: "entityNames",
+            title: i.title,
+            link: i.shareUrl,
+          });
+          ids.push(i.id);
+        } else {
+          break;
+        }
+      }
+    }
+    //articles
+    for (j of i.articles) {
+      if (scanElement(books, j.articleTitle) || scanElement(books, j.snippet)) {
+        if (!scanElement(ids, i.id)) {
+          subjects.push({
+            from: "articles",
+            title: i.title,
+            link: i.shareUrl,
+            article: j.url,
+          });
+          ids.push(i.id);
+        } else {
+          break;
+        }
+      }
+    }
+  }
+
+  return subjects;
+  // result.storySummaries.trendingStories[0].title
+  // result.storySummaries.trendingStories[0].entityNames[0]
+  // result.storySummaries.trendingStories[0].articles[0].articleTitle
+  // result.storySummaries.trendingStories[0].articles[0].snippet
+
+  // return ress;
+}
+
+async function main() {
+  // console.log("in fun");
+  const data = await getTrend();
+  if (data) {
+    for (i of data) {
+      if (i.from === "articles") {
+        let embed = new MessageBuilder()
+          .setTitle(i.title)
+          .addField("Link: ", i.link, true)
+          .addField("From: ", i.from)
+          .addField("From article: ", i.article)
+          .setColor("#00ff00")
+          .setFooter(
+            "https://maciekk.me",
+            "https://cdn.discordapp.com/embed/avatars/0.png"
+          )
+          .setTimestamp();
+        hook.send(embed);
+      } else {
+        let embed = new MessageBuilder()
+          .setTitle(i.title)
+          .addField("Link: ", i.link, true)
+          .addField("From: ", i.from)
+          .setColor("#00ff00")
+          .setFooter(
+            "https://maciekk.me",
+            "https://cdn.discordapp.com/embed/avatars/0.png"
+          )
+          .setTimestamp();
+        hook.send(embed);
+      }
+    }
+  } else {
+    let embed = new MessageBuilder()
+      .setTitle("No wyciek")
+      .addField("Autor: ", "https://maciekk.me")
+      .addField("Śledzona słowa: ", "https://maciekk.me/maturawyciek.html")
+      .addField("INFO: ", "Nie znaleziono żadych wycieków")
+      .setColor("#ff0000")
+      .setFooter(
+        "https://maciekk.me",
+        "https://cdn.discordapp.com/embed/avatars/0.png"
+      )
+      .setTimestamp();
+    hook.send(embed);
+  }
+}
+
+// main();
+
+setInterval(main, 10 * 60 * 1000); // 10 minut = 10 * 60 * 1000 milisekund
