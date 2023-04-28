@@ -1,0 +1,9 @@
+name = "royal-cake-2bc9"
+main = "src/index.ts"
+compatibility_date = "2023-04-28"
+node_compat = true
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]

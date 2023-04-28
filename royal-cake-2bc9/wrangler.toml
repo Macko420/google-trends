@@ -1,0 +1,8 @@
+name = "royal-cake-2bc9"
+main = "src/index.js"
+compatibility_date = "2023-04-28"
+usage_model = "bundled"
+env = { }
+
+[triggers]
+crons = [ ]
