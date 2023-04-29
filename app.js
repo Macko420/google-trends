@@ -1,8 +1,9 @@
 import googleTrends from "google-trends-api";
 import { Webhook, MessageBuilder } from "discord-webhook-node";
+import cron from "node-cron";
 // import { sendRequest } from "./web.js";
 const hookUrl =
-  "https://discord.com/api/webhooks/1099438330027970570/bGlucgJjz8av7f58y8yAbmb0eC2U2tGqOJTb-YH5_BWT7o-_CAE3eZu01KEU135SCuTC";
+  "https://discord.com/api/webhooks/1101588547103895565/VC-0svjdb7NEk274qMPhGy5NjkqKwPnXEGamzqtK0sOK8lPb69LM5-jDzCQ_AiknF1uG";
 
 const hook = new Webhook(hookUrl);
 
@@ -70,7 +71,7 @@ async function getTrend() {
   let ids = [];
   const ress = await googleTrends.realTimeTrends({
     geo: "PL",
-    hl: "polish",
+    hl: "pt-BR",
   });
   let result = JSON.parse(ress);
   result = result.storySummaries;
@@ -127,6 +128,26 @@ async function getTrend() {
   // return ress;
 }
 
+
+async function getByRegion() {
+  let query = 
+  {
+    keyword: books,
+    geo: "PL",
+    resolution: "REGION",
+    hl: "pt-BR",
+  }
+
+  console.log(que)
+  const ress = await googleTrends.interestByRegion(query).catch((err)=>{
+    console.log('err: ', err, " err")
+  });
+
+  // console.log(ress);
+}
+
+getByRegion();
+
 async function main() {
   // console.log("in fun");
   const data = await getTrend();
@@ -144,7 +165,6 @@ async function main() {
             "https://cdn.discordapp.com/embed/avatars/0.png"
           )
           .setTimestamp();
-        console.log(JSON.stringify(embed));
         hook.send(embed);
       } else {
         let embed = new MessageBuilder()
@@ -176,6 +196,8 @@ async function main() {
   }
 }
 
-main();
+// cron.schedule("0-59 * * * *", () => {
+// main();
+// });
 
 // setInterval(main, 10000); // 10 minut = 10 * 60 * 1000 milisekund
