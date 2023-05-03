@@ -1,0 +1,340 @@
+{
+  //   "link": "https://trends.google.pl/trends/api/widgetdata/relatedsearches?hl=pl&tz=-120&req={"restriction":{"geo":{"country":"PL"},"time":"2023-05-02T14\\:44\\:56 2023-05-03T14\\:44\\:56","originalTimeRangeForExploreUrl":"now 1-d","complexKeywordsRestriction":{"keyword":[{"type":"BROAD","value":"lalka"}]}},"keywordType":"QUERY","metric":["TOP","RISING"],"trendinessSettings":{"compareTime":"2023-05-01T14\\:44\\:56 2023-05-02T14\\:44\\:56"},"requestOptions":{"property":"","backend":"CM","category":0},"language":"pl","userCountryCode":"PL","userConfig":{"userType":"USER_TYPE_LEGIT_USER"}}&token=APP6_UEAAAAAZFPE6AqkUo3i-HcQy0rdj9JPbJZlPPuC"',
+  "default": {
+    "rankedList": [
+      {
+        "rankedKeyword": [
+          {
+            "query": "streszczenie lalka",
+            "value": 100,
+            "formattedValue": "100",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dstreszczenie+lalka\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "wesele",
+            "value": 39,
+            "formattedValue": "39",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dwesele\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "lalka motywy",
+            "value": 38,
+            "formattedValue": "38",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dlalka+motywy\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "dziady",
+            "value": 37,
+            "formattedValue": "37",
+            "hasData": true,
+            "link": "/trends/explore?q\u003ddziady\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "pan tadeusz",
+            "value": 30,
+            "formattedValue": "30",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dpan+tadeusz\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "lalka film",
+            "value": 28,
+            "formattedValue": "28",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dlalka+film\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "dziady 3",
+            "value": 25,
+            "formattedValue": "25",
+            "hasData": true,
+            "link": "/trends/explore?q\u003ddziady+3\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "streszczenie szczeg\u00f3\u0142owe lalka",
+            "value": 25,
+            "formattedValue": "25",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dstreszczenie+szczeg%C3%B3%C5%82owe+lalka\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "dziady cz 3",
+            "value": 22,
+            "formattedValue": "22",
+            "hasData": true,
+            "link": "/trends/explore?q\u003ddziady+cz+3\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "wokulski",
+            "value": 18,
+            "formattedValue": "18",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dwokulski\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "wesele streszczenie",
+            "value": 16,
+            "formattedValue": "16",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dwesele+streszczenie\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "zbrodnia i kara",
+            "value": 15,
+            "formattedValue": "15",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dzbrodnia+i+kara\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "lalka motyw rodziny",
+            "value": 15,
+            "formattedValue": "15",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dlalka+motyw+rodziny\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "lalka bohaterowie",
+            "value": 15,
+            "formattedValue": "15",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dlalka+bohaterowie\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "motyw rodziny",
+            "value": 14,
+            "formattedValue": "14",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dmotyw+rodziny\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "streszczenie pan tadeusz",
+            "value": 12,
+            "formattedValue": "12",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dstreszczenie+pan+tadeusz\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "kordian",
+            "value": 12,
+            "formattedValue": "12",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dkordian\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "lalki",
+            "value": 12,
+            "formattedValue": "12",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dlalki\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "dziady cz 3 streszczenie",
+            "value": 12,
+            "formattedValue": "12",
+            "hasData": true,
+            "link": "/trends/explore?q\u003ddziady+cz+3+streszczenie\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "lalka prus",
+            "value": 11,
+            "formattedValue": "11",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dlalka+prus\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "lalka opracowanie",
+            "value": 11,
+            "formattedValue": "11",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dlalka+opracowanie\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "matura polski",
+            "value": 10,
+            "formattedValue": "10",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dmatura+polski\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "barbie lalka",
+            "value": 10,
+            "formattedValue": "10",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dbarbie+lalka\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "przedwio\u015bnie",
+            "value": 10,
+            "formattedValue": "10",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dprzedwio%C5%9Bnie\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "lalka serial",
+            "value": 9,
+            "formattedValue": "9",
+            "hasData": true,
+            "link": "/trends/explore?q\u003dlalka+serial\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          }
+        ]
+      },
+      {
+        "rankedKeyword": [
+          {
+            "query": "motyw spo\u0142ecze\u0144stwa w literaturze",
+            "value": 53250,
+            "formattedValue": "Przebicie",
+            "link": "/trends/explore?q\u003dmotyw+spo%C5%82ecze%C5%84stwa+w+literaturze\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "obraz rodziny w lalce",
+            "value": 42400,
+            "formattedValue": "Przebicie",
+            "link": "/trends/explore?q\u003dobraz+rodziny+w+lalce\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "obraz rodziny w literaturze",
+            "value": 36900,
+            "formattedValue": "Przebicie",
+            "link": "/trends/explore?q\u003dobraz+rodziny+w+literaturze\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "motyw spoleczenstwa wesele",
+            "value": 23300,
+            "formattedValue": "Przebicie",
+            "link": "/trends/explore?q\u003dmotyw+spoleczenstwa+wesele\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "motyw patriotyzmu w literaturze",
+            "value": 21400,
+            "formattedValue": "Przebicie",
+            "link": "/trends/explore?q\u003dmotyw+patriotyzmu+w+literaturze\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "odprawa pos\u0142\u00f3w greckich streszczenie",
+            "value": 18750,
+            "formattedValue": "Przebicie",
+            "link": "/trends/explore?q\u003dodprawa+pos%C5%82%C3%B3w+greckich+streszczenie\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "czlowiek wobec zagrozen",
+            "value": 18600,
+            "formattedValue": "Przebicie",
+            "link": "/trends/explore?q\u003dczlowiek+wobec+zagrozen\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "motyw spoleczenstwa pan tadeusz",
+            "value": 18500,
+            "formattedValue": "Przebicie",
+            "link": "/trends/explore?q\u003dmotyw+spoleczenstwa+pan+tadeusz\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "motyw spoleczenstwa lalka",
+            "value": 1400,
+            "formattedValue": "+ 1\u00a0400%",
+            "link": "/trends/explore?q\u003dmotyw+spoleczenstwa+lalka\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "motyw spoleczenstwa",
+            "value": 1200,
+            "formattedValue": "+ 1\u00a0200%",
+            "link": "/trends/explore?q\u003dmotyw+spoleczenstwa\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "google trends",
+            "value": 1200,
+            "formattedValue": "+ 1\u00a0200%",
+            "link": "/trends/explore?q\u003dgoogle+trends\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "motyw rodziny w lalce",
+            "value": 1000,
+            "formattedValue": "+ 1\u00a0000%",
+            "link": "/trends/explore?q\u003dmotyw+rodziny+w+lalce\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "motyw rodziny",
+            "value": 900,
+            "formattedValue": "+ 900%",
+            "link": "/trends/explore?q\u003dmotyw+rodziny\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "lalka streszczenie krotkie",
+            "value": 850,
+            "formattedValue": "+ 850%",
+            "link": "/trends/explore?q\u003dlalka+streszczenie+krotkie\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "lalka motyw spo\u0142ecze\u0144stwa",
+            "value": 800,
+            "formattedValue": "+ 800%",
+            "link": "/trends/explore?q\u003dlalka+motyw+spo%C5%82ecze%C5%84stwa\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "lalka motyw rodziny",
+            "value": 700,
+            "formattedValue": "+ 700%",
+            "link": "/trends/explore?q\u003dlalka+motyw+rodziny\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "motyw rodziny w literaturze",
+            "value": 650,
+            "formattedValue": "+ 650%",
+            "link": "/trends/explore?q\u003dmotyw+rodziny+w+literaturze\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "spo\u0142ecze\u0144stwo w lalce",
+            "value": 600,
+            "formattedValue": "+ 600%",
+            "link": "/trends/explore?q\u003dspo%C5%82ecze%C5%84stwo+w+lalce\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "motyw spo\u0142ecze\u0144stwa",
+            "value": 600,
+            "formattedValue": "+ 600%",
+            "link": "/trends/explore?q\u003dmotyw+spo%C5%82ecze%C5%84stwa\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "lalka spo\u0142ecze\u0144stwo",
+            "value": 550,
+            "formattedValue": "+ 550%",
+            "link": "/trends/explore?q\u003dlalka+spo%C5%82ecze%C5%84stwo\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "motyw spo\u0142ecze\u0144stwa w lalce",
+            "value": 450,
+            "formattedValue": "+ 450%",
+            "link": "/trends/explore?q\u003dmotyw+spo%C5%82ecze%C5%84stwa+w+lalce\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "jacek soplica",
+            "value": 300,
+            "formattedValue": "+ 300%",
+            "link": "/trends/explore?q\u003djacek+soplica\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "dzuma motywy",
+            "value": 300,
+            "formattedValue": "+ 300%",
+            "link": "/trends/explore?q\u003ddzuma+motywy\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "makbet streszczenie szczeg\u00f3\u0142owe",
+            "value": 300,
+            "formattedValue": "+ 300%",
+            "link": "/trends/explore?q\u003dmakbet+streszczenie+szczeg%C3%B3%C5%82owe\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          },
+          {
+            "query": "dekadentyzm",
+            "value": 300,
+            "formattedValue": "+ 300%",
+            "link": "/trends/explore?q\u003ddekadentyzm\u0026date\u003dnow+1-d\u0026geo\u003dPL"
+          }
+        ]
+      }
+    ]
+  }
+}

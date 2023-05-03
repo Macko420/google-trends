@@ -1,10 +1,10 @@
 import googleTrends from "google-trends-api";
 import { Webhook, MessageBuilder } from "discord-webhook-node";
-import cron from "node-cron";
+import fs from "fs";
+// import cron from "node-cron";
 // import { sendRequest } from "./web.js";
 const hookUrl =
   "https://discord.com/api/webhooks/1101588547103895565/VC-0svjdb7NEk274qMPhGy5NjkqKwPnXEGamzqtK0sOK8lPb69LM5-jDzCQ_AiknF1uG";
-
 const hook = new Webhook(hookUrl);
 
 const books = [
@@ -128,25 +128,57 @@ async function getTrend() {
   // return ress;
 }
 
+async function relatedTopics() {
+  // let query = {
+  //   keyword: books,
+  //   geo: "PL",
+  //   resolution: "REGION",
+  //   hl: "pt-BR",
+  // };
 
-async function getByRegion() {
-  let query = 
-  {
-    keyword: books,
-    geo: "PL",
-    resolution: "REGION",
-    hl: "pt-BR",
-  }
-
-  console.log(que)
-  const ress = await googleTrends.interestByRegion(query).catch((err)=>{
-    console.log('err: ', err, " err")
+  let cout = 0;
+  let data = "";
+  // for (let i of books) {
+  await googleTrends
+    .relatedQueries({
+      keyword: "lalka",
+      geo: "PL",
+      // category: 958,
+      startTime: new Date("2023-05-03"),
+    })
+    .then((res) => {
+      console.log(res, "res");
+      data = res;
+    })
+    .catch((err) => {
+      console.log(err, "err");
+      data = "err" + JSON.stringify(err);
+    });
+  fs.writeFile("test.json", data, function (err) {
+    if (err) throw err;
+    console.log("Saved!");
   });
-
-  // console.log(ress);
 }
+async function autoComplete() {
+  let data;
 
-getByRegion();
+  await googleTrends
+    .autoComplete({ keyword: "lalka", hl: "pl" })
+    .then(function (results) {
+      console.log(results);
+      data = results;
+    })
+    .catch(function (err) {
+      console.error(err);
+      data = "err" + JSON.stringify(err);
+    });
+  fs.writeFile("test.json", data, function (err) {
+    if (err) throw err;
+    console.log("Saved!");
+  });
+}
+// relatedTopics();
+autoComplete();
 
 async function main() {
   // console.log("in fun");
