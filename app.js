@@ -6,7 +6,7 @@ const { get } = require("http");
 const util = require("util");
 const { checkPrimeSync } = require("crypto");
 const hook = new Webhook(
-  "https://discord.com/api/webhooks/1099438330027970570/bGlucgJjz8av7f58y8yAbmb0eC2U2tGqOJTb-YH5_BWT7o-_CAE3eZu01KEU135SCuTC"
+  //webhook link
 );
 
 const books = [
